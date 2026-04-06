@@ -16,7 +16,7 @@
 
 ## 🎯 The Business Problem
 
-Mobility companies like Rapido, BluSmart, and Yulu lose **35–50% of fleet value daily** to idle vehicles. Vehicles sit in low-demand residential zones while high-demand tech parks and transit hubs face 18-minute wait times. Operations teams fix this with WhatsApp messages and gut feel.
+Mobility companies like Rapido, BluSmart, and Yulu lose **35-50% of fleet value daily** to idle vehicles. Vehicles sit in low-demand residential zones while high-demand tech parks and transit hubs face 18-minute wait times. Operations teams fix this with WhatsApp messages and gut feel.
 
 This system replaces that with a data engine.
 
@@ -53,10 +53,10 @@ SQL Analytical Layer (12 business queries)
 |---|---|---|
 | `rides.csv` | 500,000 | Every ride - zone, time, fare, weather, event, surge |
 | `zones.csv` | 200 | Bangalore zones with H3 indexes, demand weights |
-| `drivers.csv` | 2,000 | Driver profiles — EV/petrol, ratings, shifts, earnings |
-| `weather.csv` | 8,784 | Hourly Bangalore weather — monsoon-accurate, 2024 |
+| `drivers.csv` | 2,000 | Driver profiles - EV/petrol, ratings, shifts, earnings |
+| `weather.csv` | 8,784 | Hourly Bangalore weather - monsoon-accurate, 2024 |
 | `events.csv` | 132 | IPL, concerts, bandhs, festivals with demand multipliers |
-| `charging_stations.csv` | 85 | EV stations — 8 networks, 3 charger types |
+| `charging_stations.csv` | 85 | EV stations - 8 networks, 3 charger types |
 
 **City:** Bangalore, Karnataka  
 **Period:** January - November 2024  
@@ -125,7 +125,7 @@ Koramangala 1B | Friday 6pm | Heavy Rain → **Spike Probability: 99.6%** ⚡
 
 ---
 
-## 🗺️ Spatial Intelligence — H3 Hexagonal Mapping
+## 🗺️ Spatial Intelligence - H3 Hexagonal Mapping
 
 Built using **Uber's H3 hexagonal indexing library** at Resolution 8 (~500m cells).
 
@@ -299,8 +299,10 @@ streamlit run app/streamlit_app.py
 Built for the Indian data analytics job market - targeting roles at mobility companies, fintech, and analytics-first startups.
 
 **Mohsin Raza**
+
 **Open to data analyst opportunities.**  
-Connect on LinkedIn: [https://www.linkedin.com/in/mohsinraza-data/]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsinraza-data/)
 
 ---
 
