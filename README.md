@@ -267,6 +267,8 @@ streamlit run app/streamlit_app.py
 
 ## 📊 Power BI Dashboard - RapidoIQ
 
+![Executive Command Center](https://github.com/MohsinR11/urban-mobility-intelligence-bangalore/blob/main/Dashboard/Screenshots/Page%201%20Executive%20Command%20Center.png)
+
 5-page executive dashboard built on live PostgreSQL connection:
 
 | Page | Focus |
@@ -308,4 +310,4 @@ Built for the Indian data analytics job market - targeting roles at mobility com
 
 ## ⭐ If this project helped you
 
-Give it a star. It took 4 weeks to build and helps others understand what a real end-to-end analytics project looks like.
+Give it a star. It took a whole week to build and helps others understand what a real end-to-end analytics project looks like.
