@@ -1,0 +1,201 @@
+zone_id,zone_name,latitude,longitude,h3_index,h3_resolution,zone_type,demand_weight,peak_hours,city,is_active
+Z001,MG Road,12.9756,77.6097,8861892e9bfffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z002,Brigade Road,12.9716,77.608,88618925a5fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z003,Residency Road,12.9707,77.6061,88618925a7fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z004,Church Street,12.9757,77.6065,8861892e91fffff,8,entertainment,0.75,18:00-23:00,Bangalore,True
+Z005,Cubbon Park,12.9793,77.5921,8860145b41fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z006,Vidhana Soudha,12.9794,77.5913,8860145b45fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z007,Shivajinagar,12.985,77.6002,8861892e93fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z008,Majestic,12.9767,77.5713,8860145b55fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z009,City Market,12.9634,77.576,8860145b59fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z010,Chickpete,12.9605,77.5757,88618925b7fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z011,Koramangala 1B,12.9279,77.6271,88618925cdfffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z012,Koramangala 4B,12.9352,77.6245,88618925c5fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z013,Koramangala 6B,12.9255,77.6188,88618925c1fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z014,Koramangala 8B,12.9183,77.6218,88618925c9fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z015,HSR Layout Sec 1,12.9116,77.6389,8861892421fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z016,HSR Layout Sec 2,12.9082,77.6474,886189242dfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z017,HSR Layout Sec 7,12.9047,77.6387,8861892429fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z018,BTM Layout 1,12.9166,77.6101,88618925ddfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z019,BTM Layout 2,12.912,77.6167,8861892435fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z020,Jayanagar 4B,12.9252,77.5838,8861892599fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z021,Jayanagar 9B,12.9171,77.5836,88618924a5fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z022,JP Nagar Phase 1,12.9076,77.5857,88618924adfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z023,JP Nagar Phase 2,12.9019,77.59,88618924e7fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z024,JP Nagar Phase 6,12.8938,77.5934,88618924e1fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z025,Banashankari 2nd Stage,12.9275,77.5601,8860145a41fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z026,Banashankari 3rd Stage,12.9197,77.5534,8860145a4bfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z027,Basavanagudi,12.9422,77.5757,8861892597fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z028,Lalbagh,12.9507,77.5848,88618925bbfffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z029,Wilson Garden,12.948,77.6012,8861892587fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z030,Langford Town,12.9547,77.5978,88618925bdfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z031,Hebbal,13.0353,77.5971,8861892c8bfffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z032,Devanahalli,13.2473,77.7113,886016911dfffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z033,Yelahanka,13.1007,77.5963,886016966bfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z034,Jakkur,13.0693,77.6099,8861892ca1fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z035,Sahakara Nagar,13.0556,77.5921,8861892cb9fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z036,Vidyaranyapura,13.0635,77.5524,8860145929fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z037,Mathikere,13.0196,77.5554,8860145b37fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z038,Yeshwanthpur,13.0237,77.5396,8860145951fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z039,Rajajinagar,12.9946,77.5535,8860145b15fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z040,Malleswaram,13.0035,77.5673,8860145b07fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z041,Sadashivanagar,13.0076,77.5797,8860145b29fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z042,RT Nagar,13.0207,77.5973,8861892cd1fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z043,Thanisandra,13.0604,77.627,8861892ce5fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z044,Kogilu,13.0762,77.6199,8861892dd3fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z045,Bagalur,13.1378,77.6657,88601692d5fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z046,Aerospace Park,13.202,77.701,886016900dfffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z048,Whitefield Phase 2,12.975,77.755,88618921ddfffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z049,ITPL,12.9856,77.7272,8861892191fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z050,Marathahalli,12.9591,77.6974,88618920b3fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z051,Outer Ring Road East,12.9352,77.6869,8861892093fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z052,Brookefield,12.9806,77.7217,886189219bfffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z053,Varthur,12.9388,77.748,88618920e9fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z054,Kadugodi,12.9982,77.764,88618921e3fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z055,Mahadevapura,12.9924,77.6997,8861892e0dfffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z056,KR Puram,13.0104,77.6941,8861892e2bfffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z057,Tin Factory,12.9973,77.668,8861892e17fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z058,Banaswadi,13.013,77.6558,8861892c5bfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z059,CV Raman Nagar,12.9962,77.6604,8861892ee9fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z060,Indiranagar 100ft Road,12.9784,77.6408,8861892ec3fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z061,Indiranagar 12th Main,12.9718,77.6412,8861892ecbfffff,8,entertainment,0.75,18:00-23:00,Bangalore,True
+Z062,HAL Airport Road,12.9629,77.6476,8861892535fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z063,Domlur,12.961,77.6384,8861892537fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z064,Murugeshpalya,12.9654,77.6541,8861892523fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z065,Old Airport Road,12.95,77.642,886189253bfffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z066,Kodihalli,12.9554,77.6468,8861892531fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z067,Rajajinagar West,12.9901,77.5481,8860145b17fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z068,Basaveshwara Nagar,12.9946,77.5361,8860145869fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z069,Nagarbhavi,12.963,77.5108,8860145859fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z070,Vijayanagar,12.9714,77.5297,886014584bfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z071,Uttarahalli,12.8955,77.5446,886014516dfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z072,Kengeri,12.9077,77.4835,8860145ad9fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z073,Rajarajeshwari Nagar,12.9228,77.5063,8860145ac9fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z074,Mysore Road,12.9418,77.5266,8860145a15fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z075,Chord Road,12.9857,77.5536,8860145b11fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z076,Peenya,13.0292,77.5187,886014591bfffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z077,Tumkur Road,13.05,77.51,88601459e9fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z078,Electronic City Phase 1,12.8399,77.677,886189266bfffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z079,Electronic City Phase 2,12.8452,77.6641,8861892605fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z080,Infosys Campus EC,12.8302,77.6627,8861892609fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z081,Wipro Campus EC,12.8184,77.6739,8861892641fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z082,Singasandra,12.8729,77.6404,8861892443fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z083,Begur,12.8668,77.6199,8861892453fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z084,Bommanahalli,12.896,77.6388,8861892405fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z085,Hongasandra,12.8834,77.6172,886189241dfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z086,Kudlu Gate,12.8994,77.6512,8861892461fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z087,Sarjapur Road KM5,12.902,77.665,8861892733fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z088,Sarjapur Road KM10,12.8741,77.6793,8861892757fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z089,Sarjapur Road KM15,12.845,77.695,88618935bbfffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z090,Bellandur,12.9255,77.6716,8861892543fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z091,Kadubeesanahalli,12.938,77.7021,8861892095fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z092,Panathur,12.9433,77.7106,8861892083fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z093,Carmelaram,12.9087,77.7263,88618922b7fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z094,Kempegowda International Airport,13.1986,77.7066,8860169047fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z095,BIAL Road KM10,13.12,77.69,8861892d23fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z096,BIAL Road KM20,13.16,77.698,88601692edfffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z097,Doddaballapur Road,13.08,77.57,8860169651fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z098,Attibele,12.7832,77.7662,886189346bfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z099,Anekal,12.7133,77.6952,886014d9a5fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z100,Chandapura,12.8183,77.6886,88618934a7fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z101,Electronic City Phase 3,12.82,77.65,8861892657fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z102,Harlur,12.9003,77.6755,8861892731fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z103,Arekere,12.8861,77.6117,8861892415fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z104,Bannerghatta Road KM5,12.8978,77.599,88618924edfffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z105,Bannerghatta Road KM10,12.8685,77.5948,88618924c9fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z106,Bannerghatta Road KM15,12.8392,77.5907,8861892683fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z107,Gottigere,12.8556,77.6,88618926abfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z108,Hulimavu,12.874,77.606,886189241bfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z109,Akshayanagar,12.8613,77.6292,8861892459fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z110,Hosa Road,12.877,77.6698,8861892711fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z111,Kasavanahalli,12.9165,77.707,88618920d3fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z112,Gunjur,12.9089,77.7381,88618922b5fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z113,Dommasandra,12.8851,77.7407,8861892283fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z114,Richmond Road,12.9628,77.6009,88618925a3fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z115,Lavelle Road,12.9683,77.5979,8860145b49fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z116,Cunningham Road,12.9898,77.5938,8860145b69fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z117,Palace Road,12.9986,77.5869,8860145b63fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z118,Sankey Road,13.0096,77.576,8860145b2bfffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z119,New BEL Road,13.038,77.5744,8861892c93fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z120,Outer Ring Road North,13.045,77.618,8861892cebfffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z121,Hebbal Flyover,13.045,77.585,8861892c95fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z122,Nagawara,13.0475,77.6268,8861892ce9fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z123,Kalyan Nagar,13.0298,77.6474,8861892c19fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z124,HBR Layout,13.0373,77.6389,8861892c11fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z125,Horamavu,13.033,77.6624,8861892c55fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z126,Ramamurthy Nagar,13.0152,77.6713,8861892e37fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z127,Hennur,13.0446,77.6421,8861892c15fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z128,Lingarajapuram,13.0,77.634,8861892e85fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z129,Kammanahalli,13.0048,77.6461,8861892ee3fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z130,Manyata Tech Park,13.0465,77.6213,8861892ce1fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z131,RMZ Infinity,12.9876,77.6954,8861892e09fffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z132,Embassy Tech Village,12.9258,77.6946,886189209bfffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z133,Bagmane Tech Park,12.9815,77.6553,8861892ecdfffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z134,Global Village Tech Park,12.918,77.502,8860145acdfffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z135,Software Tech Park Bangalore,12.9826,77.5908,8860145b6bfffff,8,tech_park,0.9,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z136,KSR Bengaluru Station,12.9767,77.5713,8860145b09fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z137,Yeshwanthpur Junction,13.0137,77.5496,886014594bfffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z138,Bangalore Cantonment Station,12.9934,77.6072,8861892e97fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z139,Whitefield Railway Station,12.9794,77.738,88618921d7fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z140,Baiyappanahalli Metro,12.9985,77.6551,8861892ee1fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z141,Indiranagar Metro Station,12.975,77.639,8861892ec7fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z142,Halasuru Metro Station,12.972,77.62,8861892ed3fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z143,Trinity Metro Station,12.97,77.605,8861892e99fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z144,Mantri Mall Malleshwaram,12.9946,77.5635,8860145b03fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z145,Orion Mall Rajajinagar,13.01,77.5387,8860145865fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z146,Phoenix Marketcity Whitefield,12.9748,77.7411,88618921d5fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z147,Forum Mall Koramangala,12.9305,77.6263,8861892513fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z148,UB City Mall,12.9716,77.5964,8860145b4dfffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z149,Garuda Mall,12.972,77.608,8861892ed7fffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z150,Nexus Shantiniketan Mall,12.975,77.715,8861892e4dfffff,8,commercial,0.8,"10:00-13:00, 17:00-21:00",Bangalore,True
+Z151,Dasarahalli,13.048,77.5172,8860145917fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z152,Jalahalli,13.0386,77.5374,886014590bfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z153,HMT Layout,13.0436,77.5454,8860145901fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z154,Bharat Nagar,13.023,77.5291,8860145953fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z155,Nandini Layout,13.0142,77.5381,886014595bfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z156,Shivanagar,12.9842,77.5221,8860145809fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z157,Kamakshipalya,12.975,77.5411,886014584dfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z158,Magadi Road,12.962,77.5344,8860145a35fffff,8,transit_hub,0.85,"07:00-10:00, 17:00-21:00",Bangalore,True
+Z159,Hosahalli,12.9568,77.5111,8860145ae5fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z160,Sunkadakatte,12.9542,77.4966,8860145aa9fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z161,Manchanabele,12.94,77.47,8860145a95fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z162,Bidadi,12.8017,77.3929,886014572bfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z163,Nelamangala,13.099,77.394,8860144803fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z164,Devanahalli Town,13.2449,77.7226,886016910bfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z165,Hoskote,13.0712,77.7985,8861892853fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z166,Bommasandra,12.8106,77.6812,8861892649fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z167,Jigani,12.7909,77.6372,886014c905fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z168,Anekal Town,12.7233,77.7052,886189369dfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z169,Sarjapur Town,12.8657,77.7858,8861893525fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z170,Kanakapura Road KM10,12.88,77.568,886189248bfffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z171,Kanakapura Road KM20,12.81,77.55,886014c9b7fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z172,Tumkur Road KM15,13.075,77.5,88601696d3fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z173,Mysore Road KM15,12.91,77.47,88601451adfffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z174,Hosur Road KM10,12.86,77.67,886189262dfffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z175,Old Madras Road KM10,13.01,77.73,88618921b3fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z176,Bellary Road KM10,13.07,77.61,8861892ca5fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z177,Hennur Road KM5,13.03,77.65,8861892c0bfffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z178,Varthur Road KM5,12.95,77.72,8861892087fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z179,Sarjapur Road KM20,12.83,77.71,886189359dfffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z180,Bannerghatta Road KM20,12.81,77.59,88618926dbfffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z181,Kanakapura Road KM5,12.91,77.576,88618924a1fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z182,Hosur Road KM5,12.9,77.65,8861892467fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z183,Old Madras Road KM5,13.0,77.7,8861892e05fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z184,Bellary Road KM5,13.05,77.605,8861892c81fffff,8,mixed,0.65,"08:00-10:00, 17:00-20:00",Bangalore,True
+Z185,Nagawara Lake,13.055,77.632,8861892cedfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z186,Amruthahalli,13.055,77.585,8861892cbbfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z187,Kodigehalli,13.06,77.57,8860145965fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z188,Allalasandra,13.065,77.598,8861892ca3fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z189,Byatarayanapura,13.07,77.555,886014592dfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z190,Chikkabanaswadi,13.04,77.635,8861892c13fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z191,Rachenahalli,13.06,77.615,8861892ca9fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z192,Agelakuppam,13.09,77.63,8861892d8bfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z193,Singapura,13.08,77.59,8860169641fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z194,Hunsamaranahalli,13.11,77.58,8860169605fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z195,Chikkabanavara,13.05,77.5,88601459e3fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z196,Soladevanahalli,13.07,77.52,88601696d9fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z197,Abbigere,13.06,77.49,88601459abfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z198,Chikkabidarakallu,13.04,77.48,886014598bfffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z199,Nagarur,13.1,77.51,8860169683fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True
+Z200,Lakshmipura,13.02,77.51,8860145823fffff,8,residential,0.45,"07:00-09:00, 18:00-21:00",Bangalore,True

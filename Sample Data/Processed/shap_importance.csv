@@ -1,0 +1,20 @@
+feature,shap_value
+Zone Demand Weight,3.4084008
+Avg Wait Time,0.61650974
+Zone Type,0.5643953
+Completion Rate,0.55998945
+Evening Peak Hour,0.070117444
+Unmet Demand Rate,0.057692993
+Hour of Day,0.047703892
+Morning Peak Hour,0.028919274
+Temperature (°C),0.011049437
+Is Weekend,0.010326525
+Month,0.009063353
+Event Type,0.008157645
+Weather Condition,0.007838942
+Day of Week,0.0077726264
+Rainfall (mm),0.00577925
+Surge Multiplier,0.0046113
+Late Night Hour,0.0021604472
+Is Raining,0.0
+Has Active Event,0.0

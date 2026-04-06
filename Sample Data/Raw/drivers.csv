@@ -1,0 +1,2001 @@
+driver_id,vehicle_type,is_ev,status,rating,experience_months,home_zone_id,current_zone_id,daily_trip_target,battery_capacity_kwh,avg_daily_earnings,preferred_shift,join_date,city
+DRV0001,Auto,False,active,4.4,24,Z058,Z036,20,,1003,morning,2022-01-11,Bangalore
+DRV0002,Bike,False,active,3.8,4,Z129,Z155,15,,658,evening,2023-09-03,Bangalore
+DRV0003,Bike,False,active,4.8,1,Z013,Z195,20,,697,afternoon,2023-12-02,Bangalore
+DRV0004,Bike,False,active,4.0,4,Z102,Z025,26,,556,night,2023-09-03,Bangalore
+DRV0005,Auto,False,active,4.3,11,Z097,Z021,20,,725,evening,2023-02-05,Bangalore
+DRV0006,Auto,False,active,4.5,3,Z072,Z021,11,,732,evening,2023-10-03,Bangalore
+DRV0007,EV Bike,True,active,3.8,11,Z187,Z069,22,3.6,535,morning,2023-02-05,Bangalore
+DRV0008,Auto,False,active,3.9,13,Z177,Z143,20,,1036,morning,2022-12-07,Bangalore
+DRV0009,Bike,False,active,4.0,17,Z054,Z146,25,,698,afternoon,2022-08-09,Bangalore
+DRV0010,EV Auto,True,active,4.0,2,Z066,Z191,14,4.3,973,afternoon,2023-11-02,Bangalore
+DRV0011,Bike,False,suspended,4.0,3,Z027,Z027,16,,837,morning,2023-10-03,Bangalore
+DRV0012,Auto,False,active,4.0,44,Z163,Z120,18,,1119,evening,2021-01-01,Bangalore
+DRV0013,Bike,False,inactive,4.5,7,Z197,Z197,25,,488,morning,2023-06-05,Bangalore
+DRV0014,Bike,False,active,5.0,4,Z129,Z196,20,,763,afternoon,2023-09-03,Bangalore
+DRV0015,Auto,False,active,4.5,2,Z199,Z042,19,,930,morning,2023-11-02,Bangalore
+DRV0016,EV Auto,True,inactive,3.8,6,Z079,Z079,17,4.4,690,morning,2023-07-05,Bangalore
+DRV0017,Auto,False,active,4.0,6,Z197,Z033,20,,1056,morning,2023-07-05,Bangalore
+DRV0018,Auto,False,active,3.7,30,Z139,Z194,21,,1066,flexible,2021-07-15,Bangalore
+DRV0019,Auto,False,active,3.9,1,Z034,Z064,11,,978,evening,2023-12-02,Bangalore
+DRV0020,Bike,False,active,4.4,24,Z167,Z016,22,,826,morning,2022-01-11,Bangalore
+DRV0021,Bike,False,active,3.9,36,Z035,Z186,30,,742,night,2021-01-16,Bangalore
+DRV0022,Bike,False,active,3.6,2,Z111,Z106,29,,741,evening,2023-11-02,Bangalore
+DRV0023,Auto,False,active,3.8,24,Z028,Z064,13,,876,morning,2022-01-11,Bangalore
+DRV0024,Bike,False,active,4.5,12,Z020,Z114,18,,695,night,2023-01-06,Bangalore
+DRV0025,EV Auto,True,inactive,4.3,26,Z043,Z043,11,4.2,902,flexible,2021-11-12,Bangalore
+DRV0026,Bike,False,active,4.8,13,Z123,Z074,28,,705,evening,2022-12-07,Bangalore
+DRV0027,Auto,False,active,3.2,1,Z023,Z149,21,,1003,morning,2023-12-02,Bangalore
+DRV0028,Auto,False,inactive,3.6,13,Z023,Z023,12,,1090,morning,2022-12-07,Bangalore
+DRV0029,EV Bike,True,active,4.1,10,Z146,Z064,13,3.8,742,evening,2023-03-07,Bangalore
+DRV0030,Bike,False,active,3.9,2,Z083,Z062,23,,699,evening,2023-11-02,Bangalore
+DRV0031,Auto,False,inactive,3.9,48,Z003,Z003,19,,1079,morning,2021-01-01,Bangalore
+DRV0032,Bike,False,active,4.4,37,Z018,Z063,26,,923,night,2021-01-01,Bangalore
+DRV0033,Auto,False,active,4.0,41,Z168,Z136,20,,1166,afternoon,2021-01-01,Bangalore
+DRV0034,Auto,False,inactive,4.7,41,Z033,Z033,21,,1126,afternoon,2021-01-01,Bangalore
+DRV0035,Auto,False,active,3.9,5,Z168,Z068,14,,885,morning,2023-08-04,Bangalore
+DRV0036,Bike,False,active,4.7,36,Z200,Z034,23,,744,evening,2021-01-16,Bangalore
+DRV0037,Bike,False,active,4.2,10,Z190,Z039,16,,621,morning,2023-03-07,Bangalore
+DRV0038,Bike,False,active,4.0,8,Z011,Z092,21,,605,morning,2023-05-06,Bangalore
+DRV0039,EV Bike,True,inactive,4.1,14,Z166,Z166,25,4.5,768,night,2022-11-07,Bangalore
+DRV0040,EV Bike,True,active,3.8,65,Z086,Z106,14,3.3,1143,morning,2021-01-01,Bangalore
+DRV0041,Auto,False,active,3.4,7,Z090,Z079,13,,931,morning,2023-06-05,Bangalore
+DRV0042,Bike,False,inactive,4.2,13,Z072,Z072,26,,613,evening,2022-12-07,Bangalore
+DRV0043,EV Bike,True,active,4.1,3,Z068,Z046,13,3.4,701,evening,2023-10-03,Bangalore
+DRV0044,Bike,False,active,4.3,5,Z103,Z148,21,,624,morning,2023-08-04,Bangalore
+DRV0045,EV Auto,True,active,4.7,5,Z190,Z189,9,4.4,965,flexible,2023-08-04,Bangalore
+DRV0046,Auto,False,active,3.9,19,Z073,Z130,20,,1161,afternoon,2022-06-10,Bangalore
+DRV0047,Bike,False,active,4.4,2,Z102,Z174,20,,872,afternoon,2023-11-02,Bangalore
+DRV0048,EV Bike,True,active,4.0,4,Z161,Z156,19,3.9,780,evening,2023-09-03,Bangalore
+DRV0049,EV Bike,True,suspended,4.2,21,Z169,Z169,20,3.8,694,afternoon,2022-04-11,Bangalore
+DRV0050,EV Bike,True,active,4.2,5,Z058,Z051,12,4.5,631,evening,2023-08-04,Bangalore
+DRV0051,EV Bike,True,active,3.8,22,Z148,Z050,18,2.8,816,evening,2022-03-12,Bangalore
+DRV0052,EV Bike,True,inactive,4.4,3,Z200,Z200,14,3.4,645,evening,2023-10-03,Bangalore
+DRV0053,EV Auto,True,active,3.9,47,Z124,Z171,17,4.1,1046,flexible,2021-01-01,Bangalore
+DRV0054,Bike,False,inactive,4.1,20,Z040,Z040,30,,766,night,2022-05-11,Bangalore
+DRV0055,Bike,False,active,4.3,14,Z064,Z071,29,,826,morning,2022-11-07,Bangalore
+DRV0056,Bike,False,inactive,4.1,41,Z039,Z039,22,,780,evening,2021-01-01,Bangalore
+DRV0057,Bike,False,active,4.3,8,Z110,Z016,21,,733,flexible,2023-05-06,Bangalore
+DRV0058,Bike,False,inactive,4.7,41,Z126,Z126,15,,700,flexible,2021-01-01,Bangalore
+DRV0059,EV Auto,True,active,4.3,19,Z140,Z155,12,3.4,986,morning,2022-06-10,Bangalore
+DRV0060,Bike,False,active,4.3,1,Z041,Z120,19,,706,flexible,2023-12-02,Bangalore
+DRV0061,Auto,False,active,4.3,1,Z111,Z035,12,,819,afternoon,2023-12-02,Bangalore
+DRV0062,Bike,False,active,4.3,22,Z098,Z072,28,,563,evening,2022-03-12,Bangalore
+DRV0063,Auto,False,active,3.7,23,Z058,Z167,22,,1093,night,2022-02-10,Bangalore
+DRV0064,EV Auto,True,active,3.9,25,Z039,Z062,9,3.6,839,morning,2021-12-12,Bangalore
+DRV0065,Auto,False,active,4.6,20,Z164,Z192,22,,1049,flexible,2022-05-11,Bangalore
+DRV0066,Bike,False,active,3.9,9,Z188,Z097,27,,662,evening,2023-04-06,Bangalore
+DRV0067,EV Bike,True,active,3.8,66,Z073,Z176,21,3.2,882,afternoon,2021-01-01,Bangalore
+DRV0068,Bike,False,active,4.6,18,Z110,Z126,18,,661,flexible,2022-07-10,Bangalore
+DRV0069,Auto,False,active,4.2,16,Z152,Z167,19,,1154,night,2022-09-08,Bangalore
+DRV0070,Auto,False,inactive,3.6,24,Z085,Z085,11,,1015,morning,2022-01-11,Bangalore
+DRV0071,Auto,False,active,3.8,51,Z018,Z127,12,,1212,afternoon,2021-01-01,Bangalore
+DRV0072,Bike,False,active,4.2,62,Z070,Z143,15,,998,morning,2021-01-01,Bangalore
+DRV0073,Bike,False,active,3.9,35,Z125,Z166,30,,593,morning,2021-02-15,Bangalore
+DRV0074,Bike,False,active,3.8,15,Z161,Z095,30,,613,afternoon,2022-10-08,Bangalore
+DRV0075,Auto,False,active,4.3,16,Z070,Z079,13,,1026,afternoon,2022-09-08,Bangalore
+DRV0076,Auto,False,suspended,4.3,83,Z044,Z044,21,,1202,evening,2021-01-01,Bangalore
+DRV0077,EV Auto,True,active,4.2,38,Z029,Z050,10,3.1,902,evening,2021-01-01,Bangalore
+DRV0078,Bike,False,active,4.5,22,Z072,Z179,19,,837,morning,2022-03-12,Bangalore
+DRV0079,Bike,False,active,3.6,30,Z093,Z048,16,,637,morning,2021-07-15,Bangalore
+DRV0080,Bike,False,active,4.3,45,Z189,Z014,19,,855,flexible,2021-01-01,Bangalore
+DRV0081,Bike,False,active,4.4,29,Z110,Z156,22,,1207,evening,2021-08-14,Bangalore
+DRV0082,Bike,False,inactive,4.7,29,Z079,Z079,16,,863,flexible,2021-08-14,Bangalore
+DRV0083,Bike,False,active,4.1,9,Z040,Z062,20,,736,morning,2023-04-06,Bangalore
+DRV0084,Auto,False,active,4.3,1,Z059,Z074,21,,802,morning,2023-12-02,Bangalore
+DRV0085,Bike,False,active,5.0,7,Z151,Z170,21,,410,morning,2023-06-05,Bangalore
+DRV0086,Bike,False,active,4.0,1,Z023,Z043,24,,614,flexible,2023-12-02,Bangalore
+DRV0087,Bike,False,active,4.0,3,Z108,Z070,30,,745,morning,2023-10-03,Bangalore
+DRV0088,Bike,False,active,4.8,5,Z027,Z059,15,,640,evening,2023-08-04,Bangalore
+DRV0089,EV Bike,True,active,3.9,1,Z113,Z072,18,4.1,680,flexible,2023-12-02,Bangalore
+DRV0090,Auto,False,active,5.0,19,Z030,Z042,16,,1216,afternoon,2022-06-10,Bangalore
+DRV0091,EV Auto,True,active,3.4,29,Z123,Z023,9,4.4,1017,afternoon,2021-08-14,Bangalore
+DRV0092,Auto,False,suspended,4.0,2,Z155,Z155,16,,709,evening,2023-11-02,Bangalore
+DRV0093,Auto,False,active,4.4,10,Z022,Z053,18,,1053,afternoon,2023-03-07,Bangalore
+DRV0094,Auto,False,active,4.1,6,Z156,Z062,14,,891,evening,2023-07-05,Bangalore
+DRV0095,Bike,False,suspended,4.9,20,Z119,Z119,18,,748,evening,2022-05-11,Bangalore
+DRV0096,Auto,False,active,4.4,18,Z126,Z121,17,,1188,afternoon,2022-07-10,Bangalore
+DRV0097,EV Auto,True,active,3.6,8,Z018,Z071,16,3.0,831,morning,2023-05-06,Bangalore
+DRV0098,Auto,False,inactive,4.1,2,Z186,Z186,12,,1134,evening,2023-11-02,Bangalore
+DRV0099,Bike,False,active,2.9,4,Z085,Z049,22,,497,flexible,2023-09-03,Bangalore
+DRV0100,Bike,False,active,3.4,18,Z102,Z099,19,,533,evening,2022-07-10,Bangalore
+DRV0101,Auto,False,inactive,4.0,9,Z113,Z113,18,,960,evening,2023-04-06,Bangalore
+DRV0102,Bike,False,active,4.2,35,Z125,Z068,25,,1056,evening,2021-02-15,Bangalore
+DRV0103,EV Bike,True,inactive,3.8,2,Z098,Z098,23,4.2,715,morning,2023-11-02,Bangalore
+DRV0104,Bike,False,active,4.1,16,Z059,Z192,17,,687,evening,2022-09-08,Bangalore
+DRV0105,Bike,False,active,4.2,9,Z018,Z012,25,,724,afternoon,2023-04-06,Bangalore
+DRV0106,Bike,False,active,4.0,15,Z189,Z047,20,,928,flexible,2022-10-08,Bangalore
+DRV0107,Auto,False,active,4.1,59,Z037,Z060,20,,1265,afternoon,2021-01-01,Bangalore
+DRV0108,Bike,False,active,4.0,7,Z174,Z140,20,,659,flexible,2023-06-05,Bangalore
+DRV0109,Bike,False,suspended,4.0,3,Z123,Z123,24,,716,morning,2023-10-03,Bangalore
+DRV0110,Bike,False,active,4.6,38,Z191,Z076,15,,964,morning,2021-01-01,Bangalore
+DRV0111,EV Bike,True,active,4.5,6,Z156,Z191,24,3.7,755,afternoon,2023-07-05,Bangalore
+DRV0112,Auto,False,active,4.4,30,Z194,Z197,20,,964,evening,2021-07-15,Bangalore
+DRV0113,Bike,False,active,4.2,9,Z195,Z034,17,,659,morning,2023-04-06,Bangalore
+DRV0114,Bike,False,active,3.9,49,Z136,Z129,23,,984,flexible,2021-01-01,Bangalore
+DRV0115,Bike,False,inactive,4.1,26,Z120,Z120,17,,861,flexible,2021-11-12,Bangalore
+DRV0116,Auto,False,suspended,4.0,42,Z143,Z143,11,,1141,morning,2021-01-01,Bangalore
+DRV0117,Auto,False,active,4.7,7,Z188,Z068,20,,937,evening,2023-06-05,Bangalore
+DRV0118,Auto,False,active,4.1,1,Z084,Z157,20,,1007,night,2023-12-02,Bangalore
+DRV0119,EV Auto,True,active,4.3,55,Z036,Z012,9,2.7,1109,flexible,2021-01-01,Bangalore
+DRV0120,Bike,False,active,5.0,11,Z197,Z179,28,,782,flexible,2023-02-05,Bangalore
+DRV0121,Auto,False,inactive,3.8,21,Z070,Z070,21,,859,afternoon,2022-04-11,Bangalore
+DRV0122,EV Auto,True,inactive,4.5,29,Z189,Z189,13,2.6,1075,afternoon,2021-08-14,Bangalore
+DRV0123,EV Auto,True,inactive,4.2,2,Z024,Z024,17,4.4,752,morning,2023-11-02,Bangalore
+DRV0124,Bike,False,suspended,3.4,40,Z053,Z053,17,,1012,evening,2021-01-01,Bangalore
+DRV0125,EV Bike,True,active,3.9,3,Z153,Z001,14,3.0,626,morning,2023-10-03,Bangalore
+DRV0126,Auto,False,active,4.4,2,Z064,Z151,10,,1072,morning,2023-11-02,Bangalore
+DRV0127,Auto,False,active,4.3,2,Z122,Z115,18,,849,evening,2023-11-02,Bangalore
+DRV0128,Bike,False,active,4.4,2,Z169,Z134,24,,714,morning,2023-11-02,Bangalore
+DRV0129,Auto,False,active,3.6,31,Z127,Z183,11,,886,evening,2021-06-15,Bangalore
+DRV0130,Bike,False,active,3.9,2,Z156,Z183,25,,773,afternoon,2023-11-02,Bangalore
+DRV0131,Auto,False,active,4.3,10,Z030,Z168,16,,1127,afternoon,2023-03-07,Bangalore
+DRV0132,EV Bike,True,active,4.1,12,Z081,Z110,16,4.4,709,evening,2023-01-06,Bangalore
+DRV0133,Auto,False,active,4.3,25,Z112,Z025,22,,925,morning,2021-12-12,Bangalore
+DRV0134,EV Auto,True,active,4.4,9,Z109,Z091,12,3.7,905,afternoon,2023-04-06,Bangalore
+DRV0135,Auto,False,active,4.5,5,Z058,Z028,18,,876,night,2023-08-04,Bangalore
+DRV0136,Auto,False,active,4.2,90,Z197,Z160,19,,1418,morning,2021-01-01,Bangalore
+DRV0137,Bike,False,active,4.2,63,Z090,Z002,20,,822,afternoon,2021-01-01,Bangalore
+DRV0138,Bike,False,active,5.0,22,Z197,Z136,21,,758,afternoon,2022-03-12,Bangalore
+DRV0139,Bike,False,active,5.0,16,Z146,Z153,17,,587,night,2022-09-08,Bangalore
+DRV0140,Bike,False,active,4.2,18,Z111,Z125,29,,807,night,2022-07-10,Bangalore
+DRV0141,Bike,False,active,3.9,12,Z188,Z152,30,,588,morning,2023-01-06,Bangalore
+DRV0142,Bike,False,active,4.6,2,Z073,Z055,19,,392,afternoon,2023-11-02,Bangalore
+DRV0143,Bike,False,active,4.3,7,Z102,Z137,22,,860,night,2023-06-05,Bangalore
+DRV0144,Bike,False,inactive,4.4,4,Z016,Z016,29,,736,evening,2023-09-03,Bangalore
+DRV0145,Auto,False,active,3.7,49,Z033,Z104,15,,1364,evening,2021-01-01,Bangalore
+DRV0146,Auto,False,active,4.2,30,Z030,Z063,19,,1016,morning,2021-07-15,Bangalore
+DRV0147,EV Bike,True,active,3.5,64,Z041,Z020,20,4.3,1132,afternoon,2021-01-01,Bangalore
+DRV0148,Auto,False,active,4.3,12,Z061,Z027,14,,993,evening,2023-01-06,Bangalore
+DRV0149,EV Bike,True,active,3.6,2,Z200,Z161,24,4.0,588,afternoon,2023-11-02,Bangalore
+DRV0150,EV Auto,True,active,4.3,148,Z166,Z083,9,3.4,1286,evening,2021-01-01,Bangalore
+DRV0151,EV Bike,True,active,4.2,27,Z025,Z080,12,3.2,790,afternoon,2021-10-13,Bangalore
+DRV0152,Auto,False,suspended,4.1,3,Z163,Z163,17,,723,flexible,2023-10-03,Bangalore
+DRV0153,Auto,False,active,4.2,5,Z147,Z167,15,,986,evening,2023-08-04,Bangalore
+DRV0154,EV Auto,True,active,4.6,8,Z088,Z183,10,2.6,1074,evening,2023-05-06,Bangalore
+DRV0155,EV Auto,True,active,4.3,14,Z100,Z096,13,3.9,830,morning,2022-11-07,Bangalore
+DRV0156,Auto,False,active,4.2,35,Z157,Z174,14,,1261,flexible,2021-02-15,Bangalore
+DRV0157,Auto,False,active,5.0,38,Z186,Z037,14,,1300,afternoon,2021-01-01,Bangalore
+DRV0158,Auto,False,inactive,3.8,1,Z102,Z102,12,,872,flexible,2023-12-02,Bangalore
+DRV0159,Bike,False,active,4.5,22,Z016,Z093,24,,874,flexible,2022-03-12,Bangalore
+DRV0160,Auto,False,active,4.0,1,Z025,Z076,18,,863,night,2023-12-02,Bangalore
+DRV0161,EV Bike,True,active,4.6,9,Z200,Z159,18,2.8,483,night,2023-04-06,Bangalore
+DRV0162,EV Bike,True,active,4.6,8,Z113,Z012,22,4.4,673,evening,2023-05-06,Bangalore
+DRV0163,EV Bike,True,active,4.8,10,Z064,Z080,17,4.4,708,flexible,2023-03-07,Bangalore
+DRV0164,Auto,False,active,4.6,54,Z153,Z108,13,,1209,morning,2021-01-01,Bangalore
+DRV0165,Bike,False,active,3.5,12,Z142,Z027,18,,653,afternoon,2023-01-06,Bangalore
+DRV0166,EV Auto,True,active,4.2,8,Z058,Z116,8,3.3,938,afternoon,2023-05-06,Bangalore
+DRV0167,Bike,False,active,3.7,2,Z083,Z026,25,,690,morning,2023-11-02,Bangalore
+DRV0168,EV Auto,True,active,3.8,8,Z195,Z181,8,4.3,948,morning,2023-05-06,Bangalore
+DRV0169,Bike,False,active,4.2,20,Z156,Z136,28,,814,morning,2022-05-11,Bangalore
+DRV0170,Bike,False,active,4.0,1,Z166,Z118,17,,547,evening,2023-12-02,Bangalore
+DRV0171,Bike,False,active,4.0,4,Z037,Z075,28,,524,morning,2023-09-03,Bangalore
+DRV0172,Bike,False,active,3.6,9,Z100,Z018,15,,622,morning,2023-04-06,Bangalore
+DRV0173,Bike,False,active,5.0,1,Z092,Z018,26,,609,evening,2023-12-02,Bangalore
+DRV0174,EV Bike,True,active,4.4,2,Z021,Z091,14,3.4,804,evening,2023-11-02,Bangalore
+DRV0175,Auto,False,active,4.2,30,Z123,Z010,13,,1023,flexible,2021-07-15,Bangalore
+DRV0176,Bike,False,active,3.9,5,Z155,Z122,23,,694,morning,2023-08-04,Bangalore
+DRV0177,Bike,False,active,4.1,18,Z085,Z070,18,,413,flexible,2022-07-10,Bangalore
+DRV0178,Auto,False,inactive,3.9,25,Z043,Z043,21,,761,flexible,2021-12-12,Bangalore
+DRV0179,Auto,False,active,4.4,13,Z021,Z111,18,,1002,morning,2022-12-07,Bangalore
+DRV0180,Bike,False,active,3.8,11,Z193,Z110,20,,664,afternoon,2023-02-05,Bangalore
+DRV0181,Auto,False,inactive,3.6,6,Z112,Z112,20,,954,morning,2023-07-05,Bangalore
+DRV0182,Auto,False,active,4.1,7,Z174,Z041,12,,929,evening,2023-06-05,Bangalore
+DRV0183,Bike,False,active,3.9,3,Z169,Z094,26,,485,evening,2023-10-03,Bangalore
+DRV0184,Auto,False,inactive,4.3,21,Z199,Z199,19,,1114,afternoon,2022-04-11,Bangalore
+DRV0185,Bike,False,active,4.2,2,Z007,Z189,20,,787,flexible,2023-11-02,Bangalore
+DRV0186,Bike,False,active,5.0,25,Z055,Z157,24,,846,morning,2021-12-12,Bangalore
+DRV0187,EV Bike,True,active,3.8,7,Z114,Z023,17,3.6,662,afternoon,2023-06-05,Bangalore
+DRV0188,Bike,False,active,4.8,16,Z180,Z164,20,,522,morning,2022-09-08,Bangalore
+DRV0189,EV Auto,True,active,3.6,2,Z128,Z007,13,3.4,927,flexible,2023-11-02,Bangalore
+DRV0190,Bike,False,inactive,4.0,4,Z107,Z107,30,,544,night,2023-09-03,Bangalore
+DRV0191,Bike,False,suspended,4.0,4,Z122,Z122,29,,516,morning,2023-09-03,Bangalore
+DRV0192,EV Bike,True,active,3.2,73,Z200,Z034,25,4.2,1097,evening,2021-01-01,Bangalore
+DRV0193,Bike,False,active,4.1,63,Z058,Z089,24,,806,evening,2021-01-01,Bangalore
+DRV0194,Auto,False,active,4.3,6,Z154,Z024,19,,962,morning,2023-07-05,Bangalore
+DRV0195,Auto,False,inactive,4.4,48,Z159,Z159,10,,1022,flexible,2021-01-01,Bangalore
+DRV0196,EV Bike,True,active,5.0,6,Z160,Z107,22,3.1,874,flexible,2023-07-05,Bangalore
+DRV0197,Auto,False,active,3.9,8,Z073,Z117,21,,1008,afternoon,2023-05-06,Bangalore
+DRV0198,Auto,False,active,4.3,5,Z083,Z184,21,,596,flexible,2023-08-04,Bangalore
+DRV0199,Bike,False,active,4.3,7,Z083,Z062,29,,526,morning,2023-06-05,Bangalore
+DRV0200,Bike,False,active,3.7,12,Z165,Z108,22,,692,flexible,2023-01-06,Bangalore
+DRV0201,Auto,False,active,3.9,8,Z151,Z120,14,,945,morning,2023-05-06,Bangalore
+DRV0202,Bike,False,active,4.0,21,Z161,Z091,16,,796,evening,2022-04-11,Bangalore
+DRV0203,EV Bike,True,active,4.4,12,Z015,Z028,16,4.0,882,afternoon,2023-01-06,Bangalore
+DRV0204,Bike,False,active,3.5,48,Z156,Z074,17,,716,night,2021-01-01,Bangalore
+DRV0205,Bike,False,suspended,4.3,51,Z034,Z034,19,,782,night,2021-01-01,Bangalore
+DRV0206,Bike,False,inactive,4.4,34,Z051,Z051,27,,959,morning,2021-03-17,Bangalore
+DRV0207,Auto,False,active,4.3,5,Z039,Z156,15,,875,morning,2023-08-04,Bangalore
+DRV0208,EV Auto,True,active,4.1,31,Z093,Z130,12,3.4,966,morning,2021-06-15,Bangalore
+DRV0209,Bike,False,active,4.3,9,Z082,Z186,15,,894,flexible,2023-04-06,Bangalore
+DRV0210,EV Bike,True,active,4.1,31,Z194,Z014,20,3.9,918,night,2021-06-15,Bangalore
+DRV0211,Bike,False,inactive,3.4,12,Z160,Z160,18,,539,afternoon,2023-01-06,Bangalore
+DRV0212,Bike,False,active,4.6,13,Z165,Z121,16,,563,morning,2022-12-07,Bangalore
+DRV0213,Bike,False,active,4.3,9,Z083,Z045,29,,618,afternoon,2023-04-06,Bangalore
+DRV0214,EV Bike,True,active,4.6,18,Z190,Z068,15,3.6,751,morning,2022-07-10,Bangalore
+DRV0215,EV Auto,True,active,3.6,3,Z053,Z177,13,3.6,1002,flexible,2023-10-03,Bangalore
+DRV0216,Auto,False,active,4.4,14,Z155,Z098,15,,1119,afternoon,2022-11-07,Bangalore
+DRV0217,Bike,False,active,4.3,3,Z113,Z168,23,,644,morning,2023-10-03,Bangalore
+DRV0218,Auto,False,inactive,3.8,25,Z036,Z036,19,,926,morning,2021-12-12,Bangalore
+DRV0219,Bike,False,inactive,4.2,26,Z059,Z059,16,,672,evening,2021-11-12,Bangalore
+DRV0220,Bike,False,active,4.1,31,Z156,Z041,28,,854,evening,2021-06-15,Bangalore
+DRV0221,EV Bike,True,active,4.1,29,Z023,Z197,21,3.6,677,evening,2021-08-14,Bangalore
+DRV0222,EV Auto,True,inactive,4.0,24,Z042,Z042,15,2.9,903,evening,2022-01-11,Bangalore
+DRV0223,EV Bike,True,active,4.5,22,Z073,Z146,16,4.5,922,evening,2022-03-12,Bangalore
+DRV0224,Auto,False,inactive,3.5,8,Z120,Z120,13,,973,afternoon,2023-05-06,Bangalore
+DRV0225,Auto,False,active,3.5,12,Z004,Z189,22,,1139,evening,2023-01-06,Bangalore
+DRV0226,Bike,False,active,4.3,18,Z108,Z110,25,,1007,morning,2022-07-10,Bangalore
+DRV0227,EV Auto,True,active,4.2,22,Z002,Z067,12,4.4,1047,afternoon,2022-03-12,Bangalore
+DRV0228,Auto,False,active,4.3,3,Z190,Z061,20,,968,afternoon,2023-10-03,Bangalore
+DRV0229,Bike,False,active,5.0,10,Z181,Z198,24,,811,flexible,2023-03-07,Bangalore
+DRV0230,Bike,False,active,4.3,47,Z036,Z123,19,,847,afternoon,2021-01-01,Bangalore
+DRV0231,Auto,False,inactive,3.8,76,Z171,Z171,22,,1264,night,2021-01-01,Bangalore
+DRV0232,EV Bike,True,active,5.0,10,Z192,Z093,13,4.2,762,flexible,2023-03-07,Bangalore
+DRV0233,Bike,False,active,4.1,30,Z152,Z114,18,,698,evening,2021-07-15,Bangalore
+DRV0234,EV Bike,True,active,4.5,46,Z035,Z132,21,3.6,601,evening,2021-01-01,Bangalore
+DRV0235,Bike,False,active,3.7,25,Z013,Z191,21,,569,afternoon,2021-12-12,Bangalore
+DRV0236,Auto,False,active,3.6,11,Z024,Z121,14,,923,night,2023-02-05,Bangalore
+DRV0237,EV Bike,True,suspended,4.1,13,Z110,Z110,19,3.3,682,evening,2022-12-07,Bangalore
+DRV0238,Auto,False,active,4.5,9,Z098,Z031,18,,926,morning,2023-04-06,Bangalore
+DRV0239,EV Auto,True,inactive,4.9,1,Z077,Z077,16,3.3,990,afternoon,2023-12-02,Bangalore
+DRV0240,Bike,False,active,3.8,59,Z044,Z186,18,,957,afternoon,2021-01-01,Bangalore
+DRV0241,EV Bike,True,inactive,4.1,2,Z053,Z053,21,3.4,527,evening,2023-11-02,Bangalore
+DRV0242,EV Bike,True,active,4.2,17,Z113,Z060,25,2.8,753,flexible,2022-08-09,Bangalore
+DRV0243,Bike,False,inactive,4.2,5,Z160,Z160,25,,622,flexible,2023-08-04,Bangalore
+DRV0244,Auto,False,active,4.2,4,Z157,Z152,20,,938,evening,2023-09-03,Bangalore
+DRV0245,Bike,False,active,4.2,15,Z102,Z135,25,,609,morning,2022-10-08,Bangalore
+DRV0246,Bike,False,active,4.8,11,Z058,Z077,19,,335,evening,2023-02-05,Bangalore
+DRV0247,EV Auto,True,active,4.7,4,Z066,Z066,9,4.3,621,night,2023-09-03,Bangalore
+DRV0248,Bike,False,active,4.3,53,Z069,Z097,16,,834,evening,2021-01-01,Bangalore
+DRV0249,Auto,False,active,3.6,19,Z086,Z078,13,,901,evening,2022-06-10,Bangalore
+DRV0250,EV Bike,True,inactive,4.1,4,Z192,Z192,15,3.1,661,afternoon,2023-09-03,Bangalore
+DRV0251,Auto,False,active,4.6,1,Z100,Z132,17,,1057,night,2023-12-02,Bangalore
+DRV0252,Bike,False,active,3.9,21,Z021,Z145,22,,617,afternoon,2022-04-11,Bangalore
+DRV0253,EV Auto,True,active,4.0,20,Z039,Z051,17,4.2,1008,evening,2022-05-11,Bangalore
+DRV0254,Auto,False,active,4.1,6,Z127,Z186,17,,902,morning,2023-07-05,Bangalore
+DRV0255,Auto,False,active,4.5,32,Z139,Z165,18,,1113,flexible,2021-05-16,Bangalore
+DRV0256,Auto,False,active,4.9,5,Z167,Z060,21,,804,morning,2023-08-04,Bangalore
+DRV0257,Auto,False,active,4.4,1,Z165,Z124,10,,867,evening,2023-12-02,Bangalore
+DRV0258,Bike,False,active,3.5,41,Z071,Z005,28,,1016,flexible,2021-01-01,Bangalore
+DRV0259,Auto,False,active,4.0,6,Z067,Z091,22,,1055,afternoon,2023-07-05,Bangalore
+DRV0260,Bike,False,active,4.7,6,Z058,Z077,17,,419,night,2023-07-05,Bangalore
+DRV0261,Bike,False,active,3.7,15,Z023,Z164,15,,885,evening,2022-10-08,Bangalore
+DRV0262,Bike,False,active,3.5,54,Z029,Z136,16,,804,evening,2021-01-01,Bangalore
+DRV0263,Bike,False,active,4.0,37,Z140,Z145,16,,832,morning,2021-01-01,Bangalore
+DRV0264,Bike,False,active,4.6,29,Z102,Z020,24,,741,evening,2021-08-14,Bangalore
+DRV0265,EV Bike,True,active,4.1,6,Z103,Z194,23,3.5,673,flexible,2023-07-05,Bangalore
+DRV0266,Bike,False,active,5.0,6,Z088,Z155,27,,710,evening,2023-07-05,Bangalore
+DRV0267,EV Bike,True,active,4.3,75,Z156,Z097,22,3.8,1002,morning,2021-01-01,Bangalore
+DRV0268,Auto,False,active,3.7,6,Z022,Z069,16,,942,morning,2023-07-05,Bangalore
+DRV0269,Bike,False,active,4.3,6,Z082,Z114,26,,512,morning,2023-07-05,Bangalore
+DRV0270,Bike,False,active,5.0,32,Z109,Z027,15,,846,morning,2021-05-16,Bangalore
+DRV0271,Auto,False,active,4.3,17,Z072,Z106,22,,1102,flexible,2022-08-09,Bangalore
+DRV0272,EV Auto,True,active,3.8,45,Z102,Z044,12,3.5,1136,morning,2021-01-01,Bangalore
+DRV0273,Bike,False,active,3.5,14,Z025,Z093,23,,516,evening,2022-11-07,Bangalore
+DRV0274,Auto,False,active,4.1,17,Z013,Z102,19,,1008,afternoon,2022-08-09,Bangalore
+DRV0275,Bike,False,inactive,4.0,7,Z163,Z163,19,,466,flexible,2023-06-05,Bangalore
+DRV0276,Bike,False,active,4.7,7,Z082,Z075,30,,528,afternoon,2023-06-05,Bangalore
+DRV0277,Bike,False,active,3.8,20,Z159,Z052,20,,1015,morning,2022-05-11,Bangalore
+DRV0278,Auto,False,inactive,4.2,5,Z072,Z072,22,,946,evening,2023-08-04,Bangalore
+DRV0279,Bike,False,active,4.0,13,Z039,Z184,28,,679,afternoon,2022-12-07,Bangalore
+DRV0280,Auto,False,active,3.5,27,Z190,Z108,22,,1153,evening,2021-10-13,Bangalore
+DRV0281,EV Auto,True,active,4.2,21,Z187,Z091,8,3.6,1167,evening,2022-04-11,Bangalore
+DRV0282,Auto,False,suspended,3.6,31,Z112,Z112,10,,1006,morning,2021-06-15,Bangalore
+DRV0283,Auto,False,active,4.5,6,Z058,Z115,16,,1046,evening,2023-07-05,Bangalore
+DRV0284,Auto,False,active,3.5,2,Z030,Z076,11,,1047,afternoon,2023-11-02,Bangalore
+DRV0285,Bike,False,active,4.2,4,Z098,Z122,18,,694,afternoon,2023-09-03,Bangalore
+DRV0286,Bike,False,active,4.6,24,Z093,Z166,18,,734,flexible,2022-01-11,Bangalore
+DRV0287,Auto,False,active,4.4,22,Z092,Z144,17,,1139,evening,2022-03-12,Bangalore
+DRV0288,Bike,False,active,4.0,13,Z196,Z158,21,,740,afternoon,2022-12-07,Bangalore
+DRV0289,Auto,False,active,4.4,4,Z017,Z148,22,,944,morning,2023-09-03,Bangalore
+DRV0290,Bike,False,active,4.5,1,Z127,Z136,25,,621,afternoon,2023-12-02,Bangalore
+DRV0291,Bike,False,active,3.8,47,Z042,Z173,24,,961,evening,2021-01-01,Bangalore
+DRV0292,Bike,False,active,4.7,34,Z101,Z178,19,,760,evening,2021-03-17,Bangalore
+DRV0293,Auto,False,active,4.6,1,Z154,Z178,18,,843,afternoon,2023-12-02,Bangalore
+DRV0294,Bike,False,inactive,3.6,3,Z099,Z099,15,,675,night,2023-10-03,Bangalore
+DRV0295,EV Auto,True,active,4.3,8,Z189,Z126,15,3.5,832,morning,2023-05-06,Bangalore
+DRV0296,Bike,False,active,4.1,7,Z070,Z058,24,,651,evening,2023-06-05,Bangalore
+DRV0297,EV Bike,True,active,4.8,7,Z160,Z030,20,3.6,708,night,2023-06-05,Bangalore
+DRV0298,EV Bike,True,active,4.5,18,Z111,Z027,25,3.4,773,afternoon,2022-07-10,Bangalore
+DRV0299,EV Bike,True,active,4.2,51,Z199,Z061,23,3.9,1032,flexible,2021-01-01,Bangalore
+DRV0300,Auto,False,active,4.7,10,Z053,Z053,19,,867,afternoon,2023-03-07,Bangalore
+DRV0301,Auto,False,active,5.0,38,Z075,Z147,18,,1046,morning,2021-01-01,Bangalore
+DRV0302,EV Bike,True,active,3.5,25,Z070,Z168,25,3.0,563,evening,2021-12-12,Bangalore
+DRV0303,EV Bike,True,active,4.0,8,Z127,Z037,18,3.4,656,evening,2023-05-06,Bangalore
+DRV0304,EV Bike,True,active,3.8,5,Z070,Z178,19,3.7,548,flexible,2023-08-04,Bangalore
+DRV0305,EV Bike,True,active,4.2,9,Z163,Z171,24,3.3,723,flexible,2023-04-06,Bangalore
+DRV0306,EV Bike,True,active,3.8,54,Z071,Z087,25,4.1,1001,flexible,2021-01-01,Bangalore
+DRV0307,EV Bike,True,active,4.6,53,Z123,Z005,19,2.5,889,flexible,2021-01-01,Bangalore
+DRV0308,Bike,False,active,5.0,4,Z185,Z078,20,,540,afternoon,2023-09-03,Bangalore
+DRV0309,Bike,False,active,4.3,17,Z022,Z102,24,,744,afternoon,2022-08-09,Bangalore
+DRV0310,Bike,False,active,3.6,4,Z025,Z034,22,,628,morning,2023-09-03,Bangalore
+DRV0311,Auto,False,active,4.0,28,Z109,Z178,17,,973,afternoon,2021-09-13,Bangalore
+DRV0312,Auto,False,active,4.0,63,Z073,Z036,22,,1194,evening,2021-01-01,Bangalore
+DRV0313,Auto,False,active,4.8,22,Z165,Z167,17,,941,evening,2022-03-12,Bangalore
+DRV0314,Bike,False,active,4.3,5,Z054,Z023,18,,579,evening,2023-08-04,Bangalore
+DRV0315,Bike,False,suspended,4.3,17,Z036,Z036,22,,503,morning,2022-08-09,Bangalore
+DRV0316,Auto,False,active,3.9,38,Z190,Z007,13,,1109,evening,2021-01-01,Bangalore
+DRV0317,Auto,False,active,4.0,40,Z064,Z127,11,,1053,evening,2021-01-01,Bangalore
+DRV0318,Bike,False,inactive,4.4,15,Z100,Z100,25,,805,afternoon,2022-10-08,Bangalore
+DRV0319,Auto,False,active,4.1,9,Z200,Z019,19,,849,afternoon,2023-04-06,Bangalore
+DRV0320,Bike,False,active,4.6,13,Z130,Z074,28,,550,morning,2022-12-07,Bangalore
+DRV0321,Auto,False,active,4.0,35,Z082,Z021,22,,1101,afternoon,2021-02-15,Bangalore
+DRV0322,Auto,False,active,2.8,17,Z169,Z017,21,,880,morning,2022-08-09,Bangalore
+DRV0323,Bike,False,active,4.0,21,Z164,Z015,24,,830,evening,2022-04-11,Bangalore
+DRV0324,Bike,False,active,3.5,38,Z042,Z128,26,,845,morning,2021-01-01,Bangalore
+DRV0325,Bike,False,active,4.4,35,Z034,Z198,15,,908,afternoon,2021-02-15,Bangalore
+DRV0326,Bike,False,active,4.4,33,Z025,Z128,29,,850,evening,2021-04-16,Bangalore
+DRV0327,Auto,False,active,4.6,18,Z030,Z147,13,,1130,morning,2022-07-10,Bangalore
+DRV0328,EV Bike,True,active,3.9,39,Z100,Z099,25,3.6,902,flexible,2021-01-01,Bangalore
+DRV0329,Auto,False,active,4.1,8,Z110,Z185,14,,957,evening,2023-05-06,Bangalore
+DRV0330,Bike,False,active,3.9,31,Z058,Z133,16,,814,flexible,2021-06-15,Bangalore
+DRV0331,EV Bike,True,active,4.2,1,Z123,Z003,16,4.1,808,evening,2023-12-02,Bangalore
+DRV0332,Bike,False,active,4.5,72,Z198,Z199,21,,781,morning,2021-01-01,Bangalore
+DRV0333,EV Auto,True,active,3.7,19,Z168,Z178,18,3.3,1034,evening,2022-06-10,Bangalore
+DRV0334,Bike,False,active,4.8,3,Z108,Z126,16,,640,morning,2023-10-03,Bangalore
+DRV0335,EV Auto,True,inactive,4.3,60,Z191,Z191,9,3.7,1339,evening,2021-01-01,Bangalore
+DRV0336,Auto,False,active,4.7,49,Z023,Z112,13,,972,flexible,2021-01-01,Bangalore
+DRV0337,EV Auto,True,active,4.0,7,Z084,Z082,9,4.4,908,morning,2023-06-05,Bangalore
+DRV0338,EV Bike,True,active,4.1,16,Z122,Z120,13,3.2,750,night,2022-09-08,Bangalore
+DRV0339,Auto,False,active,4.7,1,Z024,Z041,21,,722,morning,2023-12-02,Bangalore
+DRV0340,EV Bike,True,active,4.3,1,Z066,Z092,12,3.1,591,night,2023-12-02,Bangalore
+DRV0341,Bike,False,suspended,4.8,21,Z143,Z143,22,,697,night,2022-04-11,Bangalore
+DRV0342,Bike,False,active,3.5,106,Z057,Z034,21,,951,evening,2021-01-01,Bangalore
+DRV0343,Auto,False,active,3.6,4,Z025,Z006,13,,656,night,2023-09-03,Bangalore
+DRV0344,Bike,False,inactive,4.5,5,Z032,Z032,16,,743,flexible,2023-08-04,Bangalore
+DRV0345,Bike,False,active,4.3,20,Z102,Z175,28,,632,flexible,2022-05-11,Bangalore
+DRV0346,Bike,False,active,4.1,52,Z165,Z159,22,,722,afternoon,2021-01-01,Bangalore
+DRV0347,Auto,False,active,4.9,10,Z036,Z108,20,,821,morning,2023-03-07,Bangalore
+DRV0348,EV Auto,True,active,4.6,5,Z102,Z183,15,3.2,850,evening,2023-08-04,Bangalore
+DRV0349,Bike,False,active,3.7,36,Z163,Z057,15,,953,morning,2021-01-16,Bangalore
+DRV0350,EV Auto,True,active,4.4,4,Z060,Z041,11,3.0,866,night,2023-09-03,Bangalore
+DRV0351,EV Auto,True,active,4.3,27,Z057,Z148,10,2.9,1039,evening,2021-10-13,Bangalore
+DRV0352,EV Bike,True,active,4.4,18,Z008,Z181,21,3.6,812,morning,2022-07-10,Bangalore
+DRV0353,EV Auto,True,inactive,4.3,29,Z082,Z082,9,2.6,1080,evening,2021-08-14,Bangalore
+DRV0354,Bike,False,active,3.8,3,Z165,Z052,19,,609,flexible,2023-10-03,Bangalore
+DRV0355,EV Bike,True,active,3.9,5,Z162,Z181,13,4.2,891,flexible,2023-08-04,Bangalore
+DRV0356,Bike,False,inactive,3.9,16,Z029,Z029,25,,678,flexible,2022-09-08,Bangalore
+DRV0357,Auto,False,active,4.5,7,Z127,Z167,12,,856,evening,2023-06-05,Bangalore
+DRV0358,EV Auto,True,active,4.1,2,Z162,Z045,12,2.8,856,evening,2023-11-02,Bangalore
+DRV0359,EV Auto,True,inactive,4.0,17,Z200,Z200,13,4.3,644,flexible,2022-08-09,Bangalore
+DRV0360,Bike,False,active,4.6,36,Z037,Z085,17,,648,morning,2021-01-16,Bangalore
+DRV0361,EV Bike,True,active,3.8,5,Z164,Z187,12,2.9,669,evening,2023-08-04,Bangalore
+DRV0362,Bike,False,active,5.0,22,Z013,Z099,29,,707,flexible,2022-03-12,Bangalore
+DRV0363,Auto,False,active,4.1,8,Z029,Z123,12,,943,night,2023-05-06,Bangalore
+DRV0364,Bike,False,active,3.8,8,Z030,Z019,25,,644,evening,2023-05-06,Bangalore
+DRV0365,Auto,False,inactive,3.8,16,Z163,Z163,21,,946,flexible,2022-09-08,Bangalore
+DRV0366,Bike,False,inactive,4.6,5,Z029,Z029,25,,699,evening,2023-08-04,Bangalore
+DRV0367,Auto,False,active,4.8,1,Z071,Z077,11,,1015,evening,2023-12-02,Bangalore
+DRV0368,EV Bike,True,active,4.9,37,Z111,Z023,22,3.5,877,morning,2021-01-01,Bangalore
+DRV0369,Bike,False,active,4.6,8,Z122,Z030,24,,716,evening,2023-05-06,Bangalore
+DRV0370,Auto,False,active,4.2,31,Z043,Z095,15,,1169,morning,2021-06-15,Bangalore
+DRV0371,Bike,False,active,5.0,14,Z145,Z016,19,,587,morning,2022-11-07,Bangalore
+DRV0372,Auto,False,active,4.1,2,Z198,Z151,18,,934,night,2023-11-02,Bangalore
+DRV0373,Bike,False,active,3.9,37,Z122,Z147,22,,726,afternoon,2021-01-01,Bangalore
+DRV0374,EV Bike,True,active,3.8,29,Z152,Z147,24,2.8,731,flexible,2021-08-14,Bangalore
+DRV0375,EV Auto,True,active,4.2,15,Z111,Z021,18,2.8,1182,evening,2022-10-08,Bangalore
+DRV0376,Bike,False,active,3.8,101,Z023,Z100,27,,1090,evening,2021-01-01,Bangalore
+DRV0377,EV Auto,True,active,4.2,5,Z151,Z134,10,2.8,889,evening,2023-08-04,Bangalore
+DRV0378,EV Bike,True,inactive,4.0,1,Z145,Z145,16,4.3,680,flexible,2023-12-02,Bangalore
+DRV0379,Bike,False,active,4.1,37,Z125,Z010,20,,584,evening,2021-01-01,Bangalore
+DRV0380,Auto,False,active,4.6,10,Z092,Z177,10,,1054,flexible,2023-03-07,Bangalore
+DRV0381,EV Bike,True,active,3.7,80,Z078,Z080,25,2.7,874,flexible,2021-01-01,Bangalore
+DRV0382,Bike,False,suspended,3.6,24,Z085,Z085,23,,960,evening,2022-01-11,Bangalore
+DRV0383,Bike,False,active,4.6,42,Z190,Z125,26,,805,morning,2021-01-01,Bangalore
+DRV0384,Auto,False,active,3.5,17,Z135,Z146,12,,916,night,2022-08-09,Bangalore
+DRV0385,Bike,False,active,4.8,24,Z181,Z051,23,,885,evening,2022-01-11,Bangalore
+DRV0386,Auto,False,active,4.4,44,Z101,Z126,12,,1037,evening,2021-01-01,Bangalore
+DRV0387,Bike,False,active,4.0,64,Z192,Z177,17,,839,morning,2021-01-01,Bangalore
+DRV0388,EV Bike,True,active,4.3,13,Z058,Z166,15,3.8,680,evening,2022-12-07,Bangalore
+DRV0389,EV Bike,True,suspended,4.4,11,Z125,Z125,14,4.1,660,morning,2023-02-05,Bangalore
+DRV0390,Auto,False,inactive,3.3,17,Z182,Z182,16,,1013,evening,2022-08-09,Bangalore
+DRV0391,Bike,False,active,4.1,63,Z166,Z102,18,,780,flexible,2021-01-01,Bangalore
+DRV0392,EV Bike,True,active,4.5,8,Z071,Z077,13,4.5,540,evening,2023-05-06,Bangalore
+DRV0393,EV Bike,True,active,4.0,64,Z167,Z077,20,4.3,1011,night,2021-01-01,Bangalore
+DRV0394,EV Bike,True,active,3.6,2,Z189,Z036,19,3.0,627,afternoon,2023-11-02,Bangalore
+DRV0395,Bike,False,active,4.2,8,Z147,Z049,25,,486,evening,2023-05-06,Bangalore
+DRV0396,Auto,False,active,4.1,6,Z092,Z130,12,,1078,flexible,2023-07-05,Bangalore
+DRV0397,Bike,False,active,4.8,4,Z068,Z186,20,,722,morning,2023-09-03,Bangalore
+DRV0398,Bike,False,active,4.5,12,Z092,Z096,23,,806,flexible,2023-01-06,Bangalore
+DRV0399,Auto,False,inactive,4.4,16,Z166,Z166,17,,1031,morning,2022-09-08,Bangalore
+DRV0400,Auto,False,active,4.1,3,Z039,Z036,15,,960,flexible,2023-10-03,Bangalore
+DRV0401,EV Auto,True,active,4.2,14,Z047,Z200,18,4.5,915,afternoon,2022-11-07,Bangalore
+DRV0402,Bike,False,active,4.1,49,Z041,Z148,20,,720,morning,2021-01-01,Bangalore
+DRV0403,Bike,False,active,4.2,1,Z126,Z099,15,,365,evening,2023-12-02,Bangalore
+DRV0404,EV Auto,True,inactive,4.3,37,Z136,Z136,8,3.8,1089,morning,2021-01-01,Bangalore
+DRV0405,Auto,False,active,4.6,13,Z103,Z129,12,,617,afternoon,2022-12-07,Bangalore
+DRV0406,Bike,False,active,3.9,1,Z093,Z112,19,,653,night,2023-12-02,Bangalore
+DRV0407,Bike,False,inactive,4.6,5,Z005,Z005,22,,500,morning,2023-08-04,Bangalore
+DRV0408,Bike,False,active,4.3,11,Z193,Z167,16,,576,night,2023-02-05,Bangalore
+DRV0409,Auto,False,active,4.1,22,Z030,Z168,10,,1036,afternoon,2022-03-12,Bangalore
+DRV0410,Bike,False,active,4.2,18,Z039,Z053,15,,930,morning,2022-07-10,Bangalore
+DRV0411,Auto,False,active,4.3,1,Z108,Z027,14,,1031,evening,2023-12-02,Bangalore
+DRV0412,Auto,False,active,4.3,21,Z052,Z092,14,,1058,evening,2022-04-11,Bangalore
+DRV0413,EV Auto,True,active,4.5,10,Z064,Z001,9,4.2,762,evening,2023-03-07,Bangalore
+DRV0414,Bike,False,active,3.9,20,Z194,Z186,18,,735,evening,2022-05-11,Bangalore
+DRV0415,EV Auto,True,active,4.2,37,Z042,Z011,18,3.1,1074,evening,2021-01-01,Bangalore
+DRV0416,Bike,False,active,4.3,25,Z036,Z170,20,,897,flexible,2021-12-12,Bangalore
+DRV0417,Bike,False,active,4.1,8,Z093,Z047,18,,755,afternoon,2023-05-06,Bangalore
+DRV0418,Bike,False,inactive,4.6,26,Z167,Z167,20,,798,flexible,2021-11-12,Bangalore
+DRV0419,EV Bike,True,active,4.1,31,Z124,Z146,21,4.1,970,evening,2021-06-15,Bangalore
+DRV0420,EV Bike,True,inactive,4.2,1,Z034,Z034,13,3.4,531,morning,2023-12-02,Bangalore
+DRV0421,Auto,False,active,3.8,10,Z135,Z197,20,,777,evening,2023-03-07,Bangalore
+DRV0422,Auto,False,active,3.8,11,Z195,Z064,15,,1141,evening,2023-02-05,Bangalore
+DRV0423,Bike,False,inactive,3.9,5,Z157,Z157,16,,466,evening,2023-08-04,Bangalore
+DRV0424,Auto,False,active,4.3,20,Z198,Z126,13,,915,morning,2022-05-11,Bangalore
+DRV0425,Bike,False,active,3.9,9,Z064,Z021,29,,915,afternoon,2023-04-06,Bangalore
+DRV0426,EV Bike,True,active,4.2,12,Z128,Z191,18,2.6,845,evening,2023-01-06,Bangalore
+DRV0427,EV Bike,True,active,3.6,16,Z164,Z078,22,4.4,532,afternoon,2022-09-08,Bangalore
+DRV0428,Bike,False,active,5.0,27,Z157,Z197,30,,822,evening,2021-10-13,Bangalore
+DRV0429,Bike,False,active,4.4,57,Z093,Z091,24,,987,evening,2021-01-01,Bangalore
+DRV0430,Bike,False,active,4.1,48,Z193,Z191,28,,887,morning,2021-01-01,Bangalore
+DRV0431,Bike,False,inactive,3.9,12,Z044,Z044,25,,626,morning,2023-01-06,Bangalore
+DRV0432,Auto,False,active,3.9,7,Z122,Z118,17,,816,evening,2023-06-05,Bangalore
+DRV0433,Auto,False,active,4.3,7,Z151,Z200,21,,1102,evening,2023-06-05,Bangalore
+DRV0434,Bike,False,active,4.8,6,Z085,Z130,27,,722,afternoon,2023-07-05,Bangalore
+DRV0435,EV Auto,True,suspended,3.8,4,Z036,Z036,16,3.1,843,evening,2023-09-03,Bangalore
+DRV0436,EV Bike,True,active,3.8,14,Z162,Z056,21,3.9,786,flexible,2022-11-07,Bangalore
+DRV0437,Bike,False,active,4.0,16,Z046,Z129,25,,718,evening,2022-09-08,Bangalore
+DRV0438,Auto,False,inactive,4.8,15,Z173,Z173,16,,965,evening,2022-10-08,Bangalore
+DRV0439,Bike,False,active,4.3,55,Z045,Z069,20,,823,morning,2021-01-01,Bangalore
+DRV0440,Bike,False,active,4.7,39,Z155,Z009,26,,841,flexible,2021-01-01,Bangalore
+DRV0441,Auto,False,inactive,3.9,17,Z144,Z144,13,,905,evening,2022-08-09,Bangalore
+DRV0442,Bike,False,active,4.7,42,Z189,Z081,16,,773,morning,2021-01-01,Bangalore
+DRV0443,EV Bike,True,inactive,3.7,28,Z058,Z058,21,4.0,706,morning,2021-09-13,Bangalore
+DRV0444,Auto,False,active,4.5,10,Z189,Z020,12,,882,morning,2023-03-07,Bangalore
+DRV0445,Bike,False,active,3.9,18,Z040,Z150,23,,723,evening,2022-07-10,Bangalore
+DRV0446,Bike,False,active,5.0,4,Z022,Z199,24,,471,evening,2023-09-03,Bangalore
+DRV0447,Bike,False,active,4.5,5,Z043,Z134,17,,674,afternoon,2023-08-04,Bangalore
+DRV0448,Auto,False,active,4.7,15,Z054,Z170,15,,1169,morning,2022-10-08,Bangalore
+DRV0449,EV Bike,True,active,4.0,17,Z193,Z167,22,3.4,570,flexible,2022-08-09,Bangalore
+DRV0450,Auto,False,active,4.3,3,Z175,Z083,22,,914,afternoon,2023-10-03,Bangalore
+DRV0451,Auto,False,active,3.9,11,Z200,Z096,17,,1151,flexible,2023-02-05,Bangalore
+DRV0452,Bike,False,active,4.6,86,Z043,Z198,15,,1132,evening,2021-01-01,Bangalore
+DRV0453,EV Bike,True,inactive,4.4,6,Z030,Z030,25,3.8,875,flexible,2023-07-05,Bangalore
+DRV0454,Auto,False,active,3.8,8,Z092,Z010,11,,854,night,2023-05-06,Bangalore
+DRV0455,Auto,False,active,4.2,2,Z068,Z105,17,,817,afternoon,2023-11-02,Bangalore
+DRV0456,Bike,False,active,4.0,14,Z169,Z185,17,,754,morning,2022-11-07,Bangalore
+DRV0457,EV Bike,True,active,4.3,14,Z072,Z176,13,4.0,820,afternoon,2022-11-07,Bangalore
+DRV0458,Bike,False,active,3.7,20,Z154,Z057,19,,551,afternoon,2022-05-11,Bangalore
+DRV0459,Auto,False,active,4.9,12,Z187,Z166,10,,1010,morning,2023-01-06,Bangalore
+DRV0460,Bike,False,active,4.2,57,Z156,Z022,24,,803,morning,2021-01-01,Bangalore
+DRV0461,EV Auto,True,inactive,4.4,5,Z043,Z043,12,2.9,764,morning,2023-08-04,Bangalore
+DRV0462,EV Bike,True,inactive,3.8,11,Z141,Z141,20,3.1,714,morning,2023-02-05,Bangalore
+DRV0463,Bike,False,active,3.9,20,Z092,Z092,19,,848,morning,2022-05-11,Bangalore
+DRV0464,Auto,False,inactive,4.0,3,Z122,Z122,19,,746,evening,2023-10-03,Bangalore
+DRV0465,Bike,False,active,4.7,14,Z110,Z044,15,,687,evening,2022-11-07,Bangalore
+DRV0466,Auto,False,active,3.9,26,Z188,Z188,17,,1057,afternoon,2021-11-12,Bangalore
+DRV0467,Bike,False,active,4.3,28,Z164,Z021,23,,721,afternoon,2021-09-13,Bangalore
+DRV0468,EV Bike,True,active,3.8,9,Z016,Z130,21,4.0,588,morning,2023-04-06,Bangalore
+DRV0469,Bike,False,active,3.5,10,Z139,Z121,19,,710,flexible,2023-03-07,Bangalore
+DRV0470,Auto,False,inactive,5.0,14,Z129,Z129,16,,834,morning,2022-11-07,Bangalore
+DRV0471,Bike,False,suspended,4.2,88,Z176,Z176,20,,1100,afternoon,2021-01-01,Bangalore
+DRV0472,Bike,False,inactive,4.0,49,Z037,Z037,30,,900,night,2021-01-01,Bangalore
+DRV0473,Bike,False,active,4.2,9,Z187,Z053,26,,633,flexible,2023-04-06,Bangalore
+DRV0474,Bike,False,active,4.4,7,Z152,Z163,23,,706,evening,2023-06-05,Bangalore
+DRV0475,Bike,False,active,4.1,4,Z185,Z020,23,,529,afternoon,2023-09-03,Bangalore
+DRV0476,EV Bike,True,active,3.8,67,Z155,Z002,14,2.7,1142,evening,2021-01-01,Bangalore
+DRV0477,Bike,False,active,4.6,3,Z193,Z031,22,,671,evening,2023-10-03,Bangalore
+DRV0478,Auto,False,active,5.0,27,Z040,Z166,10,,998,morning,2021-10-13,Bangalore
+DRV0479,Auto,False,active,4.2,10,Z160,Z038,12,,792,evening,2023-03-07,Bangalore
+DRV0480,Bike,False,suspended,4.1,2,Z194,Z194,24,,490,evening,2023-11-02,Bangalore
+DRV0481,Auto,False,active,4.2,61,Z109,Z154,22,,1268,evening,2021-01-01,Bangalore
+DRV0482,Auto,False,active,3.5,13,Z123,Z153,13,,887,morning,2022-12-07,Bangalore
+DRV0483,Bike,False,active,3.8,19,Z176,Z108,19,,677,evening,2022-06-10,Bangalore
+DRV0484,Auto,False,active,4.4,19,Z129,Z193,11,,841,morning,2022-06-10,Bangalore
+DRV0485,Auto,False,inactive,4.1,2,Z199,Z199,18,,1088,flexible,2023-11-02,Bangalore
+DRV0486,Auto,False,active,4.0,3,Z124,Z197,15,,865,morning,2023-10-03,Bangalore
+DRV0487,Bike,False,active,4.0,22,Z026,Z073,28,,673,evening,2022-03-12,Bangalore
+DRV0488,EV Bike,True,active,4.2,103,Z013,Z097,24,3.3,962,morning,2021-01-01,Bangalore
+DRV0489,Bike,False,active,4.4,7,Z154,Z109,26,,777,afternoon,2023-06-05,Bangalore
+DRV0490,Bike,False,active,4.4,10,Z042,Z095,30,,924,afternoon,2023-03-07,Bangalore
+DRV0491,Auto,False,active,3.7,9,Z169,Z031,17,,918,morning,2023-04-06,Bangalore
+DRV0492,Auto,False,active,4.7,24,Z158,Z179,12,,982,morning,2022-01-11,Bangalore
+DRV0493,Bike,False,active,4.0,1,Z112,Z023,17,,300,morning,2023-12-02,Bangalore
+DRV0494,Bike,False,active,4.5,3,Z158,Z168,24,,519,flexible,2023-10-03,Bangalore
+DRV0495,EV Bike,True,active,3.6,1,Z045,Z169,12,3.5,677,evening,2023-12-02,Bangalore
+DRV0496,Auto,False,active,3.8,15,Z185,Z001,11,,971,afternoon,2022-10-08,Bangalore
+DRV0497,Bike,False,active,4.7,2,Z196,Z181,17,,590,evening,2023-11-02,Bangalore
+DRV0498,Auto,False,active,3.7,8,Z070,Z058,17,,935,morning,2023-05-06,Bangalore
+DRV0499,Bike,False,active,4.1,9,Z129,Z076,25,,850,flexible,2023-04-06,Bangalore
+DRV0500,EV Bike,True,active,3.9,28,Z190,Z114,19,4.0,516,flexible,2021-09-13,Bangalore
+DRV0501,Auto,False,active,3.9,21,Z018,Z124,14,,1129,evening,2022-04-11,Bangalore
+DRV0502,EV Auto,True,active,3.6,34,Z083,Z106,8,3.9,971,afternoon,2021-03-17,Bangalore
+DRV0503,Bike,False,active,5.0,20,Z088,Z020,20,,627,morning,2022-05-11,Bangalore
+DRV0504,Auto,False,active,4.3,18,Z049,Z128,13,,1085,flexible,2022-07-10,Bangalore
+DRV0505,Bike,False,active,4.2,3,Z166,Z092,19,,524,flexible,2023-10-03,Bangalore
+DRV0506,Auto,False,active,4.2,21,Z199,Z139,17,,1211,afternoon,2022-04-11,Bangalore
+DRV0507,EV Bike,True,inactive,4.1,2,Z070,Z070,24,3.1,682,morning,2023-11-02,Bangalore
+DRV0508,Auto,False,active,3.9,7,Z123,Z139,18,,1090,flexible,2023-06-05,Bangalore
+DRV0509,EV Bike,True,active,4.7,20,Z152,Z118,12,3.8,671,afternoon,2022-05-11,Bangalore
+DRV0510,Bike,False,active,4.0,2,Z048,Z141,23,,557,flexible,2023-11-02,Bangalore
+DRV0511,Bike,False,active,4.7,6,Z110,Z180,26,,716,afternoon,2023-07-05,Bangalore
+DRV0512,Bike,False,active,4.4,9,Z059,Z026,23,,802,afternoon,2023-04-06,Bangalore
+DRV0513,Bike,False,active,4.1,18,Z039,Z122,15,,659,morning,2022-07-10,Bangalore
+DRV0514,EV Bike,True,active,4.5,14,Z083,Z125,20,2.6,866,morning,2022-11-07,Bangalore
+DRV0515,Bike,False,active,3.9,71,Z167,Z025,29,,1066,afternoon,2021-01-01,Bangalore
+DRV0516,Auto,False,inactive,4.8,25,Z016,Z016,11,,1240,flexible,2021-12-12,Bangalore
+DRV0517,Bike,False,active,4.4,3,Z042,Z200,24,,743,evening,2023-10-03,Bangalore
+DRV0518,EV Bike,True,active,4.4,5,Z165,Z074,14,3.8,649,flexible,2023-08-04,Bangalore
+DRV0519,Bike,False,active,3.8,11,Z025,Z021,20,,419,afternoon,2023-02-05,Bangalore
+DRV0520,Bike,False,active,4.4,5,Z069,Z114,26,,642,flexible,2023-08-04,Bangalore
+DRV0521,Bike,False,active,4.1,40,Z195,Z061,23,,766,morning,2021-01-01,Bangalore
+DRV0522,Bike,False,active,3.7,31,Z122,Z141,16,,864,evening,2021-06-15,Bangalore
+DRV0523,EV Auto,True,active,4.1,26,Z026,Z168,11,4.0,1013,afternoon,2021-11-12,Bangalore
+DRV0524,Bike,False,active,4.7,24,Z020,Z170,26,,703,evening,2022-01-11,Bangalore
+DRV0525,EV Bike,True,inactive,4.5,4,Z036,Z036,21,3.8,810,evening,2023-09-03,Bangalore
+DRV0526,Auto,False,active,4.3,50,Z082,Z089,18,,1153,afternoon,2021-01-01,Bangalore
+DRV0527,Bike,False,active,4.4,31,Z013,Z134,19,,676,evening,2021-06-15,Bangalore
+DRV0528,Auto,False,active,4.2,34,Z077,Z003,22,,890,morning,2021-03-17,Bangalore
+DRV0529,Bike,False,active,4.3,17,Z157,Z112,27,,889,afternoon,2022-08-09,Bangalore
+DRV0530,Bike,False,active,3.4,15,Z064,Z133,23,,684,night,2022-10-08,Bangalore
+DRV0531,Bike,False,inactive,4.5,19,Z072,Z072,18,,740,evening,2022-06-10,Bangalore
+DRV0532,Auto,False,active,4.0,12,Z039,Z013,12,,1017,afternoon,2023-01-06,Bangalore
+DRV0533,Auto,False,active,4.1,29,Z039,Z004,13,,942,afternoon,2021-08-14,Bangalore
+DRV0534,EV Bike,True,suspended,4.3,24,Z020,Z020,25,2.6,601,night,2022-01-11,Bangalore
+DRV0535,Bike,False,active,3.7,8,Z067,Z098,15,,693,afternoon,2023-05-06,Bangalore
+DRV0536,EV Auto,True,active,4.3,1,Z051,Z118,11,3.4,1029,evening,2023-12-02,Bangalore
+DRV0537,Bike,False,active,3.9,58,Z021,Z191,18,,967,afternoon,2021-01-01,Bangalore
+DRV0538,Bike,False,active,3.6,3,Z033,Z061,28,,482,night,2023-10-03,Bangalore
+DRV0539,Auto,False,active,4.5,101,Z021,Z149,21,,1255,afternoon,2021-01-01,Bangalore
+DRV0540,Bike,False,active,3.9,24,Z166,Z087,16,,468,morning,2022-01-11,Bangalore
+DRV0541,Auto,False,active,4.3,9,Z083,Z143,22,,1056,morning,2023-04-06,Bangalore
+DRV0542,Bike,False,active,4.9,1,Z021,Z125,29,,514,evening,2023-12-02,Bangalore
+DRV0543,Bike,False,active,3.6,29,Z195,Z120,23,,896,morning,2021-08-14,Bangalore
+DRV0544,Auto,False,active,4.3,12,Z139,Z094,10,,859,evening,2023-01-06,Bangalore
+DRV0545,Auto,False,inactive,4.0,16,Z100,Z100,15,,1002,evening,2022-09-08,Bangalore
+DRV0546,Auto,False,active,4.9,17,Z128,Z197,19,,1211,afternoon,2022-08-09,Bangalore
+DRV0547,Bike,False,active,4.6,6,Z021,Z034,20,,701,evening,2023-07-05,Bangalore
+DRV0548,Bike,False,active,4.2,2,Z169,Z126,23,,767,evening,2023-11-02,Bangalore
+DRV0549,Bike,False,inactive,4.1,28,Z127,Z127,17,,685,morning,2021-09-13,Bangalore
+DRV0550,Auto,False,inactive,4.6,14,Z101,Z101,19,,1051,morning,2022-11-07,Bangalore
+DRV0551,Bike,False,active,3.7,8,Z133,Z025,18,,616,afternoon,2023-05-06,Bangalore
+DRV0552,Bike,False,active,3.9,5,Z042,Z143,28,,608,evening,2023-08-04,Bangalore
+DRV0553,Auto,False,active,4.8,116,Z030,Z043,18,,1375,afternoon,2021-01-01,Bangalore
+DRV0554,Bike,False,suspended,4.3,10,Z099,Z099,25,,719,afternoon,2023-03-07,Bangalore
+DRV0555,Auto,False,inactive,4.7,3,Z064,Z064,16,,984,flexible,2023-10-03,Bangalore
+DRV0556,Bike,False,suspended,4.7,9,Z107,Z107,15,,608,evening,2023-04-06,Bangalore
+DRV0557,Auto,False,suspended,5.0,4,Z073,Z073,13,,1105,morning,2023-09-03,Bangalore
+DRV0558,EV Bike,True,active,3.6,1,Z156,Z131,12,3.2,514,morning,2023-12-02,Bangalore
+DRV0559,Bike,False,active,4.3,7,Z073,Z024,27,,422,evening,2023-06-05,Bangalore
+DRV0560,EV Bike,True,active,4.6,34,Z177,Z180,22,2.6,796,night,2021-03-17,Bangalore
+DRV0561,Bike,False,active,4.4,12,Z086,Z090,28,,596,flexible,2023-01-06,Bangalore
+DRV0562,Bike,False,active,3.8,2,Z015,Z163,27,,603,morning,2023-11-02,Bangalore
+DRV0563,Auto,False,active,4.2,11,Z058,Z040,20,,1167,flexible,2023-02-05,Bangalore
+DRV0564,EV Bike,True,active,4.6,4,Z112,Z075,14,2.7,763,evening,2023-09-03,Bangalore
+DRV0565,Bike,False,active,3.8,26,Z129,Z112,19,,766,evening,2021-11-12,Bangalore
+DRV0566,Auto,False,active,4.3,2,Z165,Z189,13,,924,night,2023-11-02,Bangalore
+DRV0567,Bike,False,inactive,4.2,6,Z187,Z187,28,,605,morning,2023-07-05,Bangalore
+DRV0568,Bike,False,active,4.3,6,Z044,Z090,29,,603,morning,2023-07-05,Bangalore
+DRV0569,EV Bike,True,active,4.6,11,Z198,Z187,23,3.0,608,evening,2023-02-05,Bangalore
+DRV0570,Bike,False,inactive,4.0,2,Z093,Z093,18,,608,morning,2023-11-02,Bangalore
+DRV0571,Bike,False,active,3.2,8,Z152,Z193,23,,746,evening,2023-05-06,Bangalore
+DRV0572,Bike,False,active,4.3,15,Z161,Z170,16,,685,afternoon,2022-10-08,Bangalore
+DRV0573,EV Bike,True,active,3.6,24,Z185,Z003,22,3.8,706,flexible,2022-01-11,Bangalore
+DRV0574,Bike,False,active,3.8,15,Z185,Z099,22,,743,flexible,2022-10-08,Bangalore
+DRV0575,Auto,False,active,4.4,17,Z045,Z129,18,,980,morning,2022-08-09,Bangalore
+DRV0576,EV Auto,True,active,3.9,3,Z197,Z041,13,3.2,827,afternoon,2023-10-03,Bangalore
+DRV0577,EV Auto,True,suspended,3.9,35,Z023,Z023,8,4.4,927,flexible,2021-02-15,Bangalore
+DRV0578,Bike,False,active,4.6,3,Z036,Z023,27,,934,flexible,2023-10-03,Bangalore
+DRV0579,Auto,False,active,4.4,2,Z111,Z080,17,,993,morning,2023-11-02,Bangalore
+DRV0580,Bike,False,active,4.4,2,Z036,Z080,19,,827,evening,2023-11-02,Bangalore
+DRV0581,Auto,False,active,3.8,4,Z154,Z185,12,,569,evening,2023-09-03,Bangalore
+DRV0582,EV Bike,True,inactive,4.0,10,Z109,Z109,23,4.4,941,afternoon,2023-03-07,Bangalore
+DRV0583,EV Bike,True,active,4.4,2,Z199,Z157,21,3.0,906,morning,2023-11-02,Bangalore
+DRV0584,Auto,False,active,4.8,12,Z126,Z035,21,,966,morning,2023-01-06,Bangalore
+DRV0585,Bike,False,active,3.9,4,Z058,Z009,28,,524,flexible,2023-09-03,Bangalore
+DRV0586,Bike,False,active,4.7,14,Z053,Z017,20,,577,evening,2022-11-07,Bangalore
+DRV0587,Bike,False,active,4.3,39,Z108,Z199,16,,764,evening,2021-01-01,Bangalore
+DRV0588,Bike,False,inactive,4.1,11,Z154,Z154,16,,716,evening,2023-02-05,Bangalore
+DRV0589,EV Bike,True,inactive,4.6,14,Z154,Z154,12,3.3,710,night,2022-11-07,Bangalore
+DRV0590,EV Auto,True,active,3.8,20,Z073,Z199,14,3.1,949,flexible,2022-05-11,Bangalore
+DRV0591,Auto,False,inactive,4.0,27,Z169,Z169,11,,1172,morning,2021-10-13,Bangalore
+DRV0592,EV Bike,True,inactive,3.5,29,Z036,Z036,17,2.5,819,evening,2021-08-14,Bangalore
+DRV0593,EV Bike,True,inactive,4.9,29,Z024,Z024,23,4.3,924,night,2021-08-14,Bangalore
+DRV0594,Auto,False,active,4.5,14,Z122,Z163,11,,946,evening,2022-11-07,Bangalore
+DRV0595,EV Auto,True,active,4.4,29,Z156,Z098,13,3.6,893,evening,2021-08-14,Bangalore
+DRV0596,Bike,False,inactive,4.5,43,Z193,Z193,16,,763,evening,2021-01-01,Bangalore
+DRV0597,EV Auto,True,active,4.1,4,Z035,Z052,12,2.5,821,evening,2023-09-03,Bangalore
+DRV0598,Auto,False,active,4.3,3,Z128,Z061,19,,1006,evening,2023-10-03,Bangalore
+DRV0599,Bike,False,active,5.0,2,Z156,Z072,21,,481,morning,2023-11-02,Bangalore
+DRV0600,Bike,False,active,4.3,13,Z160,Z155,24,,693,morning,2022-12-07,Bangalore
+DRV0601,EV Auto,True,active,4.2,75,Z186,Z178,17,3.2,1279,morning,2021-01-01,Bangalore
+DRV0602,EV Bike,True,active,4.7,4,Z018,Z195,13,3.4,841,morning,2023-09-03,Bangalore
+DRV0603,EV Bike,True,active,4.1,4,Z053,Z179,12,3.6,788,flexible,2023-09-03,Bangalore
+DRV0604,Auto,False,active,4.2,14,Z155,Z181,16,,937,afternoon,2022-11-07,Bangalore
+DRV0605,Auto,False,active,4.4,2,Z158,Z145,18,,949,evening,2023-11-02,Bangalore
+DRV0606,EV Bike,True,inactive,3.9,36,Z072,Z072,13,3.4,901,night,2021-01-16,Bangalore
+DRV0607,Auto,False,active,4.3,23,Z110,Z106,15,,1173,night,2022-02-10,Bangalore
+DRV0608,Bike,False,active,4.1,32,Z067,Z018,24,,525,afternoon,2021-05-16,Bangalore
+DRV0609,Bike,False,active,3.4,13,Z194,Z146,15,,592,night,2022-12-07,Bangalore
+DRV0610,EV Auto,True,active,4.0,4,Z020,Z166,18,3.4,989,flexible,2023-09-03,Bangalore
+DRV0611,EV Bike,True,active,4.5,2,Z191,Z015,23,3.1,725,evening,2023-11-02,Bangalore
+DRV0612,Bike,False,active,4.0,8,Z091,Z017,19,,590,afternoon,2023-05-06,Bangalore
+DRV0613,Bike,False,active,4.8,19,Z164,Z100,20,,656,evening,2022-06-10,Bangalore
+DRV0614,Bike,False,active,3.6,34,Z128,Z061,26,,919,morning,2021-03-17,Bangalore
+DRV0615,Bike,False,active,4.4,19,Z200,Z052,17,,692,night,2022-06-10,Bangalore
+DRV0616,EV Auto,True,active,4.3,8,Z126,Z188,10,4.0,795,morning,2023-05-06,Bangalore
+DRV0617,EV Auto,True,active,4.0,4,Z053,Z186,16,2.7,894,afternoon,2023-09-03,Bangalore
+DRV0618,Bike,False,inactive,4.0,33,Z086,Z086,29,,827,night,2021-04-16,Bangalore
+DRV0619,Auto,False,active,4.5,22,Z164,Z054,13,,848,afternoon,2022-03-12,Bangalore
+DRV0620,Bike,False,active,3.4,5,Z039,Z041,23,,640,evening,2023-08-04,Bangalore
+DRV0621,Bike,False,active,4.4,37,Z069,Z037,24,,806,morning,2021-01-01,Bangalore
+DRV0622,Auto,False,active,4.5,20,Z035,Z008,20,,1080,afternoon,2022-05-11,Bangalore
+DRV0623,Bike,False,active,4.4,20,Z152,Z162,29,,671,afternoon,2022-05-11,Bangalore
+DRV0624,Bike,False,active,3.8,11,Z021,Z194,29,,673,night,2023-02-05,Bangalore
+DRV0625,EV Auto,True,active,4.6,15,Z189,Z165,11,2.8,910,flexible,2022-10-08,Bangalore
+DRV0626,Bike,False,active,4.3,3,Z187,Z085,25,,607,morning,2023-10-03,Bangalore
+DRV0627,Bike,False,active,4.0,25,Z073,Z197,26,,714,evening,2021-12-12,Bangalore
+DRV0628,Bike,False,active,4.1,36,Z157,Z167,17,,830,evening,2021-01-16,Bangalore
+DRV0629,Auto,False,active,4.4,26,Z040,Z124,11,,998,night,2021-11-12,Bangalore
+DRV0630,Auto,False,active,4.6,6,Z093,Z140,12,,866,morning,2023-07-05,Bangalore
+DRV0631,EV Auto,True,active,4.3,2,Z162,Z153,9,4.1,1080,morning,2023-11-02,Bangalore
+DRV0632,EV Auto,True,active,3.4,17,Z163,Z198,18,3.8,899,morning,2022-08-09,Bangalore
+DRV0633,EV Bike,True,inactive,3.8,25,Z163,Z163,14,2.8,646,evening,2021-12-12,Bangalore
+DRV0634,Bike,False,active,4.4,17,Z189,Z082,24,,792,afternoon,2022-08-09,Bangalore
+DRV0635,EV Auto,True,active,4.2,29,Z089,Z023,14,4.2,974,flexible,2021-08-14,Bangalore
+DRV0636,Bike,False,inactive,4.2,98,Z001,Z001,26,,943,flexible,2021-01-01,Bangalore
+DRV0637,Bike,False,active,4.2,2,Z083,Z183,27,,749,evening,2023-11-02,Bangalore
+DRV0638,Auto,False,active,4.3,3,Z103,Z093,12,,1054,morning,2023-10-03,Bangalore
+DRV0639,Bike,False,active,4.6,39,Z127,Z169,28,,855,evening,2021-01-01,Bangalore
+DRV0640,Bike,False,active,4.5,11,Z155,Z109,20,,977,evening,2023-02-05,Bangalore
+DRV0641,Auto,False,active,3.9,27,Z164,Z002,21,,815,afternoon,2021-10-13,Bangalore
+DRV0642,EV Auto,True,active,4.6,11,Z020,Z146,9,3.7,932,flexible,2023-02-05,Bangalore
+DRV0643,Bike,False,active,4.8,17,Z198,Z200,23,,842,evening,2022-08-09,Bangalore
+DRV0644,Auto,False,active,3.8,13,Z186,Z172,20,,1058,night,2022-12-07,Bangalore
+DRV0645,Bike,False,active,4.1,13,Z015,Z121,29,,563,evening,2022-12-07,Bangalore
+DRV0646,Bike,False,suspended,4.4,17,Z075,Z075,20,,702,evening,2022-08-09,Bangalore
+DRV0647,Auto,False,active,4.2,19,Z125,Z149,19,,1198,flexible,2022-06-10,Bangalore
+DRV0648,EV Bike,True,active,4.2,9,Z026,Z033,16,2.8,672,afternoon,2023-04-06,Bangalore
+DRV0649,EV Bike,True,active,4.0,3,Z042,Z152,19,4.1,660,afternoon,2023-10-03,Bangalore
+DRV0650,Auto,False,active,4.1,4,Z009,Z088,12,,671,night,2023-09-03,Bangalore
+DRV0651,EV Bike,True,active,3.6,5,Z186,Z113,21,2.6,766,afternoon,2023-08-04,Bangalore
+DRV0652,EV Bike,True,active,4.1,1,Z125,Z078,24,3.0,655,evening,2023-12-02,Bangalore
+DRV0653,Bike,False,active,4.1,30,Z112,Z004,24,,659,evening,2021-07-15,Bangalore
+DRV0654,EV Auto,True,active,4.4,7,Z154,Z164,18,4.2,1212,afternoon,2023-06-05,Bangalore
+DRV0655,Bike,False,active,4.1,2,Z107,Z119,22,,690,night,2023-11-02,Bangalore
+DRV0656,Auto,False,active,3.8,8,Z081,Z141,20,,972,morning,2023-05-06,Bangalore
+DRV0657,Bike,False,active,4.6,13,Z058,Z186,24,,667,morning,2022-12-07,Bangalore
+DRV0658,Bike,False,inactive,4.0,10,Z054,Z054,18,,571,flexible,2023-03-07,Bangalore
+DRV0659,Bike,False,active,3.5,43,Z145,Z048,18,,624,afternoon,2021-01-01,Bangalore
+DRV0660,Auto,False,active,4.5,7,Z070,Z197,21,,1118,afternoon,2023-06-05,Bangalore
+DRV0661,EV Bike,True,active,4.0,6,Z103,Z086,25,2.9,697,morning,2023-07-05,Bangalore
+DRV0662,EV Auto,True,active,4.3,21,Z169,Z126,14,2.9,881,evening,2022-04-11,Bangalore
+DRV0663,EV Auto,True,active,4.1,11,Z025,Z019,8,4.3,798,morning,2023-02-05,Bangalore
+DRV0664,Auto,False,inactive,3.8,10,Z069,Z069,21,,913,evening,2023-03-07,Bangalore
+DRV0665,Auto,False,inactive,4.1,2,Z112,Z112,21,,919,evening,2023-11-02,Bangalore
+DRV0666,Bike,False,suspended,4.4,20,Z124,Z124,18,,679,afternoon,2022-05-11,Bangalore
+DRV0667,Bike,False,active,3.8,17,Z166,Z024,26,,854,morning,2022-08-09,Bangalore
+DRV0668,Auto,False,active,4.3,38,Z042,Z142,16,,1181,afternoon,2021-01-01,Bangalore
+DRV0669,Bike,False,active,4.0,42,Z127,Z022,29,,853,morning,2021-01-01,Bangalore
+DRV0670,Bike,False,suspended,4.2,3,Z103,Z103,17,,525,afternoon,2023-10-03,Bangalore
+DRV0671,Auto,False,inactive,4.2,7,Z016,Z016,15,,910,night,2023-06-05,Bangalore
+DRV0672,Bike,False,active,5.0,1,Z171,Z134,29,,546,morning,2023-12-02,Bangalore
+DRV0673,Auto,False,inactive,4.3,8,Z037,Z037,20,,816,flexible,2023-05-06,Bangalore
+DRV0674,Auto,False,active,4.5,34,Z015,Z045,14,,1224,evening,2021-03-17,Bangalore
+DRV0675,Bike,False,active,3.9,21,Z028,Z030,30,,918,morning,2022-04-11,Bangalore
+DRV0676,EV Bike,True,active,3.8,29,Z189,Z174,13,3.7,663,morning,2021-08-14,Bangalore
+DRV0677,EV Bike,True,active,4.8,32,Z152,Z045,13,2.8,779,afternoon,2021-05-16,Bangalore
+DRV0678,Auto,False,active,3.5,16,Z161,Z011,11,,896,evening,2022-09-08,Bangalore
+DRV0679,EV Bike,True,active,4.7,23,Z013,Z002,23,3.7,565,afternoon,2022-02-10,Bangalore
+DRV0680,Auto,False,active,3.8,4,Z035,Z053,20,,1097,evening,2023-09-03,Bangalore
+DRV0681,Bike,False,active,3.8,40,Z163,Z047,30,,774,night,2021-01-01,Bangalore
+DRV0682,Bike,False,active,3.8,1,Z044,Z031,18,,553,evening,2023-12-02,Bangalore
+DRV0683,Auto,False,active,4.7,8,Z022,Z050,22,,1107,night,2023-05-06,Bangalore
+DRV0684,EV Auto,True,active,4.1,7,Z021,Z014,14,3.0,799,evening,2023-06-05,Bangalore
+DRV0685,EV Bike,True,active,4.6,9,Z022,Z138,24,3.5,888,morning,2023-04-06,Bangalore
+DRV0686,EV Bike,True,active,5.0,3,Z085,Z108,22,3.0,609,morning,2023-10-03,Bangalore
+DRV0687,Bike,False,active,4.0,13,Z045,Z097,22,,663,evening,2022-12-07,Bangalore
+DRV0688,EV Bike,True,active,4.2,1,Z117,Z046,14,3.9,704,evening,2023-12-02,Bangalore
+DRV0689,EV Auto,True,active,4.2,4,Z190,Z146,9,4.2,825,evening,2023-09-03,Bangalore
+DRV0690,Bike,False,active,3.5,42,Z155,Z041,20,,767,morning,2021-01-01,Bangalore
+DRV0691,EV Bike,True,active,4.5,17,Z152,Z122,12,4.0,694,morning,2022-08-09,Bangalore
+DRV0692,Bike,False,active,3.6,8,Z152,Z039,15,,461,flexible,2023-05-06,Bangalore
+DRV0693,Auto,False,active,3.7,15,Z107,Z123,17,,992,morning,2022-10-08,Bangalore
+DRV0694,EV Bike,True,active,4.8,33,Z054,Z034,15,4.5,845,morning,2021-04-16,Bangalore
+DRV0695,Auto,False,active,3.5,6,Z160,Z192,17,,864,flexible,2023-07-05,Bangalore
+DRV0696,Bike,False,active,3.7,62,Z124,Z181,15,,806,flexible,2021-01-01,Bangalore
+DRV0697,Bike,False,active,3.4,16,Z069,Z179,21,,769,evening,2022-09-08,Bangalore
+DRV0698,Bike,False,inactive,4.1,18,Z188,Z188,26,,557,afternoon,2022-07-10,Bangalore
+DRV0699,Auto,False,active,3.2,92,Z157,Z181,18,,1265,morning,2021-01-01,Bangalore
+DRV0700,Bike,False,active,4.3,16,Z196,Z193,21,,787,afternoon,2022-09-08,Bangalore
+DRV0701,EV Bike,True,active,3.7,10,Z022,Z017,19,3.5,759,night,2023-03-07,Bangalore
+DRV0702,Auto,False,active,4.2,15,Z075,Z116,22,,906,morning,2022-10-08,Bangalore
+DRV0703,EV Bike,True,active,4.3,14,Z042,Z074,14,2.7,776,morning,2022-11-07,Bangalore
+DRV0704,Bike,False,active,4.1,29,Z006,Z076,28,,778,evening,2021-08-14,Bangalore
+DRV0705,Bike,False,active,4.4,52,Z044,Z017,15,,815,evening,2021-01-01,Bangalore
+DRV0706,Bike,False,active,4.2,72,Z085,Z125,29,,819,morning,2021-01-01,Bangalore
+DRV0707,EV Bike,True,active,4.7,16,Z126,Z096,25,2.8,723,afternoon,2022-09-08,Bangalore
+DRV0708,EV Auto,True,active,3.6,5,Z154,Z074,18,4.1,773,morning,2023-08-04,Bangalore
+DRV0709,Bike,False,suspended,4.0,13,Z113,Z113,23,,829,evening,2022-12-07,Bangalore
+DRV0710,Bike,False,active,5.0,37,Z101,Z115,20,,752,flexible,2021-01-01,Bangalore
+DRV0711,Bike,False,active,4.2,32,Z123,Z082,19,,794,flexible,2021-05-16,Bangalore
+DRV0712,Bike,False,active,4.4,57,Z072,Z194,19,,1064,afternoon,2021-01-01,Bangalore
+DRV0713,Bike,False,active,4.1,35,Z188,Z142,18,,756,evening,2021-02-15,Bangalore
+DRV0714,Bike,False,active,4.7,41,Z164,Z165,21,,780,night,2021-01-01,Bangalore
+DRV0715,EV Bike,True,active,4.4,18,Z122,Z174,18,3.5,387,evening,2022-07-10,Bangalore
+DRV0716,Auto,False,active,5.0,24,Z107,Z038,15,,991,morning,2022-01-11,Bangalore
+DRV0717,Bike,False,active,3.9,7,Z157,Z023,21,,683,night,2023-06-05,Bangalore
+DRV0718,Bike,False,active,4.7,6,Z109,Z187,28,,566,evening,2023-07-05,Bangalore
+DRV0719,Bike,False,active,4.6,7,Z135,Z086,17,,696,morning,2023-06-05,Bangalore
+DRV0720,Bike,False,inactive,4.4,3,Z157,Z157,29,,700,morning,2023-10-03,Bangalore
+DRV0721,EV Bike,True,active,4.5,20,Z073,Z150,20,2.9,840,night,2022-05-11,Bangalore
+DRV0722,Bike,False,active,4.4,18,Z168,Z121,18,,743,afternoon,2022-07-10,Bangalore
+DRV0723,Auto,False,active,4.2,2,Z034,Z196,17,,804,evening,2023-11-02,Bangalore
+DRV0724,Auto,False,active,3.5,2,Z161,Z176,21,,714,afternoon,2023-11-02,Bangalore
+DRV0725,Auto,False,active,3.9,30,Z161,Z015,15,,1013,afternoon,2021-07-15,Bangalore
+DRV0726,Bike,False,active,4.2,7,Z099,Z013,24,,708,flexible,2023-06-05,Bangalore
+DRV0727,Auto,False,active,4.2,29,Z029,Z154,18,,946,night,2021-08-14,Bangalore
+DRV0728,Auto,False,active,4.1,2,Z190,Z093,18,,919,night,2023-11-02,Bangalore
+DRV0729,Bike,False,active,3.6,5,Z127,Z106,25,,533,morning,2023-08-04,Bangalore
+DRV0730,Bike,False,active,4.5,48,Z158,Z177,18,,764,morning,2021-01-01,Bangalore
+DRV0731,Bike,False,active,4.5,7,Z190,Z093,19,,611,night,2023-06-05,Bangalore
+DRV0732,Bike,False,active,3.6,19,Z034,Z057,19,,679,afternoon,2022-06-10,Bangalore
+DRV0733,Bike,False,suspended,4.2,8,Z199,Z199,18,,673,night,2023-05-06,Bangalore
+DRV0734,Bike,False,active,3.9,40,Z132,Z152,16,,840,morning,2021-01-01,Bangalore
+DRV0735,Bike,False,active,3.0,16,Z034,Z155,21,,702,evening,2022-09-08,Bangalore
+DRV0736,Bike,False,active,3.9,21,Z072,Z149,26,,727,night,2022-04-11,Bangalore
+DRV0737,Auto,False,active,4.5,32,Z161,Z196,18,,943,flexible,2021-05-16,Bangalore
+DRV0738,Bike,False,active,4.3,14,Z194,Z026,21,,834,afternoon,2022-11-07,Bangalore
+DRV0739,Auto,False,active,4.4,6,Z047,Z091,16,,868,morning,2023-07-05,Bangalore
+DRV0740,Bike,False,suspended,3.5,3,Z033,Z033,19,,611,evening,2023-10-03,Bangalore
+DRV0741,Auto,False,active,4.0,25,Z033,Z099,17,,1043,evening,2021-12-12,Bangalore
+DRV0742,EV Bike,True,active,3.9,6,Z111,Z049,19,3.2,681,morning,2023-07-05,Bangalore
+DRV0743,Auto,False,active,4.1,33,Z152,Z169,11,,1083,afternoon,2021-04-16,Bangalore
+DRV0744,Auto,False,active,3.9,2,Z044,Z017,13,,1045,evening,2023-11-02,Bangalore
+DRV0745,EV Auto,True,active,3.7,34,Z186,Z128,17,3.7,921,night,2021-03-17,Bangalore
+DRV0746,EV Bike,True,inactive,4.6,41,Z187,Z187,20,2.8,775,evening,2021-01-01,Bangalore
+DRV0747,Bike,False,active,4.5,9,Z036,Z008,18,,628,evening,2023-04-06,Bangalore
+DRV0748,Bike,False,active,4.2,9,Z085,Z040,24,,882,night,2023-04-06,Bangalore
+DRV0749,Auto,False,active,4.8,1,Z124,Z052,20,,1016,evening,2023-12-02,Bangalore
+DRV0750,Auto,False,active,4.4,20,Z016,Z196,16,,902,evening,2022-05-11,Bangalore
+DRV0751,EV Bike,True,active,4.2,7,Z042,Z143,14,3.4,708,afternoon,2023-06-05,Bangalore
+DRV0752,Bike,False,active,4.3,19,Z127,Z169,30,,660,evening,2022-06-10,Bangalore
+DRV0753,Bike,False,active,4.1,57,Z158,Z174,26,,830,morning,2021-01-01,Bangalore
+DRV0754,Auto,False,active,3.1,12,Z196,Z150,22,,962,afternoon,2023-01-06,Bangalore
+DRV0755,Bike,False,suspended,4.0,9,Z023,Z023,22,,498,afternoon,2023-04-06,Bangalore
+DRV0756,Bike,False,active,4.7,35,Z030,Z087,20,,736,morning,2021-02-15,Bangalore
+DRV0757,Auto,False,active,4.4,12,Z110,Z069,21,,823,morning,2023-01-06,Bangalore
+DRV0758,Bike,False,active,4.1,21,Z029,Z126,18,,748,afternoon,2022-04-11,Bangalore
+DRV0759,Auto,False,active,3.6,3,Z165,Z077,16,,1013,evening,2023-10-03,Bangalore
+DRV0760,EV Auto,True,active,4.7,7,Z055,Z074,17,3.3,982,morning,2023-06-05,Bangalore
+DRV0761,Auto,False,active,3.7,23,Z025,Z152,14,,1212,night,2022-02-10,Bangalore
+DRV0762,Auto,False,active,4.3,7,Z167,Z078,16,,917,afternoon,2023-06-05,Bangalore
+DRV0763,Bike,False,active,4.0,3,Z187,Z196,20,,595,flexible,2023-10-03,Bangalore
+DRV0764,Auto,False,active,3.5,33,Z191,Z120,20,,1079,flexible,2021-04-16,Bangalore
+DRV0765,EV Auto,True,inactive,4.1,13,Z016,Z016,10,3.0,795,evening,2022-12-07,Bangalore
+DRV0766,EV Bike,True,inactive,4.5,17,Z024,Z024,16,3.8,445,afternoon,2022-08-09,Bangalore
+DRV0767,Auto,False,active,4.2,60,Z044,Z008,22,,1168,evening,2021-01-01,Bangalore
+DRV0768,Auto,False,active,5.0,7,Z020,Z052,14,,960,afternoon,2023-06-05,Bangalore
+DRV0769,EV Bike,True,active,4.5,14,Z021,Z185,12,4.2,806,morning,2022-11-07,Bangalore
+DRV0770,Auto,False,inactive,4.1,6,Z105,Z105,20,,953,afternoon,2023-07-05,Bangalore
+DRV0771,EV Bike,True,inactive,4.2,8,Z160,Z160,22,4.4,875,flexible,2023-05-06,Bangalore
+DRV0772,Bike,False,inactive,4.6,66,Z034,Z034,25,,767,evening,2021-01-01,Bangalore
+DRV0773,EV Bike,True,active,4.3,28,Z056,Z037,15,3.4,819,afternoon,2021-09-13,Bangalore
+DRV0774,Auto,False,active,3.3,7,Z033,Z082,17,,822,flexible,2023-06-05,Bangalore
+DRV0775,EV Bike,True,inactive,4.2,25,Z193,Z193,12,4.4,577,evening,2021-12-12,Bangalore
+DRV0776,EV Bike,True,active,3.9,57,Z177,Z172,20,3.1,930,flexible,2021-01-01,Bangalore
+DRV0777,Bike,False,active,4.2,60,Z064,Z114,27,,927,afternoon,2021-01-01,Bangalore
+DRV0778,EV Auto,True,active,4.1,5,Z040,Z113,18,3.3,796,morning,2023-08-04,Bangalore
+DRV0779,EV Bike,True,inactive,4.0,18,Z121,Z121,23,4.3,701,night,2022-07-10,Bangalore
+DRV0780,EV Bike,True,active,4.4,3,Z099,Z108,23,4.0,834,evening,2023-10-03,Bangalore
+DRV0781,Bike,False,active,4.4,9,Z013,Z103,21,,781,evening,2023-04-06,Bangalore
+DRV0782,Bike,False,active,3.7,8,Z197,Z167,19,,741,night,2023-05-06,Bangalore
+DRV0783,Bike,False,active,4.1,12,Z067,Z045,25,,715,morning,2023-01-06,Bangalore
+DRV0784,Bike,False,active,4.3,2,Z160,Z058,15,,684,evening,2023-11-02,Bangalore
+DRV0785,Bike,False,active,3.9,3,Z068,Z180,20,,865,afternoon,2023-10-03,Bangalore
+DRV0786,Bike,False,active,4.2,5,Z159,Z031,15,,695,night,2023-08-04,Bangalore
+DRV0787,EV Auto,True,inactive,5.0,2,Z058,Z058,12,3.1,860,evening,2023-11-02,Bangalore
+DRV0788,Bike,False,inactive,4.5,12,Z071,Z071,21,,585,night,2023-01-06,Bangalore
+DRV0789,Bike,False,suspended,3.3,1,Z122,Z122,22,,789,evening,2023-12-02,Bangalore
+DRV0790,Bike,False,active,4.1,5,Z178,Z102,21,,477,evening,2023-08-04,Bangalore
+DRV0791,Bike,False,active,4.0,59,Z092,Z061,30,,965,flexible,2021-01-01,Bangalore
+DRV0792,Auto,False,active,4.2,6,Z067,Z130,14,,969,afternoon,2023-07-05,Bangalore
+DRV0793,EV Auto,True,active,5.0,2,Z068,Z044,10,2.7,696,evening,2023-11-02,Bangalore
+DRV0794,Bike,False,active,4.3,4,Z035,Z128,23,,624,afternoon,2023-09-03,Bangalore
+DRV0795,EV Bike,True,active,4.4,26,Z068,Z133,14,4.0,782,evening,2021-11-12,Bangalore
+DRV0796,EV Auto,True,active,4.2,23,Z163,Z113,8,3.0,815,morning,2022-02-10,Bangalore
+DRV0797,Bike,False,active,4.5,20,Z128,Z011,29,,544,evening,2022-05-11,Bangalore
+DRV0798,Auto,False,inactive,4.3,27,Z032,Z032,11,,890,morning,2021-10-13,Bangalore
+DRV0799,Bike,False,active,4.1,1,Z186,Z150,21,,604,night,2023-12-02,Bangalore
+DRV0800,Bike,False,inactive,4.4,5,Z128,Z128,18,,600,evening,2023-08-04,Bangalore
+DRV0801,Auto,False,active,3.7,7,Z030,Z083,10,,1007,night,2023-06-05,Bangalore
+DRV0802,Auto,False,active,4.4,2,Z153,Z169,15,,995,evening,2023-11-02,Bangalore
+DRV0803,Auto,False,inactive,4.0,12,Z146,Z146,13,,952,night,2023-01-06,Bangalore
+DRV0804,Bike,False,active,3.9,7,Z141,Z155,27,,675,morning,2023-06-05,Bangalore
+DRV0805,EV Auto,True,inactive,4.5,90,Z053,Z053,14,3.1,1228,night,2021-01-01,Bangalore
+DRV0806,Auto,False,active,3.7,26,Z112,Z189,20,,837,afternoon,2021-11-12,Bangalore
+DRV0807,Bike,False,active,3.5,28,Z122,Z100,30,,860,afternoon,2021-09-13,Bangalore
+DRV0808,EV Bike,True,active,4.4,8,Z112,Z162,12,3.2,500,evening,2023-05-06,Bangalore
+DRV0809,Bike,False,active,3.7,4,Z128,Z135,17,,707,morning,2023-09-03,Bangalore
+DRV0810,EV Bike,True,active,3.6,1,Z176,Z077,18,3.6,658,evening,2023-12-02,Bangalore
+DRV0811,EV Auto,True,active,4.0,55,Z109,Z025,17,4.1,1207,afternoon,2021-01-01,Bangalore
+DRV0812,Auto,False,active,3.6,16,Z196,Z170,12,,1218,night,2022-09-08,Bangalore
+DRV0813,Bike,False,active,4.8,6,Z081,Z151,29,,642,evening,2023-07-05,Bangalore
+DRV0814,Bike,False,suspended,4.5,53,Z048,Z048,21,,830,afternoon,2021-01-01,Bangalore
+DRV0815,Auto,False,active,4.1,28,Z107,Z030,12,,1150,evening,2021-09-13,Bangalore
+DRV0816,Bike,False,active,4.1,5,Z186,Z125,24,,300,afternoon,2023-08-04,Bangalore
+DRV0817,Auto,False,active,3.7,8,Z073,Z023,12,,983,morning,2023-05-06,Bangalore
+DRV0818,Bike,False,suspended,4.1,2,Z054,Z054,30,,663,morning,2023-11-02,Bangalore
+DRV0819,EV Bike,True,inactive,3.2,30,Z027,Z027,19,3.4,823,morning,2021-07-15,Bangalore
+DRV0820,Bike,False,active,4.0,22,Z125,Z121,15,,824,morning,2022-03-12,Bangalore
+DRV0821,Auto,False,inactive,4.5,3,Z015,Z015,20,,1058,flexible,2023-10-03,Bangalore
+DRV0822,EV Bike,True,active,4.2,6,Z156,Z075,18,3.5,806,evening,2023-07-05,Bangalore
+DRV0823,EV Auto,True,inactive,4.0,3,Z060,Z060,14,3.7,855,evening,2023-10-03,Bangalore
+DRV0824,Bike,False,active,4.5,2,Z030,Z127,26,,302,morning,2023-11-02,Bangalore
+DRV0825,Bike,False,active,3.8,5,Z059,Z130,22,,494,flexible,2023-08-04,Bangalore
+DRV0826,EV Bike,True,active,4.7,34,Z072,Z186,25,3.8,918,afternoon,2021-03-17,Bangalore
+DRV0827,Auto,False,suspended,3.5,8,Z053,Z053,21,,858,evening,2023-05-06,Bangalore
+DRV0828,Bike,False,active,4.5,4,Z029,Z107,30,,689,evening,2023-09-03,Bangalore
+DRV0829,EV Auto,True,active,4.5,30,Z188,Z041,9,3.2,969,morning,2021-07-15,Bangalore
+DRV0830,Bike,False,active,4.8,20,Z093,Z091,16,,493,flexible,2022-05-11,Bangalore
+DRV0831,EV Bike,True,inactive,4.2,23,Z030,Z030,24,4.4,668,night,2022-02-10,Bangalore
+DRV0832,EV Auto,True,active,4.4,16,Z030,Z144,10,3.8,861,flexible,2022-09-08,Bangalore
+DRV0833,EV Auto,True,active,4.5,7,Z113,Z196,9,2.8,704,afternoon,2023-06-05,Bangalore
+DRV0834,EV Bike,True,active,4.6,2,Z110,Z197,25,3.2,756,evening,2023-11-02,Bangalore
+DRV0835,Bike,False,active,5.0,9,Z093,Z162,22,,1018,afternoon,2023-04-06,Bangalore
+DRV0836,Bike,False,active,4.6,12,Z109,Z118,26,,779,night,2023-01-06,Bangalore
+DRV0837,Auto,False,active,4.3,24,Z093,Z081,22,,1079,morning,2022-01-11,Bangalore
+DRV0838,EV Bike,True,active,4.0,30,Z160,Z015,18,3.9,881,flexible,2021-07-15,Bangalore
+DRV0839,Auto,False,active,4.0,8,Z070,Z136,21,,807,evening,2023-05-06,Bangalore
+DRV0840,EV Bike,True,active,4.6,15,Z113,Z179,24,3.3,837,morning,2022-10-08,Bangalore
+DRV0841,Bike,False,active,4.2,9,Z194,Z185,19,,725,morning,2023-04-06,Bangalore
+DRV0842,Auto,False,active,4.4,24,Z168,Z041,10,,955,evening,2022-01-11,Bangalore
+DRV0843,Bike,False,active,4.1,33,Z130,Z029,16,,756,evening,2021-04-16,Bangalore
+DRV0844,Bike,False,active,4.2,5,Z115,Z077,15,,679,night,2023-08-04,Bangalore
+DRV0845,EV Auto,True,active,4.6,15,Z161,Z171,12,3.8,994,night,2022-10-08,Bangalore
+DRV0846,Auto,False,active,4.9,36,Z196,Z064,15,,1084,morning,2021-01-16,Bangalore
+DRV0847,EV Bike,True,active,4.4,15,Z111,Z106,12,4.3,661,evening,2022-10-08,Bangalore
+DRV0848,Bike,False,active,3.8,37,Z162,Z144,27,,751,evening,2021-01-01,Bangalore
+DRV0849,EV Auto,True,active,4.0,7,Z188,Z107,10,3.5,781,evening,2023-06-05,Bangalore
+DRV0850,EV Auto,True,active,4.4,29,Z190,Z055,10,4.4,1092,afternoon,2021-08-14,Bangalore
+DRV0851,EV Auto,True,active,4.5,16,Z034,Z095,10,2.7,766,afternoon,2022-09-08,Bangalore
+DRV0852,Bike,False,active,4.2,7,Z037,Z037,28,,558,morning,2023-06-05,Bangalore
+DRV0853,EV Bike,True,active,3.8,18,Z098,Z018,19,3.1,577,evening,2022-07-10,Bangalore
+DRV0854,Bike,False,active,4.7,10,Z156,Z034,19,,545,night,2023-03-07,Bangalore
+DRV0855,Auto,False,active,4.0,21,Z023,Z160,16,,800,afternoon,2022-04-11,Bangalore
+DRV0856,Bike,False,active,4.0,9,Z070,Z166,17,,625,evening,2023-04-06,Bangalore
+DRV0857,EV Bike,True,active,4.3,21,Z034,Z165,21,3.7,815,morning,2022-04-11,Bangalore
+DRV0858,Auto,False,active,3.7,10,Z016,Z031,10,,1012,morning,2023-03-07,Bangalore
+DRV0859,Auto,False,inactive,4.0,6,Z154,Z154,16,,961,evening,2023-07-05,Bangalore
+DRV0860,EV Auto,True,active,4.0,71,Z018,Z136,9,2.7,1004,morning,2021-01-01,Bangalore
+DRV0861,Bike,False,active,4.2,4,Z027,Z040,24,,528,morning,2023-09-03,Bangalore
+DRV0862,EV Auto,True,active,4.8,22,Z077,Z100,14,4.3,886,afternoon,2022-03-12,Bangalore
+DRV0863,EV Auto,True,inactive,3.5,10,Z064,Z064,16,3.3,788,morning,2023-03-07,Bangalore
+DRV0864,Bike,False,active,3.9,12,Z126,Z008,28,,580,afternoon,2023-01-06,Bangalore
+DRV0865,EV Auto,True,active,3.8,20,Z157,Z167,14,3.4,829,night,2022-05-11,Bangalore
+DRV0866,Auto,False,active,4.2,2,Z155,Z044,18,,957,evening,2023-11-02,Bangalore
+DRV0867,Bike,False,active,4.0,17,Z075,Z168,20,,652,afternoon,2022-08-09,Bangalore
+DRV0868,Bike,False,active,4.8,6,Z162,Z055,24,,779,evening,2023-07-05,Bangalore
+DRV0869,Bike,False,active,4.5,23,Z036,Z186,23,,577,evening,2022-02-10,Bangalore
+DRV0870,EV Bike,True,inactive,3.6,6,Z163,Z163,23,3.0,791,evening,2023-07-05,Bangalore
+DRV0871,Bike,False,active,4.6,53,Z085,Z005,19,,897,evening,2021-01-01,Bangalore
+DRV0872,EV Auto,True,active,4.1,16,Z191,Z181,16,2.7,963,flexible,2022-09-08,Bangalore
+DRV0873,Auto,False,active,4.6,10,Z172,Z114,15,,1090,night,2023-03-07,Bangalore
+DRV0874,Bike,False,active,4.2,6,Z179,Z003,18,,599,afternoon,2023-07-05,Bangalore
+DRV0875,Bike,False,active,4.4,10,Z192,Z092,21,,642,evening,2023-03-07,Bangalore
+DRV0876,EV Bike,True,active,4.0,21,Z093,Z010,23,2.9,805,morning,2022-04-11,Bangalore
+DRV0877,EV Bike,True,active,4.2,2,Z146,Z129,20,3.8,639,evening,2023-11-02,Bangalore
+DRV0878,Auto,False,active,4.3,11,Z035,Z191,12,,977,flexible,2023-02-05,Bangalore
+DRV0879,EV Bike,True,active,4.0,24,Z188,Z006,20,2.5,577,afternoon,2022-01-11,Bangalore
+DRV0880,Auto,False,active,4.2,18,Z083,Z111,14,,979,evening,2022-07-10,Bangalore
+DRV0881,Auto,False,active,3.7,23,Z194,Z058,14,,1097,afternoon,2022-02-10,Bangalore
+DRV0882,Bike,False,active,4.3,1,Z160,Z007,22,,673,flexible,2023-12-02,Bangalore
+DRV0883,Bike,False,active,3.9,6,Z167,Z025,15,,547,evening,2023-07-05,Bangalore
+DRV0884,Auto,False,active,4.9,17,Z030,Z122,15,,948,night,2022-08-09,Bangalore
+DRV0885,Auto,False,active,4.0,55,Z163,Z159,22,,1203,afternoon,2021-01-01,Bangalore
+DRV0886,Bike,False,suspended,4.4,32,Z097,Z097,25,,814,morning,2021-05-16,Bangalore
+DRV0887,EV Bike,True,active,4.2,5,Z112,Z017,12,2.6,764,night,2023-08-04,Bangalore
+DRV0888,Bike,False,active,4.8,25,Z163,Z169,15,,806,night,2021-12-12,Bangalore
+DRV0889,EV Bike,True,active,3.9,9,Z188,Z007,17,2.9,699,morning,2023-04-06,Bangalore
+DRV0890,Auto,False,active,4.3,14,Z050,Z147,20,,1061,afternoon,2022-11-07,Bangalore
+DRV0891,Auto,False,active,3.9,41,Z036,Z012,12,,939,afternoon,2021-01-01,Bangalore
+DRV0892,EV Auto,True,active,4.6,11,Z155,Z199,12,3.7,981,afternoon,2023-02-05,Bangalore
+DRV0893,EV Auto,True,active,3.7,23,Z037,Z015,16,4.2,1048,afternoon,2022-02-10,Bangalore
+DRV0894,Bike,False,active,3.6,19,Z018,Z088,21,,450,evening,2022-06-10,Bangalore
+DRV0895,Bike,False,active,4.0,11,Z158,Z077,28,,758,evening,2023-02-05,Bangalore
+DRV0896,EV Bike,True,active,3.9,13,Z013,Z164,15,3.7,715,morning,2022-12-07,Bangalore
+DRV0897,Auto,False,suspended,4.0,20,Z196,Z196,13,,1173,night,2022-05-11,Bangalore
+DRV0898,Bike,False,active,3.9,4,Z157,Z030,19,,560,evening,2023-09-03,Bangalore
+DRV0899,EV Auto,True,active,4.5,31,Z051,Z051,12,3.9,1045,afternoon,2021-06-15,Bangalore
+DRV0900,Auto,False,active,3.9,7,Z068,Z026,20,,974,evening,2023-06-05,Bangalore
+DRV0901,EV Bike,True,active,3.8,14,Z123,Z062,17,2.8,620,evening,2022-11-07,Bangalore
+DRV0902,EV Bike,True,active,3.3,8,Z193,Z017,14,2.9,753,afternoon,2023-05-06,Bangalore
+DRV0903,Bike,False,active,4.4,7,Z063,Z012,21,,700,afternoon,2023-06-05,Bangalore
+DRV0904,Bike,False,active,3.7,13,Z131,Z150,30,,501,night,2022-12-07,Bangalore
+DRV0905,EV Bike,True,active,4.1,15,Z103,Z193,20,2.9,622,evening,2022-10-08,Bangalore
+DRV0906,Auto,False,active,3.6,36,Z122,Z069,20,,1081,evening,2021-01-16,Bangalore
+DRV0907,Bike,False,inactive,4.6,36,Z064,Z064,27,,837,flexible,2021-01-16,Bangalore
+DRV0908,Auto,False,inactive,4.0,17,Z156,Z156,12,,1175,afternoon,2022-08-09,Bangalore
+DRV0909,Auto,False,active,4.4,4,Z151,Z160,16,,808,afternoon,2023-09-03,Bangalore
+DRV0910,Bike,False,active,3.8,3,Z018,Z046,29,,704,morning,2023-10-03,Bangalore
+DRV0911,EV Auto,True,active,4.6,14,Z155,Z165,11,2.7,1030,morning,2022-11-07,Bangalore
+DRV0912,Bike,False,active,4.1,8,Z092,Z065,24,,690,night,2023-05-06,Bangalore
+DRV0913,Bike,False,active,4.1,14,Z198,Z184,23,,632,afternoon,2022-11-07,Bangalore
+DRV0914,Bike,False,suspended,3.6,2,Z149,Z149,15,,681,flexible,2023-11-02,Bangalore
+DRV0915,EV Auto,True,inactive,3.6,5,Z194,Z194,16,3.7,807,evening,2023-08-04,Bangalore
+DRV0916,Auto,False,active,4.2,15,Z026,Z081,16,,1028,morning,2022-10-08,Bangalore
+DRV0917,Bike,False,active,3.6,15,Z160,Z033,24,,449,night,2022-10-08,Bangalore
+DRV0918,EV Bike,True,active,4.6,4,Z189,Z193,24,3.1,796,evening,2023-09-03,Bangalore
+DRV0919,Auto,False,active,3.1,37,Z092,Z146,16,,1085,morning,2021-01-01,Bangalore
+DRV0920,Bike,False,active,4.4,3,Z122,Z164,24,,881,evening,2023-10-03,Bangalore
+DRV0921,Bike,False,inactive,3.8,8,Z018,Z018,20,,670,afternoon,2023-05-06,Bangalore
+DRV0922,Bike,False,active,4.4,5,Z023,Z095,15,,528,afternoon,2023-08-04,Bangalore
+DRV0923,EV Auto,True,active,4.5,5,Z197,Z018,11,3.1,846,night,2023-08-04,Bangalore
+DRV0924,Auto,False,active,3.1,1,Z082,Z151,18,,936,evening,2023-12-02,Bangalore
+DRV0925,Bike,False,suspended,5.0,18,Z108,Z108,22,,556,flexible,2022-07-10,Bangalore
+DRV0926,Auto,False,active,3.8,1,Z074,Z166,15,,1005,afternoon,2023-12-02,Bangalore
+DRV0927,EV Bike,True,inactive,4.3,33,Z042,Z042,18,2.9,1026,evening,2021-04-16,Bangalore
+DRV0928,Bike,False,inactive,4.3,12,Z040,Z040,23,,700,evening,2023-01-06,Bangalore
+DRV0929,Bike,False,active,4.6,11,Z127,Z106,18,,579,evening,2023-02-05,Bangalore
+DRV0930,EV Bike,True,active,4.3,39,Z053,Z130,12,3.8,809,evening,2021-01-01,Bangalore
+DRV0931,Auto,False,active,3.9,9,Z044,Z102,10,,937,evening,2023-04-06,Bangalore
+DRV0932,Bike,False,active,4.1,15,Z124,Z018,17,,787,evening,2022-10-08,Bangalore
+DRV0933,Bike,False,active,4.0,9,Z040,Z044,15,,670,afternoon,2023-04-06,Bangalore
+DRV0934,Auto,False,active,4.1,106,Z199,Z003,12,,1461,morning,2021-01-01,Bangalore
+DRV0935,Auto,False,inactive,3.4,5,Z113,Z113,20,,999,evening,2023-08-04,Bangalore
+DRV0936,Auto,False,inactive,3.7,2,Z082,Z082,10,,733,morning,2023-11-02,Bangalore
+DRV0937,Bike,False,active,4.0,24,Z064,Z052,17,,455,flexible,2022-01-11,Bangalore
+DRV0938,Bike,False,active,4.7,1,Z058,Z025,20,,721,afternoon,2023-12-02,Bangalore
+DRV0939,Bike,False,active,4.5,12,Z044,Z160,21,,523,morning,2023-01-06,Bangalore
+DRV0940,Bike,False,active,4.3,2,Z108,Z168,25,,791,evening,2023-11-02,Bangalore
+DRV0941,Bike,False,active,4.4,28,Z101,Z012,17,,914,night,2021-09-13,Bangalore
+DRV0942,Auto,False,suspended,4.5,14,Z146,Z146,14,,1044,afternoon,2022-11-07,Bangalore
+DRV0943,Auto,False,active,4.4,18,Z198,Z178,15,,886,night,2022-07-10,Bangalore
+DRV0944,Auto,False,suspended,3.9,4,Z024,Z024,10,,983,afternoon,2023-09-03,Bangalore
+DRV0945,Auto,False,active,4.3,43,Z192,Z004,10,,1170,afternoon,2021-01-01,Bangalore
+DRV0946,Auto,False,active,4.4,20,Z023,Z036,17,,1173,morning,2022-05-11,Bangalore
+DRV0947,Bike,False,active,4.3,19,Z154,Z114,25,,807,evening,2022-06-10,Bangalore
+DRV0948,EV Bike,True,active,4.2,23,Z166,Z074,25,3.2,618,morning,2022-02-10,Bangalore
+DRV0949,Bike,False,inactive,3.9,7,Z176,Z176,22,,556,evening,2023-06-05,Bangalore
+DRV0950,Bike,False,active,3.9,10,Z127,Z018,21,,567,flexible,2023-03-07,Bangalore
+DRV0951,Bike,False,active,4.2,4,Z053,Z061,17,,728,afternoon,2023-09-03,Bangalore
+DRV0952,Auto,False,active,4.3,9,Z066,Z078,19,,887,morning,2023-04-06,Bangalore
+DRV0953,EV Bike,True,active,4.4,29,Z093,Z102,19,3.3,918,evening,2021-08-14,Bangalore
+DRV0954,Bike,False,active,4.6,6,Z124,Z006,27,,498,night,2023-07-05,Bangalore
+DRV0955,EV Auto,True,active,4.3,8,Z195,Z045,12,3.4,956,afternoon,2023-05-06,Bangalore
+DRV0956,Auto,False,active,3.9,22,Z125,Z051,13,,936,flexible,2022-03-12,Bangalore
+DRV0957,Auto,False,active,4.4,6,Z110,Z102,16,,765,evening,2023-07-05,Bangalore
+DRV0958,Auto,False,active,4.6,28,Z034,Z099,13,,1104,flexible,2021-09-13,Bangalore
+DRV0959,EV Bike,True,active,3.9,2,Z192,Z126,12,3.3,729,afternoon,2023-11-02,Bangalore
+DRV0960,Bike,False,active,3.8,11,Z093,Z162,15,,827,morning,2023-02-05,Bangalore
+DRV0961,Auto,False,inactive,4.3,1,Z066,Z066,10,,717,evening,2023-12-02,Bangalore
+DRV0962,EV Auto,True,active,3.7,42,Z026,Z133,14,3.0,1199,afternoon,2021-01-01,Bangalore
+DRV0963,EV Auto,True,active,4.1,42,Z082,Z188,9,2.7,1147,evening,2021-01-01,Bangalore
+DRV0964,EV Bike,True,active,4.0,16,Z053,Z192,16,4.5,807,night,2022-09-08,Bangalore
+DRV0965,Bike,False,active,4.5,36,Z153,Z107,24,,853,morning,2021-01-16,Bangalore
+DRV0966,Bike,False,active,4.2,3,Z129,Z029,29,,554,morning,2023-10-03,Bangalore
+DRV0967,Bike,False,active,4.2,28,Z067,Z105,29,,723,flexible,2021-09-13,Bangalore
+DRV0968,Bike,False,active,3.5,20,Z070,Z017,25,,776,evening,2022-05-11,Bangalore
+DRV0969,Auto,False,active,4.4,26,Z198,Z002,11,,1189,night,2021-11-12,Bangalore
+DRV0970,Bike,False,active,4.6,18,Z069,Z125,30,,932,afternoon,2022-07-10,Bangalore
+DRV0971,Bike,False,inactive,4.3,16,Z062,Z062,26,,805,evening,2022-09-08,Bangalore
+DRV0972,EV Auto,True,inactive,4.9,9,Z001,Z001,10,2.6,835,morning,2023-04-06,Bangalore
+DRV0973,Auto,False,suspended,4.4,48,Z064,Z064,17,,972,evening,2021-01-01,Bangalore
+DRV0974,Auto,False,active,4.1,14,Z168,Z083,20,,1037,flexible,2022-11-07,Bangalore
+DRV0975,Auto,False,active,4.5,17,Z127,Z103,15,,1091,flexible,2022-08-09,Bangalore
+DRV0976,EV Bike,True,inactive,4.2,21,Z076,Z076,14,4.3,676,night,2022-04-11,Bangalore
+DRV0977,Auto,False,active,3.8,52,Z027,Z078,12,,1337,evening,2021-01-01,Bangalore
+DRV0978,Auto,False,active,4.2,22,Z186,Z180,11,,856,morning,2022-03-12,Bangalore
+DRV0979,EV Auto,True,inactive,4.6,6,Z057,Z057,18,2.7,1040,morning,2023-07-05,Bangalore
+DRV0980,Auto,False,active,4.4,17,Z190,Z086,19,,862,morning,2022-08-09,Bangalore
+DRV0981,Bike,False,inactive,4.4,11,Z186,Z186,27,,549,flexible,2023-02-05,Bangalore
+DRV0982,Bike,False,active,4.6,4,Z072,Z023,18,,676,flexible,2023-09-03,Bangalore
+DRV0983,Auto,False,active,4.8,33,Z083,Z098,14,,1167,evening,2021-04-16,Bangalore
+DRV0984,EV Bike,True,suspended,3.8,10,Z100,Z100,22,3.7,1067,morning,2023-03-07,Bangalore
+DRV0985,Bike,False,inactive,4.3,6,Z072,Z072,22,,491,morning,2023-07-05,Bangalore
+DRV0986,Bike,False,active,4.3,17,Z180,Z009,25,,776,afternoon,2022-08-09,Bangalore
+DRV0987,EV Bike,True,active,4.0,1,Z054,Z127,18,4.5,636,afternoon,2023-12-02,Bangalore
+DRV0988,EV Bike,True,active,3.9,17,Z058,Z180,14,4.0,717,afternoon,2022-08-09,Bangalore
+DRV0989,EV Bike,True,inactive,3.7,36,Z016,Z016,18,3.4,904,afternoon,2021-01-16,Bangalore
+DRV0990,Bike,False,active,4.1,25,Z073,Z179,21,,750,afternoon,2021-12-12,Bangalore
+DRV0991,Bike,False,active,4.6,107,Z022,Z182,24,,924,evening,2021-01-01,Bangalore
+DRV0992,Bike,False,active,4.3,12,Z054,Z056,21,,668,afternoon,2023-01-06,Bangalore
+DRV0993,EV Bike,True,active,4.0,67,Z038,Z097,25,4.4,961,morning,2021-01-01,Bangalore
+DRV0994,EV Auto,True,active,4.3,51,Z151,Z167,10,3.8,1142,afternoon,2021-01-01,Bangalore
+DRV0995,Bike,False,active,4.1,2,Z190,Z153,20,,520,night,2023-11-02,Bangalore
+DRV0996,EV Auto,True,active,3.9,12,Z124,Z167,18,3.4,825,morning,2023-01-06,Bangalore
+DRV0997,Bike,False,active,4.0,4,Z151,Z058,15,,585,evening,2023-09-03,Bangalore
+DRV0998,Auto,False,active,3.5,29,Z103,Z124,14,,989,morning,2021-08-14,Bangalore
+DRV0999,Bike,False,inactive,3.7,5,Z048,Z048,27,,499,evening,2023-08-04,Bangalore
+DRV1000,Auto,False,active,4.0,8,Z152,Z150,22,,870,flexible,2023-05-06,Bangalore
+DRV1001,EV Bike,True,active,4.0,5,Z043,Z002,17,2.6,696,evening,2023-08-04,Bangalore
+DRV1002,Auto,False,active,4.0,8,Z198,Z009,11,,979,afternoon,2023-05-06,Bangalore
+DRV1003,Auto,False,active,4.2,7,Z001,Z064,10,,833,evening,2023-06-05,Bangalore
+DRV1004,Bike,False,active,4.7,3,Z152,Z091,21,,648,night,2023-10-03,Bangalore
+DRV1005,Bike,False,active,4.3,3,Z054,Z035,21,,938,morning,2023-10-03,Bangalore
+DRV1006,Auto,False,active,3.6,13,Z102,Z167,16,,1058,flexible,2022-12-07,Bangalore
+DRV1007,Auto,False,inactive,4.2,7,Z053,Z053,20,,835,flexible,2023-06-05,Bangalore
+DRV1008,Auto,False,active,3.7,24,Z186,Z166,16,,741,afternoon,2022-01-11,Bangalore
+DRV1009,EV Bike,True,active,4.9,28,Z064,Z020,20,3.9,887,afternoon,2021-09-13,Bangalore
+DRV1010,Bike,False,active,4.0,14,Z200,Z070,19,,766,morning,2022-11-07,Bangalore
+DRV1011,Bike,False,suspended,4.1,4,Z030,Z030,18,,721,evening,2023-09-03,Bangalore
+DRV1012,EV Bike,True,active,4.9,13,Z160,Z073,13,2.8,706,flexible,2022-12-07,Bangalore
+DRV1013,Bike,False,active,4.7,9,Z137,Z142,27,,637,afternoon,2023-04-06,Bangalore
+DRV1014,Auto,False,active,4.1,8,Z037,Z097,10,,1066,flexible,2023-05-06,Bangalore
+DRV1015,Auto,False,active,4.8,3,Z192,Z118,17,,882,evening,2023-10-03,Bangalore
+DRV1016,Bike,False,active,4.3,16,Z059,Z079,17,,529,night,2022-09-08,Bangalore
+DRV1017,Auto,False,active,5.0,5,Z027,Z043,11,,905,evening,2023-08-04,Bangalore
+DRV1018,Auto,False,inactive,3.4,20,Z109,Z109,17,,1103,evening,2022-05-11,Bangalore
+DRV1019,Auto,False,active,4.3,4,Z015,Z158,21,,788,evening,2023-09-03,Bangalore
+DRV1020,Auto,False,active,3.8,4,Z136,Z176,19,,834,evening,2023-09-03,Bangalore
+DRV1021,EV Bike,True,active,4.0,48,Z025,Z094,17,3.3,990,afternoon,2021-01-01,Bangalore
+DRV1022,Bike,False,active,4.2,3,Z064,Z139,18,,668,afternoon,2023-10-03,Bangalore
+DRV1023,Bike,False,active,4.7,9,Z054,Z079,16,,583,morning,2023-04-06,Bangalore
+DRV1024,Bike,False,active,4.2,34,Z030,Z002,26,,668,afternoon,2021-03-17,Bangalore
+DRV1025,Bike,False,active,4.0,21,Z151,Z040,28,,763,morning,2022-04-11,Bangalore
+DRV1026,Auto,False,active,3.9,38,Z073,Z094,12,,1008,morning,2021-01-01,Bangalore
+DRV1027,Bike,False,inactive,3.9,1,Z099,Z099,28,,498,morning,2023-12-02,Bangalore
+DRV1028,Bike,False,active,4.3,18,Z092,Z009,20,,735,flexible,2022-07-10,Bangalore
+DRV1029,EV Auto,True,active,3.9,12,Z128,Z175,14,3.5,965,flexible,2023-01-06,Bangalore
+DRV1030,EV Bike,True,active,3.9,12,Z030,Z006,17,2.5,678,evening,2023-01-06,Bangalore
+DRV1031,Bike,False,inactive,3.8,5,Z163,Z163,15,,544,afternoon,2023-08-04,Bangalore
+DRV1032,Bike,False,active,4.2,12,Z195,Z131,20,,766,flexible,2023-01-06,Bangalore
+DRV1033,EV Auto,True,active,4.0,13,Z051,Z122,16,3.7,969,morning,2022-12-07,Bangalore
+DRV1034,EV Bike,True,active,5.0,140,Z034,Z034,16,4.4,881,afternoon,2021-01-01,Bangalore
+DRV1035,Auto,False,active,4.0,32,Z109,Z135,21,,1226,morning,2021-05-16,Bangalore
+DRV1036,Bike,False,active,4.0,13,Z022,Z078,18,,531,flexible,2022-12-07,Bangalore
+DRV1037,Auto,False,active,4.5,13,Z047,Z011,10,,990,morning,2022-12-07,Bangalore
+DRV1038,Auto,False,inactive,3.9,1,Z043,Z043,17,,905,afternoon,2023-12-02,Bangalore
+DRV1039,Bike,False,active,3.4,33,Z035,Z085,26,,971,evening,2021-04-16,Bangalore
+DRV1040,Auto,False,active,3.6,1,Z070,Z054,11,,868,evening,2023-12-02,Bangalore
+DRV1041,Auto,False,active,4.0,17,Z168,Z049,21,,1024,morning,2022-08-09,Bangalore
+DRV1042,Auto,False,active,3.9,9,Z195,Z052,10,,879,afternoon,2023-04-06,Bangalore
+DRV1043,Auto,False,inactive,4.0,26,Z144,Z144,15,,1180,evening,2021-11-12,Bangalore
+DRV1044,EV Auto,True,active,4.3,5,Z129,Z006,10,3.1,821,flexible,2023-08-04,Bangalore
+DRV1045,Bike,False,suspended,4.5,48,Z107,Z107,30,,1061,flexible,2021-01-01,Bangalore
+DRV1046,Bike,False,active,3.9,1,Z103,Z103,23,,585,morning,2023-12-02,Bangalore
+DRV1047,Bike,False,active,4.2,27,Z132,Z117,23,,890,afternoon,2021-10-13,Bangalore
+DRV1048,Bike,False,active,3.9,1,Z154,Z061,24,,460,flexible,2023-12-02,Bangalore
+DRV1049,Bike,False,active,4.2,49,Z014,Z165,22,,875,morning,2021-01-01,Bangalore
+DRV1050,Bike,False,active,4.5,21,Z026,Z181,23,,529,flexible,2022-04-11,Bangalore
+DRV1051,Bike,False,suspended,4.5,53,Z015,Z015,26,,810,morning,2021-01-01,Bangalore
+DRV1052,EV Auto,True,active,4.3,6,Z200,Z200,14,4.4,944,afternoon,2023-07-05,Bangalore
+DRV1053,Auto,False,active,4.6,84,Z113,Z057,14,,1476,evening,2021-01-01,Bangalore
+DRV1054,EV Bike,True,active,3.8,2,Z195,Z186,14,2.7,506,morning,2023-11-02,Bangalore
+DRV1055,Bike,False,inactive,3.5,8,Z127,Z127,20,,592,afternoon,2023-05-06,Bangalore
+DRV1056,EV Bike,True,active,4.0,48,Z044,Z018,18,3.4,751,evening,2021-01-01,Bangalore
+DRV1057,Bike,False,active,4.3,3,Z198,Z004,18,,477,morning,2023-10-03,Bangalore
+DRV1058,Bike,False,inactive,4.2,13,Z034,Z034,22,,723,morning,2022-12-07,Bangalore
+DRV1059,Auto,False,active,4.1,20,Z028,Z139,21,,804,morning,2022-05-11,Bangalore
+DRV1060,EV Bike,True,inactive,4.5,16,Z079,Z079,14,2.6,827,evening,2022-09-08,Bangalore
+DRV1061,Auto,False,active,3.8,10,Z027,Z140,11,,1159,morning,2023-03-07,Bangalore
+DRV1062,EV Auto,True,active,4.1,22,Z037,Z091,14,3.9,1031,evening,2022-03-12,Bangalore
+DRV1063,EV Auto,True,active,3.9,4,Z058,Z027,17,3.2,796,afternoon,2023-09-03,Bangalore
+DRV1064,EV Auto,True,active,3.9,32,Z039,Z046,17,2.9,783,afternoon,2021-05-16,Bangalore
+DRV1065,EV Bike,True,active,4.3,14,Z071,Z090,19,3.2,651,afternoon,2022-11-07,Bangalore
+DRV1066,EV Auto,True,active,4.2,7,Z039,Z200,14,3.4,662,night,2023-06-05,Bangalore
+DRV1067,EV Auto,True,active,3.7,4,Z111,Z187,13,4.5,1108,morning,2023-09-03,Bangalore
+DRV1068,Bike,False,active,4.2,42,Z190,Z106,25,,688,flexible,2021-01-01,Bangalore
+DRV1069,Bike,False,active,4.7,20,Z128,Z137,22,,598,evening,2022-05-11,Bangalore
+DRV1070,Auto,False,active,5.0,42,Z057,Z180,13,,1207,morning,2021-01-01,Bangalore
+DRV1071,EV Bike,True,active,3.5,1,Z036,Z029,17,3.1,539,morning,2023-12-02,Bangalore
+DRV1072,EV Bike,True,suspended,4.4,2,Z063,Z063,12,2.7,720,evening,2023-11-02,Bangalore
+DRV1073,Bike,False,active,3.7,3,Z111,Z096,16,,904,evening,2023-10-03,Bangalore
+DRV1074,Auto,False,active,4.3,25,Z037,Z094,11,,943,morning,2021-12-12,Bangalore
+DRV1075,EV Bike,True,active,4.2,14,Z121,Z191,20,3.4,694,evening,2022-11-07,Bangalore
+DRV1076,Bike,False,active,3.5,51,Z033,Z040,16,,924,night,2021-01-01,Bangalore
+DRV1077,Auto,False,active,3.4,1,Z175,Z117,19,,801,evening,2023-12-02,Bangalore
+DRV1078,Bike,False,active,4.3,12,Z134,Z097,19,,623,evening,2023-01-06,Bangalore
+DRV1079,Bike,False,active,4.4,6,Z144,Z155,17,,469,afternoon,2023-07-05,Bangalore
+DRV1080,Auto,False,inactive,3.5,32,Z101,Z101,13,,1183,morning,2021-05-16,Bangalore
+DRV1081,Bike,False,active,4.2,8,Z064,Z073,20,,799,morning,2023-05-06,Bangalore
+DRV1082,Bike,False,inactive,4.7,8,Z045,Z045,16,,577,flexible,2023-05-06,Bangalore
+DRV1083,Auto,False,active,3.6,34,Z012,Z013,11,,730,flexible,2021-03-17,Bangalore
+DRV1084,EV Bike,True,suspended,4.0,30,Z083,Z083,17,3.9,643,morning,2021-07-15,Bangalore
+DRV1085,Bike,False,active,4.0,12,Z039,Z007,27,,798,afternoon,2023-01-06,Bangalore
+DRV1086,Bike,False,active,4.4,3,Z024,Z184,22,,592,evening,2023-10-03,Bangalore
+DRV1087,EV Bike,True,active,4.3,14,Z133,Z187,24,3.2,773,afternoon,2022-11-07,Bangalore
+DRV1088,EV Bike,True,active,4.2,10,Z199,Z175,15,3.7,638,flexible,2023-03-07,Bangalore
+DRV1089,Auto,False,suspended,4.4,64,Z015,Z015,22,,1102,evening,2021-01-01,Bangalore
+DRV1090,EV Auto,True,active,4.9,2,Z029,Z117,10,2.6,919,evening,2023-11-02,Bangalore
+DRV1091,Bike,False,active,3.8,18,Z118,Z067,30,,665,evening,2022-07-10,Bangalore
+DRV1092,Bike,False,active,4.3,2,Z021,Z094,24,,668,flexible,2023-11-02,Bangalore
+DRV1093,Bike,False,active,4.5,10,Z081,Z096,17,,404,evening,2023-03-07,Bangalore
+DRV1094,EV Bike,True,suspended,4.4,18,Z169,Z169,24,3.9,791,evening,2022-07-10,Bangalore
+DRV1095,Bike,False,active,3.7,3,Z159,Z103,17,,529,evening,2023-10-03,Bangalore
+DRV1096,Bike,False,active,3.8,21,Z124,Z028,17,,490,flexible,2022-04-11,Bangalore
+DRV1097,EV Auto,True,active,4.0,10,Z092,Z017,15,2.9,924,evening,2023-03-07,Bangalore
+DRV1098,Bike,False,active,4.0,32,Z125,Z038,21,,718,flexible,2021-05-16,Bangalore
+DRV1099,EV Bike,True,active,4.2,4,Z111,Z122,15,4.4,606,evening,2023-09-03,Bangalore
+DRV1100,Bike,False,active,4.3,5,Z024,Z071,27,,747,flexible,2023-08-04,Bangalore
+DRV1101,Auto,False,active,4.9,58,Z022,Z024,15,,1192,morning,2021-01-01,Bangalore
+DRV1102,Bike,False,active,4.3,50,Z190,Z042,28,,819,afternoon,2021-01-01,Bangalore
+DRV1103,Bike,False,active,4.3,18,Z025,Z186,19,,773,morning,2022-07-10,Bangalore
+DRV1104,EV Bike,True,inactive,4.8,14,Z083,Z083,22,3.0,652,evening,2022-11-07,Bangalore
+DRV1105,EV Auto,True,inactive,3.9,24,Z163,Z163,9,2.6,1188,evening,2022-01-11,Bangalore
+DRV1106,Bike,False,active,4.1,33,Z154,Z097,21,,797,flexible,2021-04-16,Bangalore
+DRV1107,Auto,False,active,4.7,11,Z005,Z078,18,,971,evening,2023-02-05,Bangalore
+DRV1108,Auto,False,active,4.5,6,Z099,Z139,18,,904,morning,2023-07-05,Bangalore
+DRV1109,Bike,False,active,4.2,13,Z163,Z042,28,,811,evening,2022-12-07,Bangalore
+DRV1110,Bike,False,active,4.5,8,Z029,Z023,18,,428,evening,2023-05-06,Bangalore
+DRV1111,Bike,False,active,4.2,24,Z140,Z026,29,,770,evening,2022-01-11,Bangalore
+DRV1112,EV Bike,True,active,4.7,30,Z142,Z098,25,4.4,658,afternoon,2021-07-15,Bangalore
+DRV1113,EV Bike,True,active,4.1,28,Z166,Z181,17,3.5,859,afternoon,2021-09-13,Bangalore
+DRV1114,Auto,False,active,4.2,20,Z107,Z173,10,,959,morning,2022-05-11,Bangalore
+DRV1115,Bike,False,active,3.9,51,Z190,Z154,25,,898,flexible,2021-01-01,Bangalore
+DRV1116,Bike,False,suspended,4.4,5,Z169,Z169,27,,486,afternoon,2023-08-04,Bangalore
+DRV1117,EV Auto,True,active,4.4,10,Z104,Z082,9,3.9,675,morning,2023-03-07,Bangalore
+DRV1118,Bike,False,active,4.1,10,Z199,Z161,23,,609,morning,2023-03-07,Bangalore
+DRV1119,Bike,False,active,4.4,2,Z162,Z040,15,,640,flexible,2023-11-02,Bangalore
+DRV1120,Bike,False,active,3.9,1,Z034,Z117,26,,578,flexible,2023-12-02,Bangalore
+DRV1121,Bike,False,active,4.6,4,Z102,Z198,23,,818,morning,2023-09-03,Bangalore
+DRV1122,Bike,False,active,4.1,37,Z027,Z029,29,,724,morning,2021-01-01,Bangalore
+DRV1123,Bike,False,active,4.1,1,Z100,Z054,27,,693,afternoon,2023-12-02,Bangalore
+DRV1124,Auto,False,active,4.2,9,Z110,Z097,20,,882,morning,2023-04-06,Bangalore
+DRV1125,Bike,False,active,4.2,1,Z164,Z009,18,,555,flexible,2023-12-02,Bangalore
+DRV1126,Auto,False,active,3.9,1,Z067,Z032,19,,1025,morning,2023-12-02,Bangalore
+DRV1127,Auto,False,active,3.5,66,Z030,Z056,15,,1409,morning,2021-01-01,Bangalore
+DRV1128,Auto,False,active,3.5,23,Z045,Z024,21,,1055,afternoon,2022-02-10,Bangalore
+DRV1129,Auto,False,active,4.4,9,Z108,Z050,12,,912,night,2023-04-06,Bangalore
+DRV1130,Auto,False,suspended,3.9,10,Z200,Z200,12,,958,flexible,2023-03-07,Bangalore
+DRV1131,Auto,False,inactive,4.4,5,Z197,Z197,15,,981,evening,2023-08-04,Bangalore
+DRV1132,Bike,False,active,4.5,48,Z167,Z017,29,,774,afternoon,2021-01-01,Bangalore
+DRV1133,Bike,False,active,4.2,8,Z136,Z091,27,,532,night,2023-05-06,Bangalore
+DRV1134,Bike,False,active,4.5,1,Z054,Z169,26,,511,morning,2023-12-02,Bangalore
+DRV1135,Bike,False,active,3.0,8,Z124,Z146,25,,595,afternoon,2023-05-06,Bangalore
+DRV1136,Auto,False,active,4.5,4,Z070,Z184,19,,635,evening,2023-09-03,Bangalore
+DRV1137,Bike,False,active,4.7,26,Z022,Z127,30,,767,morning,2021-11-12,Bangalore
+DRV1138,Auto,False,active,4.1,6,Z064,Z148,14,,909,night,2023-07-05,Bangalore
+DRV1139,Auto,False,active,3.7,21,Z035,Z104,18,,794,afternoon,2022-04-11,Bangalore
+DRV1140,Bike,False,active,4.8,4,Z107,Z186,24,,516,afternoon,2023-09-03,Bangalore
+DRV1141,Auto,False,active,3.7,40,Z107,Z077,17,,1193,flexible,2021-01-01,Bangalore
+DRV1142,Bike,False,active,4.1,5,Z018,Z058,16,,698,flexible,2023-08-04,Bangalore
+DRV1143,EV Bike,True,active,3.6,21,Z027,Z049,12,3.0,694,night,2022-04-11,Bangalore
+DRV1144,Bike,False,inactive,4.4,32,Z092,Z092,27,,876,flexible,2021-05-16,Bangalore
+DRV1145,Auto,False,active,3.8,25,Z037,Z193,20,,985,morning,2021-12-12,Bangalore
+DRV1146,Auto,False,active,4.8,6,Z070,Z083,13,,792,night,2023-07-05,Bangalore
+DRV1147,Auto,False,active,4.6,37,Z063,Z169,21,,1304,flexible,2021-01-01,Bangalore
+DRV1148,Bike,False,active,4.1,18,Z103,Z049,30,,470,night,2022-07-10,Bangalore
+DRV1149,EV Bike,True,active,3.6,8,Z082,Z182,14,2.7,464,morning,2023-05-06,Bangalore
+DRV1150,EV Auto,True,active,4.7,5,Z166,Z132,11,2.6,900,afternoon,2023-08-04,Bangalore
+DRV1151,Auto,False,suspended,4.3,32,Z030,Z030,17,,1111,morning,2021-05-16,Bangalore
+DRV1152,EV Bike,True,active,4.8,1,Z186,Z136,16,4.4,690,morning,2023-12-02,Bangalore
+DRV1153,Bike,False,active,3.8,27,Z151,Z086,16,,653,morning,2021-10-13,Bangalore
+DRV1154,Auto,False,active,4.4,2,Z072,Z049,12,,862,evening,2023-11-02,Bangalore
+DRV1155,Auto,False,active,4.6,8,Z169,Z064,13,,994,flexible,2023-05-06,Bangalore
+DRV1156,Auto,False,active,4.6,17,Z070,Z058,16,,1187,morning,2022-08-09,Bangalore
+DRV1157,EV Bike,True,active,4.5,11,Z041,Z053,16,3.1,918,morning,2023-02-05,Bangalore
+DRV1158,Bike,False,inactive,4.6,5,Z196,Z196,24,,533,afternoon,2023-08-04,Bangalore
+DRV1159,Bike,False,active,3.8,18,Z037,Z004,30,,780,morning,2022-07-10,Bangalore
+DRV1160,Bike,False,active,3.9,2,Z015,Z153,26,,695,evening,2023-11-02,Bangalore
+DRV1161,Bike,False,active,4.3,35,Z146,Z175,24,,656,morning,2021-02-15,Bangalore
+DRV1162,Bike,False,active,4.1,48,Z196,Z086,29,,586,flexible,2021-01-01,Bangalore
+DRV1163,Bike,False,active,4.0,1,Z015,Z091,24,,361,night,2023-12-02,Bangalore
+DRV1164,EV Bike,True,inactive,4.1,1,Z033,Z033,20,2.5,616,flexible,2023-12-02,Bangalore
+DRV1165,EV Bike,True,active,3.8,15,Z128,Z008,23,3.2,954,evening,2022-10-08,Bangalore
+DRV1166,Bike,False,suspended,4.0,20,Z070,Z070,29,,595,flexible,2022-05-11,Bangalore
+DRV1167,Bike,False,active,4.3,15,Z070,Z080,21,,787,evening,2022-10-08,Bangalore
+DRV1168,EV Bike,True,active,3.9,2,Z146,Z089,12,4.4,660,morning,2023-11-02,Bangalore
+DRV1169,Auto,False,active,3.5,45,Z157,Z171,14,,1252,morning,2021-01-01,Bangalore
+DRV1170,Bike,False,active,3.8,23,Z162,Z032,16,,681,afternoon,2022-02-10,Bangalore
+DRV1171,Auto,False,active,4.3,22,Z098,Z073,11,,787,morning,2022-03-12,Bangalore
+DRV1172,Auto,False,active,4.2,21,Z075,Z057,17,,1023,night,2022-04-11,Bangalore
+DRV1173,Auto,False,active,4.3,7,Z026,Z067,19,,952,evening,2023-06-05,Bangalore
+DRV1174,Auto,False,active,4.5,19,Z189,Z197,14,,858,evening,2022-06-10,Bangalore
+DRV1175,Bike,False,active,4.1,24,Z167,Z119,20,,725,morning,2022-01-11,Bangalore
+DRV1176,Auto,False,active,4.7,15,Z189,Z183,17,,825,evening,2022-10-08,Bangalore
+DRV1177,EV Auto,True,active,3.8,2,Z007,Z197,10,3.7,814,afternoon,2023-11-02,Bangalore
+DRV1178,Bike,False,active,3.9,10,Z155,Z145,24,,684,morning,2023-03-07,Bangalore
+DRV1179,Auto,False,active,4.6,3,Z133,Z118,11,,1001,night,2023-10-03,Bangalore
+DRV1180,Auto,False,active,3.7,1,Z072,Z145,21,,814,morning,2023-12-02,Bangalore
+DRV1181,Auto,False,active,4.7,57,Z180,Z053,18,,1201,morning,2021-01-01,Bangalore
+DRV1182,EV Bike,True,active,4.4,2,Z167,Z080,19,3.9,991,morning,2023-11-02,Bangalore
+DRV1183,Bike,False,active,3.3,17,Z029,Z064,21,,790,night,2022-08-09,Bangalore
+DRV1184,Bike,False,active,3.6,2,Z108,Z124,20,,538,afternoon,2023-11-02,Bangalore
+DRV1185,Auto,False,active,3.9,4,Z034,Z111,20,,885,morning,2023-09-03,Bangalore
+DRV1186,Auto,False,active,4.2,14,Z191,Z140,17,,1002,afternoon,2022-11-07,Bangalore
+DRV1187,Bike,False,active,4.7,8,Z070,Z101,27,,680,evening,2023-05-06,Bangalore
+DRV1188,EV Bike,True,active,3.9,21,Z034,Z145,21,2.6,559,evening,2022-04-11,Bangalore
+DRV1189,Auto,False,active,3.7,3,Z091,Z036,21,,1051,morning,2023-10-03,Bangalore
+DRV1190,Bike,False,active,3.8,16,Z054,Z090,27,,719,evening,2022-09-08,Bangalore
+DRV1191,Bike,False,active,4.6,26,Z193,Z036,23,,857,afternoon,2021-11-12,Bangalore
+DRV1192,Bike,False,inactive,4.2,24,Z102,Z102,30,,850,evening,2022-01-11,Bangalore
+DRV1193,EV Auto,True,active,3.7,1,Z035,Z179,13,3.7,908,night,2023-12-02,Bangalore
+DRV1194,Bike,False,active,4.0,18,Z060,Z025,18,,481,afternoon,2022-07-10,Bangalore
+DRV1195,Bike,False,active,4.1,3,Z061,Z027,20,,664,flexible,2023-10-03,Bangalore
+DRV1196,Bike,False,active,5.0,15,Z197,Z019,29,,597,evening,2022-10-08,Bangalore
+DRV1197,Bike,False,active,4.3,15,Z122,Z097,19,,566,morning,2022-10-08,Bangalore
+DRV1198,Bike,False,active,4.5,31,Z045,Z190,20,,602,night,2021-06-15,Bangalore
+DRV1199,Bike,False,active,4.2,22,Z187,Z025,21,,639,flexible,2022-03-12,Bangalore
+DRV1200,Bike,False,active,3.9,18,Z025,Z088,20,,560,evening,2022-07-10,Bangalore
+DRV1201,Bike,False,active,4.8,9,Z129,Z091,26,,713,night,2023-04-06,Bangalore
+DRV1202,Bike,False,active,4.0,4,Z146,Z021,19,,879,morning,2023-09-03,Bangalore
+DRV1203,Auto,False,active,4.4,8,Z016,Z058,14,,1155,morning,2023-05-06,Bangalore
+DRV1204,EV Bike,True,suspended,4.1,27,Z160,Z160,21,3.1,766,evening,2021-10-13,Bangalore
+DRV1205,Auto,False,inactive,3.8,21,Z068,Z068,10,,1152,afternoon,2022-04-11,Bangalore
+DRV1206,Bike,False,active,4.8,11,Z156,Z188,25,,585,morning,2023-02-05,Bangalore
+DRV1207,Bike,False,inactive,4.5,6,Z180,Z180,16,,613,evening,2023-07-05,Bangalore
+DRV1208,Auto,False,active,4.3,63,Z035,Z070,11,,1097,evening,2021-01-01,Bangalore
+DRV1209,Auto,False,active,4.0,8,Z059,Z006,10,,920,evening,2023-05-06,Bangalore
+DRV1210,EV Bike,True,active,3.7,20,Z142,Z124,24,3.9,752,afternoon,2022-05-11,Bangalore
+DRV1211,Bike,False,active,3.7,3,Z165,Z095,26,,412,flexible,2023-10-03,Bangalore
+DRV1212,Bike,False,active,4.1,9,Z109,Z192,16,,760,night,2023-04-06,Bangalore
+DRV1213,Bike,False,active,3.9,19,Z021,Z081,26,,929,flexible,2022-06-10,Bangalore
+DRV1214,Bike,False,active,4.3,56,Z186,Z020,17,,941,evening,2021-01-01,Bangalore
+DRV1215,Auto,False,active,4.2,17,Z057,Z114,15,,841,afternoon,2022-08-09,Bangalore
+DRV1216,Auto,False,active,3.5,8,Z191,Z139,10,,1118,evening,2023-05-06,Bangalore
+DRV1217,Auto,False,active,4.1,4,Z036,Z134,14,,804,morning,2023-09-03,Bangalore
+DRV1218,Bike,False,active,3.9,2,Z064,Z179,29,,691,flexible,2023-11-02,Bangalore
+DRV1219,Bike,False,inactive,5.0,37,Z162,Z162,27,,927,morning,2021-01-01,Bangalore
+DRV1220,EV Bike,True,active,3.5,30,Z102,Z099,15,3.3,910,evening,2021-07-15,Bangalore
+DRV1221,Auto,False,active,3.9,16,Z199,Z090,19,,989,flexible,2022-09-08,Bangalore
+DRV1222,EV Auto,True,active,4.1,7,Z198,Z008,17,3.4,981,afternoon,2023-06-05,Bangalore
+DRV1223,Auto,False,active,4.2,11,Z030,Z142,21,,945,flexible,2023-02-05,Bangalore
+DRV1224,EV Auto,True,active,3.9,51,Z159,Z197,15,4.0,1125,flexible,2021-01-01,Bangalore
+DRV1225,Bike,False,active,4.4,32,Z071,Z022,22,,938,afternoon,2021-05-16,Bangalore
+DRV1226,Bike,False,active,4.2,18,Z186,Z065,15,,590,evening,2022-07-10,Bangalore
+DRV1227,EV Bike,True,inactive,4.4,6,Z016,Z016,19,4.4,748,evening,2023-07-05,Bangalore
+DRV1228,EV Bike,True,active,4.4,1,Z026,Z071,19,3.0,557,night,2023-12-02,Bangalore
+DRV1229,Bike,False,active,4.4,16,Z042,Z038,16,,376,morning,2022-09-08,Bangalore
+DRV1230,Auto,False,inactive,4.3,12,Z021,Z021,10,,1016,flexible,2023-01-06,Bangalore
+DRV1231,Bike,False,inactive,3.9,11,Z139,Z139,16,,606,morning,2023-02-05,Bangalore
+DRV1232,Auto,False,active,3.7,2,Z053,Z084,20,,1093,evening,2023-11-02,Bangalore
+DRV1233,EV Bike,True,active,4.5,9,Z100,Z086,17,4.4,719,afternoon,2023-04-06,Bangalore
+DRV1234,Bike,False,active,4.1,1,Z039,Z152,15,,431,night,2023-12-02,Bangalore
+DRV1235,Auto,False,active,4.4,16,Z161,Z183,13,,1030,morning,2022-09-08,Bangalore
+DRV1236,Auto,False,active,4.7,15,Z021,Z020,19,,907,evening,2022-10-08,Bangalore
+DRV1237,Auto,False,active,4.4,28,Z153,Z014,20,,1172,afternoon,2021-09-13,Bangalore
+DRV1238,Bike,False,inactive,3.6,58,Z066,Z066,25,,1099,morning,2021-01-01,Bangalore
+DRV1239,Bike,False,suspended,5.0,5,Z113,Z113,28,,731,evening,2023-08-04,Bangalore
+DRV1240,Bike,False,active,4.6,4,Z059,Z115,28,,852,flexible,2023-09-03,Bangalore
+DRV1241,Bike,False,inactive,4.3,26,Z187,Z187,19,,656,afternoon,2021-11-12,Bangalore
+DRV1242,Bike,False,active,3.6,20,Z037,Z148,30,,715,flexible,2022-05-11,Bangalore
+DRV1243,EV Bike,True,active,4.2,4,Z068,Z196,13,4.2,573,night,2023-09-03,Bangalore
+DRV1244,Bike,False,active,4.0,9,Z151,Z136,27,,579,afternoon,2023-04-06,Bangalore
+DRV1245,Auto,False,active,4.1,13,Z093,Z152,21,,897,evening,2022-12-07,Bangalore
+DRV1246,Bike,False,active,3.2,33,Z122,Z190,28,,724,evening,2021-04-16,Bangalore
+DRV1247,Auto,False,active,4.2,2,Z151,Z022,10,,769,afternoon,2023-11-02,Bangalore
+DRV1248,Auto,False,active,4.3,16,Z151,Z185,22,,891,afternoon,2022-09-08,Bangalore
+DRV1249,Bike,False,active,4.3,58,Z149,Z131,28,,1012,afternoon,2021-01-01,Bangalore
+DRV1250,Bike,False,active,5.0,1,Z189,Z188,21,,676,evening,2023-12-02,Bangalore
+DRV1251,Auto,False,active,4.0,4,Z034,Z074,17,,893,flexible,2023-09-03,Bangalore
+DRV1252,Bike,False,inactive,3.5,8,Z193,Z193,18,,654,morning,2023-05-06,Bangalore
+DRV1253,Bike,False,inactive,4.6,2,Z008,Z008,16,,357,morning,2023-11-02,Bangalore
+DRV1254,EV Bike,True,active,3.8,13,Z160,Z110,14,3.1,927,morning,2022-12-07,Bangalore
+DRV1255,Auto,False,inactive,4.1,8,Z112,Z112,14,,932,flexible,2023-05-06,Bangalore
+DRV1256,Auto,False,active,4.2,24,Z026,Z191,21,,1080,morning,2022-01-11,Bangalore
+DRV1257,Bike,False,active,3.8,5,Z173,Z199,17,,433,flexible,2023-08-04,Bangalore
+DRV1258,Bike,False,active,4.4,15,Z134,Z082,21,,799,morning,2022-10-08,Bangalore
+DRV1259,Auto,False,active,4.5,2,Z102,Z057,14,,904,evening,2023-11-02,Bangalore
+DRV1260,Bike,False,active,3.8,28,Z168,Z023,21,,582,evening,2021-09-13,Bangalore
+DRV1261,Auto,False,active,4.2,5,Z190,Z068,20,,931,evening,2023-08-04,Bangalore
+DRV1262,Auto,False,active,3.6,69,Z073,Z060,20,,1040,night,2021-01-01,Bangalore
+DRV1263,Bike,False,active,4.4,8,Z029,Z057,18,,575,afternoon,2023-05-06,Bangalore
+DRV1264,Bike,False,active,4.0,16,Z042,Z119,25,,871,evening,2022-09-08,Bangalore
+DRV1265,Auto,False,active,4.4,37,Z127,Z154,20,,1142,afternoon,2021-01-01,Bangalore
+DRV1266,Auto,False,inactive,4.3,3,Z016,Z016,14,,871,afternoon,2023-10-03,Bangalore
+DRV1267,EV Bike,True,active,4.7,10,Z022,Z069,15,3.8,433,morning,2023-03-07,Bangalore
+DRV1268,Bike,False,active,4.3,3,Z138,Z053,18,,615,morning,2023-10-03,Bangalore
+DRV1269,Auto,False,suspended,3.8,3,Z102,Z102,22,,1110,flexible,2023-10-03,Bangalore
+DRV1270,EV Bike,True,active,4.7,12,Z152,Z054,15,4.2,569,afternoon,2023-01-06,Bangalore
+DRV1271,Auto,False,active,3.5,17,Z101,Z085,13,,858,flexible,2022-08-09,Bangalore
+DRV1272,Bike,False,active,3.7,12,Z027,Z129,27,,691,morning,2023-01-06,Bangalore
+DRV1273,Bike,False,active,5.0,5,Z064,Z009,23,,816,evening,2023-08-04,Bangalore
+DRV1274,Bike,False,active,4.7,15,Z026,Z020,17,,600,morning,2022-10-08,Bangalore
+DRV1275,Auto,False,active,4.6,16,Z025,Z189,13,,850,flexible,2022-09-08,Bangalore
+DRV1276,EV Bike,True,active,4.5,17,Z078,Z071,13,4.4,834,evening,2022-08-09,Bangalore
+DRV1277,Bike,False,active,3.8,6,Z109,Z144,23,,625,evening,2023-07-05,Bangalore
+DRV1278,Bike,False,suspended,4.9,13,Z096,Z096,18,,488,flexible,2022-12-07,Bangalore
+DRV1279,Bike,False,active,3.5,24,Z159,Z028,24,,716,flexible,2022-01-11,Bangalore
+DRV1280,Bike,False,active,4.2,52,Z126,Z152,22,,816,evening,2021-01-01,Bangalore
+DRV1281,Auto,False,active,4.2,2,Z059,Z016,14,,754,evening,2023-11-02,Bangalore
+DRV1282,EV Bike,True,active,4.5,10,Z163,Z105,23,4.0,954,night,2023-03-07,Bangalore
+DRV1283,Auto,False,active,4.6,4,Z085,Z119,18,,926,flexible,2023-09-03,Bangalore
+DRV1284,Bike,False,active,4.6,17,Z015,Z042,18,,707,flexible,2022-08-09,Bangalore
+DRV1285,Bike,False,inactive,4.1,25,Z167,Z167,30,,882,afternoon,2021-12-12,Bangalore
+DRV1286,Bike,False,active,4.3,4,Z185,Z174,23,,719,flexible,2023-09-03,Bangalore
+DRV1287,Auto,False,active,3.9,6,Z189,Z053,18,,853,evening,2023-07-05,Bangalore
+DRV1288,Bike,False,active,4.4,16,Z035,Z043,30,,459,morning,2022-09-08,Bangalore
+DRV1289,Auto,False,suspended,5.0,2,Z191,Z191,13,,763,evening,2023-11-02,Bangalore
+DRV1290,Bike,False,active,3.6,6,Z040,Z018,26,,641,afternoon,2023-07-05,Bangalore
+DRV1291,Bike,False,active,4.7,1,Z111,Z150,24,,557,flexible,2023-12-02,Bangalore
+DRV1292,Auto,False,active,4.7,29,Z162,Z040,21,,1186,morning,2021-08-14,Bangalore
+DRV1293,Auto,False,active,5.0,20,Z169,Z197,15,,822,evening,2022-05-11,Bangalore
+DRV1294,EV Auto,True,active,4.4,105,Z125,Z054,11,4.5,1273,morning,2021-01-01,Bangalore
+DRV1295,EV Bike,True,active,3.8,39,Z013,Z083,14,4.1,965,afternoon,2021-01-01,Bangalore
+DRV1296,Auto,False,active,4.1,5,Z062,Z144,16,,979,evening,2023-08-04,Bangalore
+DRV1297,Bike,False,inactive,5.0,5,Z026,Z026,21,,625,evening,2023-08-04,Bangalore
+DRV1298,EV Bike,True,active,4.5,7,Z067,Z176,18,3.2,779,morning,2023-06-05,Bangalore
+DRV1299,Bike,False,active,3.7,68,Z195,Z109,21,,890,afternoon,2021-01-01,Bangalore
+DRV1300,Bike,False,active,4.4,7,Z113,Z093,21,,657,afternoon,2023-06-05,Bangalore
+DRV1301,EV Auto,True,inactive,4.5,22,Z015,Z015,12,3.8,1048,afternoon,2022-03-12,Bangalore
+DRV1302,EV Auto,True,active,4.2,3,Z023,Z147,17,3.8,915,evening,2023-10-03,Bangalore
+DRV1303,Auto,False,inactive,4.7,16,Z027,Z027,15,,1087,flexible,2022-09-08,Bangalore
+DRV1304,Bike,False,active,4.2,7,Z034,Z022,28,,459,evening,2023-06-05,Bangalore
+DRV1305,Bike,False,active,5.0,25,Z044,Z168,15,,611,night,2021-12-12,Bangalore
+DRV1306,Bike,False,active,4.0,6,Z151,Z185,26,,459,afternoon,2023-07-05,Bangalore
+DRV1307,EV Bike,True,active,4.4,44,Z199,Z129,16,2.8,793,morning,2021-01-01,Bangalore
+DRV1308,Auto,False,active,4.7,41,Z168,Z192,14,,1021,afternoon,2021-01-01,Bangalore
+DRV1309,Bike,False,active,4.1,57,Z159,Z119,17,,929,evening,2021-01-01,Bangalore
+DRV1310,Bike,False,active,3.6,2,Z197,Z044,15,,471,evening,2023-11-02,Bangalore
+DRV1311,EV Bike,True,inactive,3.8,6,Z189,Z189,24,3.1,675,afternoon,2023-07-05,Bangalore
+DRV1312,Bike,False,active,4.6,38,Z109,Z058,21,,719,flexible,2021-01-01,Bangalore
+DRV1313,Bike,False,active,4.5,36,Z099,Z149,26,,728,evening,2021-01-16,Bangalore
+DRV1314,EV Bike,True,active,4.0,22,Z161,Z099,21,4.5,810,afternoon,2022-03-12,Bangalore
+DRV1315,Auto,False,active,4.3,8,Z093,Z180,11,,983,afternoon,2023-05-06,Bangalore
+DRV1316,Auto,False,active,5.0,13,Z186,Z162,17,,966,evening,2022-12-07,Bangalore
+DRV1317,Bike,False,active,4.1,30,Z020,Z083,18,,662,morning,2021-07-15,Bangalore
+DRV1318,Auto,False,active,4.1,20,Z048,Z092,12,,1040,morning,2022-05-11,Bangalore
+DRV1319,Bike,False,active,4.5,53,Z160,Z178,28,,935,night,2021-01-01,Bangalore
+DRV1320,Bike,False,active,4.5,3,Z188,Z103,24,,563,morning,2023-10-03,Bangalore
+DRV1321,Bike,False,active,4.6,21,Z162,Z008,20,,809,flexible,2022-04-11,Bangalore
+DRV1322,EV Auto,True,inactive,4.4,4,Z159,Z159,13,4.1,825,morning,2023-09-03,Bangalore
+DRV1323,Bike,False,active,4.2,12,Z098,Z118,27,,641,evening,2023-01-06,Bangalore
+DRV1324,Bike,False,active,4.1,4,Z043,Z061,21,,745,morning,2023-09-03,Bangalore
+DRV1325,Auto,False,active,4.3,4,Z040,Z089,17,,1067,afternoon,2023-09-03,Bangalore
+DRV1326,Bike,False,active,4.2,17,Z124,Z181,22,,901,morning,2022-08-09,Bangalore
+DRV1327,EV Bike,True,active,4.7,32,Z073,Z173,18,2.6,791,evening,2021-05-16,Bangalore
+DRV1328,Auto,False,active,4.0,33,Z164,Z046,15,,1102,evening,2021-04-16,Bangalore
+DRV1329,Bike,False,active,4.7,9,Z025,Z166,22,,771,morning,2023-04-06,Bangalore
+DRV1330,Bike,False,active,4.3,3,Z043,Z109,19,,687,evening,2023-10-03,Bangalore
+DRV1331,Auto,False,active,4.6,1,Z046,Z042,20,,878,evening,2023-12-02,Bangalore
+DRV1332,Bike,False,active,4.2,18,Z108,Z004,20,,712,evening,2022-07-10,Bangalore
+DRV1333,Auto,False,active,3.8,52,Z187,Z103,22,,1059,afternoon,2021-01-01,Bangalore
+DRV1334,Auto,False,active,4.6,9,Z116,Z129,22,,857,night,2023-04-06,Bangalore
+DRV1335,EV Auto,True,active,4.4,9,Z111,Z137,10,2.5,899,flexible,2023-04-06,Bangalore
+DRV1336,Auto,False,active,3.7,14,Z165,Z187,16,,819,afternoon,2022-11-07,Bangalore
+DRV1337,Bike,False,active,4.6,13,Z163,Z176,26,,646,evening,2022-12-07,Bangalore
+DRV1338,EV Bike,True,active,3.7,74,Z072,Z092,19,3.1,1022,morning,2021-01-01,Bangalore
+DRV1339,Bike,False,active,4.1,20,Z107,Z064,20,,687,morning,2022-05-11,Bangalore
+DRV1340,Bike,False,active,3.6,10,Z089,Z118,22,,859,evening,2023-03-07,Bangalore
+DRV1341,Bike,False,active,4.0,31,Z164,Z186,18,,824,afternoon,2021-06-15,Bangalore
+DRV1342,Auto,False,active,3.8,12,Z043,Z192,21,,1179,night,2023-01-06,Bangalore
+DRV1343,Bike,False,active,4.5,13,Z068,Z078,22,,565,afternoon,2022-12-07,Bangalore
+DRV1344,Auto,False,active,4.6,99,Z197,Z177,14,,1099,morning,2021-01-01,Bangalore
+DRV1345,Bike,False,active,4.5,8,Z013,Z105,21,,625,evening,2023-05-06,Bangalore
+DRV1346,Bike,False,active,3.6,1,Z163,Z082,18,,555,evening,2023-12-02,Bangalore
+DRV1347,Bike,False,active,3.9,3,Z156,Z118,28,,677,evening,2023-10-03,Bangalore
+DRV1348,Auto,False,active,4.3,48,Z083,Z089,12,,1105,morning,2021-01-01,Bangalore
+DRV1349,Auto,False,active,3.8,13,Z020,Z170,20,,943,flexible,2022-12-07,Bangalore
+DRV1350,Bike,False,active,3.7,18,Z073,Z075,25,,511,morning,2022-07-10,Bangalore
+DRV1351,Auto,False,active,4.0,1,Z112,Z107,22,,944,evening,2023-12-02,Bangalore
+DRV1352,EV Auto,True,active,4.2,30,Z102,Z156,11,2.9,945,morning,2021-07-15,Bangalore
+DRV1353,Bike,False,inactive,3.9,21,Z189,Z189,27,,468,night,2022-04-11,Bangalore
+DRV1354,Bike,False,active,4.7,37,Z100,Z162,18,,788,night,2021-01-01,Bangalore
+DRV1355,Bike,False,active,4.3,12,Z108,Z127,29,,657,morning,2023-01-06,Bangalore
+DRV1356,EV Bike,True,active,4.3,88,Z092,Z196,14,4.3,854,afternoon,2021-01-01,Bangalore
+DRV1357,Auto,False,suspended,3.8,1,Z168,Z168,19,,1061,evening,2023-12-02,Bangalore
+DRV1358,Auto,False,active,3.6,31,Z109,Z006,19,,992,evening,2021-06-15,Bangalore
+DRV1359,Auto,False,active,4.6,1,Z197,Z154,18,,845,flexible,2023-12-02,Bangalore
+DRV1360,Bike,False,active,3.8,5,Z045,Z121,21,,530,morning,2023-08-04,Bangalore
+DRV1361,Bike,False,active,3.5,10,Z189,Z155,29,,706,flexible,2023-03-07,Bangalore
+DRV1362,Auto,False,active,4.6,43,Z092,Z041,17,,1078,morning,2021-01-01,Bangalore
+DRV1363,Bike,False,active,3.4,3,Z121,Z099,17,,604,flexible,2023-10-03,Bangalore
+DRV1364,Auto,False,active,3.8,7,Z154,Z183,17,,807,afternoon,2023-06-05,Bangalore
+DRV1365,Bike,False,inactive,4.4,3,Z094,Z094,27,,548,evening,2023-10-03,Bangalore
+DRV1366,Bike,False,active,3.8,2,Z068,Z195,18,,648,afternoon,2023-11-02,Bangalore
+DRV1367,Bike,False,inactive,4.3,2,Z054,Z054,23,,766,evening,2023-11-02,Bangalore
+DRV1368,Auto,False,active,4.1,35,Z194,Z067,14,,1101,afternoon,2021-02-15,Bangalore
+DRV1369,Auto,False,active,4.2,27,Z020,Z195,12,,995,morning,2021-10-13,Bangalore
+DRV1370,EV Bike,True,active,3.9,7,Z079,Z184,22,3.5,578,afternoon,2023-06-05,Bangalore
+DRV1371,Bike,False,active,3.6,15,Z037,Z156,24,,482,morning,2022-10-08,Bangalore
+DRV1372,EV Bike,True,active,4.4,4,Z015,Z067,20,3.3,565,evening,2023-09-03,Bangalore
+DRV1373,Bike,False,active,4.2,29,Z129,Z081,26,,508,evening,2021-08-14,Bangalore
+DRV1374,EV Bike,True,active,4.5,4,Z102,Z004,15,2.9,826,morning,2023-09-03,Bangalore
+DRV1375,Auto,False,active,3.9,9,Z045,Z092,17,,956,flexible,2023-04-06,Bangalore
+DRV1376,EV Bike,True,inactive,4.0,6,Z135,Z135,15,3.8,668,afternoon,2023-07-05,Bangalore
+DRV1377,Bike,False,active,4.0,4,Z156,Z137,17,,605,evening,2023-09-03,Bangalore
+DRV1378,Bike,False,active,4.4,3,Z177,Z167,22,,598,morning,2023-10-03,Bangalore
+DRV1379,EV Auto,True,active,4.0,72,Z197,Z049,12,2.6,1242,morning,2021-01-01,Bangalore
+DRV1380,Auto,False,active,4.7,8,Z154,Z014,22,,872,morning,2023-05-06,Bangalore
+DRV1381,Bike,False,active,3.7,3,Z155,Z151,21,,673,evening,2023-10-03,Bangalore
+DRV1382,Auto,False,inactive,4.3,30,Z113,Z113,19,,1153,evening,2021-07-15,Bangalore
+DRV1383,Auto,False,active,4.1,7,Z154,Z070,20,,871,evening,2023-06-05,Bangalore
+DRV1384,Auto,False,suspended,3.6,3,Z154,Z154,15,,1073,evening,2023-10-03,Bangalore
+DRV1385,Bike,False,active,4.7,9,Z047,Z125,15,,690,evening,2023-04-06,Bangalore
+DRV1386,Bike,False,active,4.1,5,Z029,Z114,25,,584,night,2023-08-04,Bangalore
+DRV1387,Bike,False,active,4.6,17,Z082,Z129,24,,520,evening,2022-08-09,Bangalore
+DRV1388,Auto,False,inactive,3.8,32,Z188,Z188,15,,1228,night,2021-05-16,Bangalore
+DRV1389,EV Bike,True,inactive,4.1,30,Z040,Z040,19,3.7,628,afternoon,2021-07-15,Bangalore
+DRV1390,Auto,False,active,4.1,21,Z073,Z095,14,,1101,night,2022-04-11,Bangalore
+DRV1391,Bike,False,active,4.1,17,Z199,Z107,15,,666,flexible,2022-08-09,Bangalore
+DRV1392,Bike,False,active,4.0,2,Z197,Z071,15,,443,evening,2023-11-02,Bangalore
+DRV1393,Bike,False,inactive,4.0,2,Z111,Z111,27,,515,evening,2023-11-02,Bangalore
+DRV1394,EV Bike,True,active,3.8,7,Z070,Z028,14,3.9,679,flexible,2023-06-05,Bangalore
+DRV1395,Auto,False,suspended,4.3,39,Z200,Z200,21,,1293,morning,2021-01-01,Bangalore
+DRV1396,EV Auto,True,active,4.8,4,Z023,Z164,13,3.4,1159,afternoon,2023-09-03,Bangalore
+DRV1397,Auto,False,inactive,3.8,26,Z195,Z195,12,,852,evening,2021-11-12,Bangalore
+DRV1398,Auto,False,active,4.4,25,Z085,Z147,18,,1008,evening,2021-12-12,Bangalore
+DRV1399,Bike,False,active,4.6,1,Z180,Z183,25,,634,evening,2023-12-02,Bangalore
+DRV1400,Bike,False,active,4.1,5,Z100,Z086,21,,424,afternoon,2023-08-04,Bangalore
+DRV1401,Auto,False,active,4.3,10,Z109,Z110,22,,971,night,2023-03-07,Bangalore
+DRV1402,Bike,False,suspended,4.3,11,Z159,Z159,28,,642,night,2023-02-05,Bangalore
+DRV1403,Auto,False,active,3.3,44,Z196,Z020,18,,1100,evening,2021-01-01,Bangalore
+DRV1404,EV Bike,True,inactive,4.8,31,Z124,Z124,13,3.4,852,afternoon,2021-06-15,Bangalore
+DRV1405,Auto,False,inactive,3.9,34,Z167,Z167,11,,841,evening,2021-03-17,Bangalore
+DRV1406,Auto,False,active,4.7,51,Z111,Z006,19,,1088,evening,2021-01-01,Bangalore
+DRV1407,Bike,False,active,4.8,30,Z039,Z067,22,,835,evening,2021-07-15,Bangalore
+DRV1408,Auto,False,active,4.1,1,Z091,Z184,13,,1036,morning,2023-12-02,Bangalore
+DRV1409,Bike,False,active,4.9,11,Z021,Z200,19,,541,afternoon,2023-02-05,Bangalore
+DRV1410,Bike,False,active,3.9,19,Z073,Z042,28,,849,night,2022-06-10,Bangalore
+DRV1411,Bike,False,inactive,4.4,15,Z032,Z032,27,,586,afternoon,2022-10-08,Bangalore
+DRV1412,Bike,False,active,3.9,25,Z102,Z152,18,,613,flexible,2021-12-12,Bangalore
+DRV1413,Auto,False,active,3.6,62,Z031,Z126,21,,1198,morning,2021-01-01,Bangalore
+DRV1414,EV Auto,True,active,3.8,42,Z067,Z131,8,3.3,749,afternoon,2021-01-01,Bangalore
+DRV1415,EV Auto,True,active,4.9,6,Z082,Z017,11,4.5,906,morning,2023-07-05,Bangalore
+DRV1416,Auto,False,active,3.8,5,Z070,Z187,10,,907,morning,2023-08-04,Bangalore
+DRV1417,Bike,False,active,4.6,15,Z125,Z196,16,,730,flexible,2022-10-08,Bangalore
+DRV1418,Auto,False,active,4.4,17,Z040,Z108,12,,898,evening,2022-08-09,Bangalore
+DRV1419,EV Bike,True,active,4.6,67,Z029,Z042,15,3.3,1076,afternoon,2021-01-01,Bangalore
+DRV1420,EV Bike,True,active,3.5,19,Z018,Z085,12,4.3,848,morning,2022-06-10,Bangalore
+DRV1421,Bike,False,active,4.1,31,Z040,Z026,15,,662,afternoon,2021-06-15,Bangalore
+DRV1422,Bike,False,suspended,3.5,12,Z110,Z110,29,,840,night,2023-01-06,Bangalore
+DRV1423,Bike,False,active,4.0,37,Z066,Z033,25,,894,flexible,2021-01-01,Bangalore
+DRV1424,Auto,False,active,4.2,34,Z160,Z051,13,,1052,night,2021-03-17,Bangalore
+DRV1425,Bike,False,active,4.1,4,Z184,Z104,24,,466,morning,2023-09-03,Bangalore
+DRV1426,Bike,False,active,4.3,19,Z124,Z172,23,,915,afternoon,2022-06-10,Bangalore
+DRV1427,Auto,False,active,4.0,1,Z009,Z192,20,,831,flexible,2023-12-02,Bangalore
+DRV1428,Bike,False,active,4.5,36,Z061,Z042,27,,554,evening,2021-01-16,Bangalore
+DRV1429,EV Bike,True,active,3.9,56,Z148,Z104,19,3.0,1156,afternoon,2021-01-01,Bangalore
+DRV1430,Auto,False,active,4.3,14,Z093,Z087,14,,990,night,2022-11-07,Bangalore
+DRV1431,Auto,False,active,4.0,7,Z196,Z133,11,,978,afternoon,2023-06-05,Bangalore
+DRV1432,Bike,False,active,5.0,17,Z123,Z029,18,,835,morning,2022-08-09,Bangalore
+DRV1433,Bike,False,active,4.0,18,Z026,Z130,20,,557,morning,2022-07-10,Bangalore
+DRV1434,EV Bike,True,active,4.2,17,Z195,Z191,21,3.6,749,evening,2022-08-09,Bangalore
+DRV1435,Bike,False,active,4.4,18,Z190,Z136,20,,564,evening,2022-07-10,Bangalore
+DRV1436,Auto,False,inactive,4.1,14,Z198,Z198,18,,1270,flexible,2022-11-07,Bangalore
+DRV1437,Bike,False,suspended,4.3,4,Z076,Z076,27,,370,evening,2023-09-03,Bangalore
+DRV1438,Bike,False,inactive,4.0,2,Z067,Z067,24,,670,evening,2023-11-02,Bangalore
+DRV1439,Bike,False,active,5.0,11,Z126,Z042,22,,562,evening,2023-02-05,Bangalore
+DRV1440,Bike,False,active,4.4,8,Z019,Z058,23,,435,evening,2023-05-06,Bangalore
+DRV1441,Auto,False,active,3.4,25,Z037,Z173,22,,1028,evening,2021-12-12,Bangalore
+DRV1442,Auto,False,active,4.2,8,Z154,Z121,20,,874,night,2023-05-06,Bangalore
+DRV1443,Auto,False,active,4.9,12,Z198,Z185,14,,1003,night,2023-01-06,Bangalore
+DRV1444,Bike,False,active,5.0,5,Z041,Z182,30,,670,evening,2023-08-04,Bangalore
+DRV1445,Bike,False,active,3.1,2,Z093,Z062,30,,534,morning,2023-11-02,Bangalore
+DRV1446,Bike,False,active,3.9,13,Z188,Z071,23,,591,afternoon,2022-12-07,Bangalore
+DRV1447,EV Bike,True,suspended,3.8,1,Z029,Z029,21,2.9,678,afternoon,2023-12-02,Bangalore
+DRV1448,Bike,False,suspended,4.7,6,Z125,Z125,27,,604,afternoon,2023-07-05,Bangalore
+DRV1449,Auto,False,active,4.0,11,Z026,Z148,11,,944,afternoon,2023-02-05,Bangalore
+DRV1450,Auto,False,inactive,4.9,8,Z107,Z107,15,,1161,flexible,2023-05-06,Bangalore
+DRV1451,Auto,False,active,3.9,9,Z161,Z191,20,,906,evening,2023-04-06,Bangalore
+DRV1452,Bike,False,inactive,4.3,62,Z109,Z109,15,,870,afternoon,2021-01-01,Bangalore
+DRV1453,Auto,False,active,4.8,7,Z071,Z115,15,,1031,afternoon,2023-06-05,Bangalore
+DRV1454,EV Bike,True,active,3.9,12,Z141,Z166,18,4.1,967,morning,2023-01-06,Bangalore
+DRV1455,Auto,False,active,3.9,7,Z154,Z190,15,,1049,morning,2023-06-05,Bangalore
+DRV1456,Auto,False,active,4.5,17,Z128,Z164,22,,981,afternoon,2022-08-09,Bangalore
+DRV1457,Auto,False,active,3.6,8,Z093,Z194,12,,975,morning,2023-05-06,Bangalore
+DRV1458,Auto,False,inactive,4.3,14,Z144,Z144,22,,1107,morning,2022-11-07,Bangalore
+DRV1459,Auto,False,active,4.2,17,Z193,Z154,14,,1032,evening,2022-08-09,Bangalore
+DRV1460,Bike,False,inactive,4.3,49,Z196,Z196,24,,780,afternoon,2021-01-01,Bangalore
+DRV1461,Bike,False,inactive,3.8,16,Z039,Z039,23,,704,night,2022-09-08,Bangalore
+DRV1462,EV Auto,True,active,4.0,39,Z169,Z056,11,4.4,1216,flexible,2021-01-01,Bangalore
+DRV1463,Auto,False,active,4.5,18,Z159,Z050,12,,1023,evening,2022-07-10,Bangalore
+DRV1464,Auto,False,inactive,4.0,5,Z192,Z192,21,,832,night,2023-08-04,Bangalore
+DRV1465,Bike,False,active,4.3,21,Z061,Z082,26,,740,afternoon,2022-04-11,Bangalore
+DRV1466,EV Bike,True,active,3.8,26,Z149,Z033,20,3.6,710,morning,2021-11-12,Bangalore
+DRV1467,EV Bike,True,active,3.6,18,Z191,Z166,16,4.2,722,evening,2022-07-10,Bangalore
+DRV1468,Bike,False,active,4.2,12,Z041,Z006,29,,630,flexible,2023-01-06,Bangalore
+DRV1469,Auto,False,active,4.0,5,Z099,Z017,19,,888,evening,2023-08-04,Bangalore
+DRV1470,Auto,False,active,4.0,16,Z102,Z056,14,,1156,afternoon,2022-09-08,Bangalore
+DRV1471,Bike,False,active,4.7,39,Z109,Z037,25,,768,evening,2021-01-01,Bangalore
+DRV1472,Bike,False,active,4.2,45,Z158,Z017,28,,721,morning,2021-01-01,Bangalore
+DRV1473,Auto,False,active,4.7,3,Z043,Z008,21,,868,morning,2023-10-03,Bangalore
+DRV1474,EV Auto,True,active,4.3,9,Z100,Z105,10,4.2,945,morning,2023-04-06,Bangalore
+DRV1475,Bike,False,active,4.2,8,Z067,Z128,17,,666,morning,2023-05-06,Bangalore
+DRV1476,Bike,False,active,4.6,48,Z122,Z193,18,,932,flexible,2021-01-01,Bangalore
+DRV1477,Bike,False,active,4.4,25,Z029,Z044,15,,654,afternoon,2021-12-12,Bangalore
+DRV1478,Bike,False,active,4.1,6,Z101,Z018,20,,555,evening,2023-07-05,Bangalore
+DRV1479,Auto,False,suspended,4.7,68,Z189,Z189,19,,1346,morning,2021-01-01,Bangalore
+DRV1480,Bike,False,inactive,4.7,11,Z130,Z130,19,,595,morning,2023-02-05,Bangalore
+DRV1481,Auto,False,suspended,4.1,54,Z080,Z080,11,,1197,morning,2021-01-01,Bangalore
+DRV1482,Auto,False,inactive,3.9,26,Z164,Z164,19,,898,flexible,2021-11-12,Bangalore
+DRV1483,Auto,False,active,4.8,11,Z033,Z172,15,,771,morning,2023-02-05,Bangalore
+DRV1484,EV Auto,True,active,3.9,2,Z011,Z092,18,3.9,949,night,2023-11-02,Bangalore
+DRV1485,Bike,False,active,4.1,4,Z085,Z135,27,,393,morning,2023-09-03,Bangalore
+DRV1486,Bike,False,active,3.7,2,Z167,Z110,27,,408,evening,2023-11-02,Bangalore
+DRV1487,Auto,False,active,4.6,3,Z103,Z079,22,,939,night,2023-10-03,Bangalore
+DRV1488,Auto,False,active,4.9,10,Z027,Z079,20,,1070,evening,2023-03-07,Bangalore
+DRV1489,Bike,False,active,3.9,13,Z154,Z014,28,,863,night,2022-12-07,Bangalore
+DRV1490,Auto,False,active,4.1,9,Z054,Z026,12,,956,morning,2023-04-06,Bangalore
+DRV1491,Bike,False,active,4.2,13,Z015,Z012,27,,705,flexible,2022-12-07,Bangalore
+DRV1492,Bike,False,active,4.3,16,Z085,Z046,27,,738,morning,2022-09-08,Bangalore
+DRV1493,Bike,False,active,4.4,11,Z111,Z175,24,,692,afternoon,2023-02-05,Bangalore
+DRV1494,Bike,False,inactive,3.3,62,Z044,Z044,30,,848,evening,2021-01-01,Bangalore
+DRV1495,Bike,False,active,4.0,36,Z186,Z177,22,,809,morning,2021-01-16,Bangalore
+DRV1496,EV Auto,True,active,3.9,15,Z085,Z043,14,3.1,920,afternoon,2022-10-08,Bangalore
+DRV1497,EV Bike,True,active,4.6,5,Z102,Z052,25,2.9,648,evening,2023-08-04,Bangalore
+DRV1498,Bike,False,active,4.3,2,Z020,Z100,20,,761,morning,2023-11-02,Bangalore
+DRV1499,Auto,False,active,4.2,7,Z163,Z197,20,,992,night,2023-06-05,Bangalore
+DRV1500,Auto,False,active,4.7,7,Z039,Z088,12,,923,morning,2023-06-05,Bangalore
+DRV1501,Auto,False,active,4.1,7,Z072,Z130,13,,905,morning,2023-06-05,Bangalore
+DRV1502,Auto,False,active,4.1,5,Z018,Z063,18,,1105,evening,2023-08-04,Bangalore
+DRV1503,Bike,False,active,4.0,51,Z152,Z137,15,,739,evening,2021-01-01,Bangalore
+DRV1504,Bike,False,active,3.7,40,Z176,Z060,15,,792,morning,2021-01-01,Bangalore
+DRV1505,Bike,False,active,4.9,75,Z196,Z161,16,,933,morning,2021-01-01,Bangalore
+DRV1506,EV Bike,True,active,3.8,4,Z103,Z073,23,3.9,787,evening,2023-09-03,Bangalore
+DRV1507,Bike,False,suspended,4.0,12,Z039,Z039,29,,703,morning,2023-01-06,Bangalore
+DRV1508,Auto,False,active,3.7,1,Z066,Z042,21,,1137,night,2023-12-02,Bangalore
+DRV1509,Bike,False,active,4.4,11,Z139,Z059,27,,686,afternoon,2023-02-05,Bangalore
+DRV1510,EV Auto,True,active,3.5,9,Z195,Z116,13,3.2,1211,evening,2023-04-06,Bangalore
+DRV1511,Bike,False,active,4.6,48,Z193,Z049,21,,652,afternoon,2021-01-01,Bangalore
+DRV1512,Auto,False,inactive,4.2,11,Z096,Z096,13,,1022,evening,2023-02-05,Bangalore
+DRV1513,Auto,False,active,4.3,6,Z199,Z160,10,,799,afternoon,2023-07-05,Bangalore
+DRV1514,EV Bike,True,active,3.9,121,Z111,Z047,23,3.3,861,evening,2021-01-01,Bangalore
+DRV1515,Bike,False,active,4.2,2,Z039,Z165,27,,534,morning,2023-11-02,Bangalore
+DRV1516,Bike,False,active,4.1,13,Z196,Z125,25,,524,evening,2022-12-07,Bangalore
+DRV1517,Auto,False,active,3.9,2,Z024,Z022,10,,774,afternoon,2023-11-02,Bangalore
+DRV1518,Bike,False,inactive,4.1,16,Z197,Z197,19,,731,afternoon,2022-09-08,Bangalore
+DRV1519,EV Auto,True,active,4.2,1,Z122,Z087,9,4.1,922,morning,2023-12-02,Bangalore
+DRV1520,EV Bike,True,active,4.1,22,Z166,Z105,20,3.4,562,flexible,2022-03-12,Bangalore
+DRV1521,Auto,False,inactive,4.3,14,Z170,Z170,17,,753,morning,2022-11-07,Bangalore
+DRV1522,Bike,False,active,3.7,69,Z016,Z151,26,,904,morning,2021-01-01,Bangalore
+DRV1523,EV Bike,True,suspended,4.2,17,Z146,Z146,13,2.6,876,morning,2022-08-09,Bangalore
+DRV1524,Bike,False,active,4.3,22,Z187,Z051,25,,527,afternoon,2022-03-12,Bangalore
+DRV1525,EV Auto,True,active,4.3,18,Z162,Z107,12,2.9,941,afternoon,2022-07-10,Bangalore
+DRV1526,Auto,False,inactive,4.7,4,Z041,Z041,20,,846,afternoon,2023-09-03,Bangalore
+DRV1527,EV Auto,True,active,3.6,11,Z199,Z169,13,3.6,763,morning,2023-02-05,Bangalore
+DRV1528,EV Auto,True,active,4.2,29,Z005,Z078,14,3.3,1176,evening,2021-08-14,Bangalore
+DRV1529,Bike,False,active,3.5,30,Z151,Z109,28,,857,flexible,2021-07-15,Bangalore
+DRV1530,Auto,False,active,3.9,13,Z069,Z022,20,,878,flexible,2022-12-07,Bangalore
+DRV1531,EV Bike,True,inactive,4.3,11,Z035,Z035,13,3.2,968,morning,2023-02-05,Bangalore
+DRV1532,EV Bike,True,active,4.2,36,Z003,Z186,24,4.2,886,evening,2021-01-16,Bangalore
+DRV1533,Bike,False,active,4.3,37,Z118,Z162,25,,654,evening,2021-01-01,Bangalore
+DRV1534,Bike,False,active,4.9,9,Z021,Z048,17,,719,afternoon,2023-04-06,Bangalore
+DRV1535,Auto,False,active,4.2,10,Z100,Z083,17,,843,evening,2023-03-07,Bangalore
+DRV1536,Auto,False,active,4.0,62,Z195,Z174,17,,1275,morning,2021-01-01,Bangalore
+DRV1537,Bike,False,active,4.5,62,Z155,Z148,21,,874,morning,2021-01-01,Bangalore
+DRV1538,EV Bike,True,active,3.4,14,Z107,Z163,18,3.8,648,morning,2022-11-07,Bangalore
+DRV1539,Bike,False,active,3.8,25,Z013,Z168,23,,836,morning,2021-12-12,Bangalore
+DRV1540,Bike,False,active,3.6,7,Z159,Z194,28,,488,morning,2023-06-05,Bangalore
+DRV1541,Auto,False,active,3.4,4,Z100,Z179,19,,907,evening,2023-09-03,Bangalore
+DRV1542,Auto,False,active,3.7,16,Z199,Z126,18,,725,morning,2022-09-08,Bangalore
+DRV1543,Bike,False,active,4.7,17,Z124,Z084,27,,801,evening,2022-08-09,Bangalore
+DRV1544,Bike,False,active,4.3,2,Z018,Z036,25,,536,morning,2023-11-02,Bangalore
+DRV1545,Bike,False,active,4.8,5,Z045,Z039,20,,697,afternoon,2023-08-04,Bangalore
+DRV1546,Bike,False,active,4.1,5,Z107,Z041,24,,769,morning,2023-08-04,Bangalore
+DRV1547,Auto,False,active,4.7,15,Z040,Z125,15,,791,flexible,2022-10-08,Bangalore
+DRV1548,Auto,False,active,4.0,5,Z152,Z127,16,,843,flexible,2023-08-04,Bangalore
+DRV1549,Auto,False,active,4.0,22,Z166,Z110,19,,846,afternoon,2022-03-12,Bangalore
+DRV1550,Auto,False,active,4.0,9,Z095,Z145,11,,796,afternoon,2023-04-06,Bangalore
+DRV1551,Bike,False,inactive,3.9,2,Z083,Z083,30,,697,afternoon,2023-11-02,Bangalore
+DRV1552,EV Bike,True,active,3.7,13,Z083,Z162,21,3.0,607,night,2022-12-07,Bangalore
+DRV1553,Auto,False,active,4.4,34,Z151,Z025,22,,1116,afternoon,2021-03-17,Bangalore
+DRV1554,Auto,False,active,4.8,7,Z187,Z069,17,,809,night,2023-06-05,Bangalore
+DRV1555,Bike,False,active,4.3,1,Z016,Z122,22,,564,afternoon,2023-12-02,Bangalore
+DRV1556,EV Bike,True,active,3.5,22,Z069,Z082,21,2.9,650,night,2022-03-12,Bangalore
+DRV1557,Bike,False,inactive,3.9,31,Z072,Z072,16,,879,night,2021-06-15,Bangalore
+DRV1558,Bike,False,active,4.0,24,Z015,Z077,23,,505,morning,2022-01-11,Bangalore
+DRV1559,Auto,False,active,4.5,17,Z124,Z199,17,,846,evening,2022-08-09,Bangalore
+DRV1560,Auto,False,active,4.4,6,Z070,Z117,13,,1116,evening,2023-07-05,Bangalore
+DRV1561,Bike,False,active,3.4,16,Z032,Z014,25,,641,morning,2022-09-08,Bangalore
+DRV1562,EV Bike,True,active,4.3,18,Z112,Z166,14,3.7,854,night,2022-07-10,Bangalore
+DRV1563,Auto,False,active,3.9,5,Z011,Z131,21,,928,evening,2023-08-04,Bangalore
+DRV1564,EV Auto,True,active,3.4,4,Z040,Z183,13,4.4,860,afternoon,2023-09-03,Bangalore
+DRV1565,Bike,False,active,3.4,6,Z155,Z016,28,,635,evening,2023-07-05,Bangalore
+DRV1566,Auto,False,active,3.8,48,Z040,Z030,13,,1127,evening,2021-01-01,Bangalore
+DRV1567,Auto,False,active,4.4,3,Z058,Z123,10,,1000,flexible,2023-10-03,Bangalore
+DRV1568,EV Auto,True,active,4.5,27,Z103,Z194,12,3.5,1054,evening,2021-10-13,Bangalore
+DRV1569,Auto,False,active,4.3,33,Z162,Z010,13,,966,morning,2021-04-16,Bangalore
+DRV1570,Auto,False,active,4.9,12,Z041,Z102,12,,1077,flexible,2023-01-06,Bangalore
+DRV1571,Auto,False,active,4.0,19,Z151,Z100,13,,998,afternoon,2022-06-10,Bangalore
+DRV1572,Bike,False,inactive,4.2,7,Z185,Z185,24,,538,evening,2023-06-05,Bangalore
+DRV1573,Auto,False,active,3.8,22,Z043,Z029,16,,1026,evening,2022-03-12,Bangalore
+DRV1574,EV Bike,True,active,4.0,2,Z197,Z077,25,3.2,712,morning,2023-11-02,Bangalore
+DRV1575,Auto,False,active,3.3,3,Z065,Z056,14,,1160,night,2023-10-03,Bangalore
+DRV1576,EV Bike,True,active,4.6,32,Z100,Z185,18,4.0,853,flexible,2021-05-16,Bangalore
+DRV1577,Auto,False,active,3.9,3,Z171,Z064,19,,938,flexible,2023-10-03,Bangalore
+DRV1578,Auto,False,inactive,4.0,9,Z001,Z001,17,,870,flexible,2023-04-06,Bangalore
+DRV1579,Bike,False,active,4.3,33,Z111,Z190,26,,835,evening,2021-04-16,Bangalore
+DRV1580,Bike,False,active,4.0,24,Z037,Z068,29,,760,flexible,2022-01-11,Bangalore
+DRV1581,Auto,False,active,4.5,8,Z125,Z045,11,,777,evening,2023-05-06,Bangalore
+DRV1582,EV Bike,True,active,4.3,1,Z016,Z180,23,2.9,635,afternoon,2023-12-02,Bangalore
+DRV1583,Bike,False,active,4.6,33,Z124,Z106,20,,878,evening,2021-04-16,Bangalore
+DRV1584,EV Auto,True,inactive,4.7,3,Z185,Z185,12,2.5,1023,afternoon,2023-10-03,Bangalore
+DRV1585,EV Bike,True,active,4.1,1,Z013,Z167,25,3.6,756,evening,2023-12-02,Bangalore
+DRV1586,EV Bike,True,active,4.6,22,Z074,Z094,17,4.1,705,evening,2022-03-12,Bangalore
+DRV1587,Bike,False,inactive,3.9,11,Z139,Z139,19,,647,afternoon,2023-02-05,Bangalore
+DRV1588,Bike,False,active,4.5,19,Z098,Z197,24,,688,night,2022-06-10,Bangalore
+DRV1589,Auto,False,active,4.3,2,Z112,Z023,12,,676,evening,2023-11-02,Bangalore
+DRV1590,Auto,False,active,4.2,12,Z021,Z088,19,,987,evening,2023-01-06,Bangalore
+DRV1591,Auto,False,inactive,4.7,20,Z053,Z053,11,,869,flexible,2022-05-11,Bangalore
+DRV1592,EV Auto,True,active,3.8,7,Z160,Z002,10,4.0,995,evening,2023-06-05,Bangalore
+DRV1593,EV Bike,True,active,4.3,1,Z101,Z141,22,2.9,553,afternoon,2023-12-02,Bangalore
+DRV1594,Bike,False,active,4.6,40,Z168,Z165,29,,831,evening,2021-01-01,Bangalore
+DRV1595,EV Bike,True,suspended,3.5,2,Z127,Z127,23,3.0,392,afternoon,2023-11-02,Bangalore
+DRV1596,EV Bike,True,active,4.6,6,Z044,Z007,16,2.9,743,night,2023-07-05,Bangalore
+DRV1597,Auto,False,active,4.7,38,Z034,Z109,20,,1057,evening,2021-01-01,Bangalore
+DRV1598,Bike,False,active,4.3,4,Z111,Z159,30,,430,morning,2023-09-03,Bangalore
+DRV1599,Auto,False,active,4.4,1,Z018,Z066,22,,986,night,2023-12-02,Bangalore
+DRV1600,Bike,False,active,4.1,8,Z176,Z126,15,,781,night,2023-05-06,Bangalore
+DRV1601,Bike,False,active,3.8,26,Z066,Z186,18,,741,morning,2021-11-12,Bangalore
+DRV1602,EV Auto,True,active,3.7,4,Z192,Z116,9,2.5,910,morning,2023-09-03,Bangalore
+DRV1603,EV Bike,True,active,4.7,1,Z114,Z018,16,3.3,690,flexible,2023-12-02,Bangalore
+DRV1604,Auto,False,active,4.2,31,Z191,Z133,12,,983,flexible,2021-06-15,Bangalore
+DRV1605,Bike,False,active,3.7,17,Z189,Z040,17,,525,morning,2022-08-09,Bangalore
+DRV1606,Bike,False,active,4.5,16,Z042,Z198,27,,847,morning,2022-09-08,Bangalore
+DRV1607,EV Bike,True,active,4.5,5,Z193,Z114,14,2.8,814,flexible,2023-08-04,Bangalore
+DRV1608,Auto,False,active,3.9,3,Z191,Z111,21,,873,evening,2023-10-03,Bangalore
+DRV1609,Bike,False,active,4.5,60,Z157,Z180,28,,950,afternoon,2021-01-01,Bangalore
+DRV1610,EV Auto,True,active,3.7,3,Z066,Z036,9,3.6,920,evening,2023-10-03,Bangalore
+DRV1611,Bike,False,suspended,4.3,18,Z068,Z068,30,,844,morning,2022-07-10,Bangalore
+DRV1612,Bike,False,active,4.5,33,Z037,Z077,19,,882,morning,2021-04-16,Bangalore
+DRV1613,Bike,False,active,4.0,19,Z187,Z069,15,,785,afternoon,2022-06-10,Bangalore
+DRV1614,Bike,False,active,4.3,1,Z186,Z122,30,,595,morning,2023-12-02,Bangalore
+DRV1615,Auto,False,active,3.7,23,Z019,Z038,18,,1049,evening,2022-02-10,Bangalore
+DRV1616,EV Auto,True,active,4.0,13,Z167,Z193,11,4.2,836,afternoon,2022-12-07,Bangalore
+DRV1617,EV Bike,True,active,4.4,13,Z107,Z008,23,3.3,645,evening,2022-12-07,Bangalore
+DRV1618,EV Bike,True,active,3.7,4,Z165,Z131,25,2.8,751,evening,2023-09-03,Bangalore
+DRV1619,Bike,False,active,4.5,26,Z018,Z107,17,,931,night,2021-11-12,Bangalore
+DRV1620,Bike,False,active,4.0,10,Z185,Z088,24,,426,flexible,2023-03-07,Bangalore
+DRV1621,EV Bike,True,active,3.8,15,Z198,Z177,17,3.9,562,flexible,2022-10-08,Bangalore
+DRV1622,Auto,False,active,4.3,6,Z167,Z069,14,,907,morning,2023-07-05,Bangalore
+DRV1623,EV Auto,True,active,4.5,4,Z044,Z090,13,3.5,901,afternoon,2023-09-03,Bangalore
+DRV1624,Bike,False,active,4.2,53,Z200,Z157,19,,923,morning,2021-01-01,Bangalore
+DRV1625,Auto,False,active,3.7,4,Z053,Z119,11,,1046,evening,2023-09-03,Bangalore
+DRV1626,Bike,False,active,4.0,3,Z047,Z166,30,,581,evening,2023-10-03,Bangalore
+DRV1627,Bike,False,active,4.1,29,Z037,Z066,17,,635,night,2021-08-14,Bangalore
+DRV1628,EV Auto,True,active,3.7,2,Z067,Z127,12,3.5,924,afternoon,2023-11-02,Bangalore
+DRV1629,Bike,False,suspended,4.0,20,Z127,Z127,18,,828,afternoon,2022-05-11,Bangalore
+DRV1630,Bike,False,active,5.0,21,Z014,Z011,17,,754,evening,2022-04-11,Bangalore
+DRV1631,Bike,False,active,3.6,1,Z109,Z053,16,,696,morning,2023-12-02,Bangalore
+DRV1632,Bike,False,active,4.6,16,Z112,Z062,22,,666,evening,2022-09-08,Bangalore
+DRV1633,Bike,False,active,4.4,21,Z039,Z006,25,,599,night,2022-04-11,Bangalore
+DRV1634,EV Bike,True,active,3.8,29,Z040,Z024,19,2.7,890,night,2021-08-14,Bangalore
+DRV1635,Bike,False,active,4.3,44,Z042,Z057,23,,783,evening,2021-01-01,Bangalore
+DRV1636,Bike,False,inactive,4.8,11,Z115,Z115,21,,491,afternoon,2023-02-05,Bangalore
+DRV1637,Bike,False,active,3.5,26,Z158,Z193,27,,658,morning,2021-11-12,Bangalore
+DRV1638,Auto,False,active,4.3,25,Z088,Z083,17,,1011,afternoon,2021-12-12,Bangalore
+DRV1639,Bike,False,active,4.2,6,Z025,Z154,27,,623,morning,2023-07-05,Bangalore
+DRV1640,Bike,False,active,4.3,23,Z072,Z060,27,,801,evening,2022-02-10,Bangalore
+DRV1641,Auto,False,active,4.5,1,Z193,Z006,19,,789,afternoon,2023-12-02,Bangalore
+DRV1642,Auto,False,active,4.8,3,Z023,Z112,15,,743,afternoon,2023-10-03,Bangalore
+DRV1643,EV Auto,True,active,4.0,20,Z161,Z166,13,2.6,1028,morning,2022-05-11,Bangalore
+DRV1644,Auto,False,active,4.9,3,Z156,Z013,11,,722,evening,2023-10-03,Bangalore
+DRV1645,Bike,False,inactive,4.5,133,Z043,Z043,22,,931,evening,2021-01-01,Bangalore
+DRV1646,Bike,False,active,3.9,20,Z185,Z190,20,,598,flexible,2022-05-11,Bangalore
+DRV1647,EV Bike,True,active,4.8,3,Z051,Z155,24,3.0,666,night,2023-10-03,Bangalore
+DRV1648,Auto,False,active,4.0,2,Z101,Z186,12,,808,morning,2023-11-02,Bangalore
+DRV1649,Bike,False,inactive,4.5,9,Z132,Z132,15,,574,afternoon,2023-04-06,Bangalore
+DRV1650,Bike,False,active,4.1,72,Z062,Z156,26,,880,evening,2021-01-01,Bangalore
+DRV1651,Auto,False,active,3.7,4,Z042,Z164,11,,1138,morning,2023-09-03,Bangalore
+DRV1652,Auto,False,active,4.1,2,Z107,Z141,18,,889,flexible,2023-11-02,Bangalore
+DRV1653,Bike,False,active,4.3,48,Z192,Z104,23,,721,evening,2021-01-01,Bangalore
+DRV1654,Auto,False,active,4.7,11,Z163,Z095,11,,953,afternoon,2023-02-05,Bangalore
+DRV1655,Bike,False,active,4.6,4,Z198,Z005,21,,730,night,2023-09-03,Bangalore
+DRV1656,Bike,False,active,4.7,2,Z036,Z167,24,,444,morning,2023-11-02,Bangalore
+DRV1657,Bike,False,active,4.4,101,Z124,Z183,29,,739,morning,2021-01-01,Bangalore
+DRV1658,EV Auto,True,active,4.7,11,Z168,Z026,13,3.4,891,afternoon,2023-02-05,Bangalore
+DRV1659,Auto,False,active,4.4,40,Z099,Z132,10,,1257,morning,2021-01-01,Bangalore
+DRV1660,Bike,False,active,4.9,18,Z015,Z026,19,,512,afternoon,2022-07-10,Bangalore
+DRV1661,Bike,False,active,3.8,2,Z018,Z115,27,,579,evening,2023-11-02,Bangalore
+DRV1662,Auto,False,active,3.9,24,Z152,Z150,17,,939,afternoon,2022-01-11,Bangalore
+DRV1663,Auto,False,active,4.2,4,Z197,Z145,12,,677,afternoon,2023-09-03,Bangalore
+DRV1664,Auto,False,active,4.1,26,Z037,Z037,11,,1154,afternoon,2021-11-12,Bangalore
+DRV1665,Bike,False,active,4.2,11,Z036,Z050,28,,617,night,2023-02-05,Bangalore
+DRV1666,EV Bike,True,active,4.1,10,Z053,Z001,25,3.0,701,evening,2023-03-07,Bangalore
+DRV1667,Bike,False,active,4.0,24,Z173,Z127,18,,927,night,2022-01-11,Bangalore
+DRV1668,Bike,False,active,4.5,16,Z125,Z067,25,,611,evening,2022-09-08,Bangalore
+DRV1669,Auto,False,inactive,3.9,18,Z189,Z189,22,,902,morning,2022-07-10,Bangalore
+DRV1670,Bike,False,active,4.1,6,Z151,Z077,30,,774,flexible,2023-07-05,Bangalore
+DRV1671,Bike,False,inactive,4.4,11,Z037,Z037,22,,755,evening,2023-02-05,Bangalore
+DRV1672,Bike,False,active,3.6,18,Z100,Z106,27,,682,afternoon,2022-07-10,Bangalore
+DRV1673,Bike,False,active,3.4,16,Z170,Z017,25,,340,night,2022-09-08,Bangalore
+DRV1674,Bike,False,active,4.9,16,Z101,Z031,24,,633,flexible,2022-09-08,Bangalore
+DRV1675,Bike,False,active,3.6,12,Z064,Z074,22,,655,afternoon,2023-01-06,Bangalore
+DRV1676,Auto,False,active,4.3,8,Z026,Z022,22,,919,morning,2023-05-06,Bangalore
+DRV1677,Bike,False,inactive,4.2,18,Z179,Z179,19,,764,morning,2022-07-10,Bangalore
+DRV1678,Bike,False,suspended,3.8,9,Z189,Z189,26,,659,morning,2023-04-06,Bangalore
+DRV1679,EV Bike,True,active,4.3,11,Z161,Z022,12,4.1,608,flexible,2023-02-05,Bangalore
+DRV1680,EV Bike,True,active,3.9,4,Z072,Z158,16,2.6,752,evening,2023-09-03,Bangalore
+DRV1681,Bike,False,active,4.5,23,Z029,Z128,22,,696,afternoon,2022-02-10,Bangalore
+DRV1682,Bike,False,active,4.4,2,Z122,Z092,24,,300,afternoon,2023-11-02,Bangalore
+DRV1683,EV Auto,True,active,4.5,3,Z171,Z084,10,3.9,669,morning,2023-10-03,Bangalore
+DRV1684,Bike,False,inactive,3.7,23,Z122,Z122,19,,802,afternoon,2022-02-10,Bangalore
+DRV1685,Bike,False,active,4.5,18,Z126,Z112,28,,822,flexible,2022-07-10,Bangalore
+DRV1686,Auto,False,active,3.7,80,Z054,Z122,15,,1205,morning,2021-01-01,Bangalore
+DRV1687,Bike,False,active,4.8,21,Z065,Z100,20,,621,flexible,2022-04-11,Bangalore
+DRV1688,EV Bike,True,inactive,3.9,6,Z085,Z085,17,4.2,590,morning,2023-07-05,Bangalore
+DRV1689,EV Bike,True,active,3.6,1,Z027,Z125,12,3.0,597,evening,2023-12-02,Bangalore
+DRV1690,EV Auto,True,inactive,3.7,1,Z107,Z107,18,3.2,705,afternoon,2023-12-02,Bangalore
+DRV1691,Auto,False,active,4.6,3,Z200,Z129,13,,978,evening,2023-10-03,Bangalore
+DRV1692,EV Bike,True,active,4.4,18,Z107,Z136,24,3.4,678,evening,2022-07-10,Bangalore
+DRV1693,Auto,False,active,4.3,7,Z012,Z073,10,,878,evening,2023-06-05,Bangalore
+DRV1694,EV Bike,True,active,4.7,30,Z119,Z156,25,2.9,724,afternoon,2021-07-15,Bangalore
+DRV1695,EV Bike,True,inactive,4.4,10,Z172,Z172,16,3.6,684,morning,2023-03-07,Bangalore
+DRV1696,EV Auto,True,active,4.2,42,Z112,Z013,12,3.6,1246,flexible,2021-01-01,Bangalore
+DRV1697,EV Auto,True,active,4.0,30,Z188,Z197,18,2.6,1071,flexible,2021-07-15,Bangalore
+DRV1698,Bike,False,active,4.0,55,Z033,Z061,27,,967,morning,2021-01-01,Bangalore
+DRV1699,Auto,False,active,5.0,19,Z092,Z166,17,,1137,morning,2022-06-10,Bangalore
+DRV1700,Auto,False,active,4.2,49,Z187,Z066,12,,1112,evening,2021-01-01,Bangalore
+DRV1701,Bike,False,active,4.6,1,Z155,Z178,17,,667,flexible,2023-12-02,Bangalore
+DRV1702,Bike,False,active,3.4,13,Z195,Z070,20,,918,afternoon,2022-12-07,Bangalore
+DRV1703,Auto,False,inactive,4.3,13,Z151,Z151,17,,906,afternoon,2022-12-07,Bangalore
+DRV1704,Bike,False,active,4.2,3,Z103,Z049,23,,805,night,2023-10-03,Bangalore
+DRV1705,EV Bike,True,active,3.8,38,Z037,Z088,25,2.9,896,flexible,2021-01-01,Bangalore
+DRV1706,EV Bike,True,active,3.8,60,Z103,Z194,24,4.1,992,afternoon,2021-01-01,Bangalore
+DRV1707,Bike,False,active,3.9,18,Z162,Z192,17,,694,flexible,2022-07-10,Bangalore
+DRV1708,EV Bike,True,active,4.5,31,Z085,Z165,12,3.4,730,morning,2021-06-15,Bangalore
+DRV1709,Bike,False,suspended,4.2,11,Z167,Z167,25,,704,flexible,2023-02-05,Bangalore
+DRV1710,EV Bike,True,active,4.0,15,Z153,Z134,14,3.5,770,flexible,2022-10-08,Bangalore
+DRV1711,Auto,False,active,3.9,10,Z020,Z164,13,,961,night,2023-03-07,Bangalore
+DRV1712,Bike,False,inactive,4.4,3,Z073,Z073,19,,570,flexible,2023-10-03,Bangalore
+DRV1713,Bike,False,inactive,4.0,18,Z136,Z136,26,,725,evening,2022-07-10,Bangalore
+DRV1714,Bike,False,active,4.7,5,Z043,Z183,17,,554,evening,2023-08-04,Bangalore
+DRV1715,Bike,False,active,3.7,23,Z197,Z086,25,,795,morning,2022-02-10,Bangalore
+DRV1716,EV Bike,True,active,4.3,3,Z199,Z141,23,4.4,787,flexible,2023-10-03,Bangalore
+DRV1717,Auto,False,inactive,3.7,22,Z029,Z029,22,,979,flexible,2022-03-12,Bangalore
+DRV1718,Bike,False,active,4.0,13,Z022,Z036,17,,696,morning,2022-12-07,Bangalore
+DRV1719,Auto,False,active,4.5,14,Z155,Z028,12,,972,flexible,2022-11-07,Bangalore
+DRV1720,Bike,False,active,4.6,13,Z159,Z180,18,,625,evening,2022-12-07,Bangalore
+DRV1721,Auto,False,active,3.8,34,Z175,Z131,16,,688,evening,2021-03-17,Bangalore
+DRV1722,Bike,False,active,4.1,8,Z049,Z127,22,,780,evening,2023-05-06,Bangalore
+DRV1723,Bike,False,inactive,5.0,5,Z036,Z036,27,,588,afternoon,2023-08-04,Bangalore
+DRV1724,Bike,False,inactive,4.2,8,Z110,Z110,23,,814,morning,2023-05-06,Bangalore
+DRV1725,Bike,False,active,4.1,54,Z177,Z033,20,,822,flexible,2021-01-01,Bangalore
+DRV1726,Bike,False,active,3.8,12,Z066,Z191,16,,597,afternoon,2023-01-06,Bangalore
+DRV1727,EV Auto,True,active,4.4,15,Z013,Z167,8,3.3,691,afternoon,2022-10-08,Bangalore
+DRV1728,Bike,False,active,3.9,61,Z034,Z095,25,,659,evening,2021-01-01,Bangalore
+DRV1729,Bike,False,active,3.6,6,Z038,Z053,27,,545,flexible,2023-07-05,Bangalore
+DRV1730,Auto,False,active,4.8,5,Z112,Z013,10,,894,morning,2023-08-04,Bangalore
+DRV1731,EV Bike,True,inactive,4.8,8,Z135,Z135,18,4.3,639,morning,2023-05-06,Bangalore
+DRV1732,Bike,False,active,3.6,25,Z199,Z136,17,,761,afternoon,2021-12-12,Bangalore
+DRV1733,Bike,False,active,4.3,8,Z123,Z100,23,,610,afternoon,2023-05-06,Bangalore
+DRV1734,Bike,False,active,3.8,43,Z103,Z057,19,,953,evening,2021-01-01,Bangalore
+DRV1735,Auto,False,active,4.1,13,Z082,Z192,10,,942,flexible,2022-12-07,Bangalore
+DRV1736,Bike,False,inactive,4.5,15,Z066,Z066,20,,651,morning,2022-10-08,Bangalore
+DRV1737,EV Auto,True,active,4.6,20,Z156,Z108,11,2.9,823,evening,2022-05-11,Bangalore
+DRV1738,Auto,False,active,4.0,3,Z069,Z151,20,,932,night,2023-10-03,Bangalore
+DRV1739,Auto,False,active,4.4,13,Z125,Z160,13,,1039,flexible,2022-12-07,Bangalore
+DRV1740,Bike,False,active,3.9,7,Z128,Z059,28,,579,morning,2023-06-05,Bangalore
+DRV1741,EV Bike,True,active,4.7,14,Z053,Z120,23,2.7,641,flexible,2022-11-07,Bangalore
+DRV1742,Auto,False,active,4.1,49,Z054,Z056,11,,1039,morning,2021-01-01,Bangalore
+DRV1743,Auto,False,active,4.7,12,Z162,Z116,11,,1023,evening,2023-01-06,Bangalore
+DRV1744,Bike,False,active,3.9,38,Z197,Z162,22,,755,evening,2021-01-01,Bangalore
+DRV1745,Auto,False,active,4.0,13,Z127,Z056,15,,1022,evening,2022-12-07,Bangalore
+DRV1746,Bike,False,active,5.0,53,Z191,Z090,26,,836,evening,2021-01-01,Bangalore
+DRV1747,Bike,False,active,4.7,1,Z016,Z171,23,,886,morning,2023-12-02,Bangalore
+DRV1748,Bike,False,active,3.9,33,Z051,Z034,24,,814,afternoon,2021-04-16,Bangalore
+DRV1749,Auto,False,active,4.0,6,Z186,Z053,20,,830,night,2023-07-05,Bangalore
+DRV1750,Bike,False,active,3.7,13,Z041,Z122,27,,579,morning,2022-12-07,Bangalore
+DRV1751,Bike,False,inactive,4.3,2,Z026,Z026,20,,605,afternoon,2023-11-02,Bangalore
+DRV1752,Bike,False,active,4.0,33,Z193,Z134,25,,783,evening,2021-04-16,Bangalore
+DRV1753,Auto,False,suspended,5.0,15,Z165,Z165,14,,1138,evening,2022-10-08,Bangalore
+DRV1754,EV Auto,True,active,4.0,7,Z051,Z104,16,3.4,825,morning,2023-06-05,Bangalore
+DRV1755,Auto,False,active,3.7,3,Z022,Z059,18,,966,flexible,2023-10-03,Bangalore
+DRV1756,Auto,False,active,4.4,7,Z152,Z047,22,,1008,flexible,2023-06-05,Bangalore
+DRV1757,Auto,False,active,4.6,28,Z062,Z138,15,,1204,morning,2021-09-13,Bangalore
+DRV1758,Bike,False,active,4.3,4,Z012,Z110,30,,666,evening,2023-09-03,Bangalore
+DRV1759,Bike,False,active,4.5,5,Z111,Z185,17,,568,evening,2023-08-04,Bangalore
+DRV1760,Auto,False,suspended,4.3,10,Z020,Z020,22,,899,evening,2023-03-07,Bangalore
+DRV1761,EV Bike,True,active,4.3,2,Z041,Z194,23,3.5,736,night,2023-11-02,Bangalore
+DRV1762,Bike,False,inactive,3.8,1,Z023,Z023,15,,402,afternoon,2023-12-02,Bangalore
+DRV1763,Auto,False,active,3.8,10,Z072,Z193,14,,948,evening,2023-03-07,Bangalore
+DRV1764,Bike,False,active,4.7,30,Z071,Z126,17,,670,evening,2021-07-15,Bangalore
+DRV1765,EV Bike,True,active,4.0,9,Z129,Z112,12,2.6,572,evening,2023-04-06,Bangalore
+DRV1766,EV Bike,True,active,4.4,23,Z027,Z093,14,3.3,711,morning,2022-02-10,Bangalore
+DRV1767,Bike,False,active,4.0,3,Z085,Z095,16,,476,night,2023-10-03,Bangalore
+DRV1768,Bike,False,active,3.8,77,Z161,Z121,16,,1021,afternoon,2021-01-01,Bangalore
+DRV1769,EV Bike,True,active,4.0,16,Z016,Z198,13,3.0,889,morning,2022-09-08,Bangalore
+DRV1770,Bike,False,active,4.2,4,Z032,Z143,15,,722,flexible,2023-09-03,Bangalore
+DRV1771,Auto,False,active,4.6,19,Z066,Z133,16,,949,evening,2022-06-10,Bangalore
+DRV1772,Bike,False,active,4.6,41,Z024,Z037,27,,848,evening,2021-01-01,Bangalore
+DRV1773,Auto,False,active,4.9,26,Z082,Z105,12,,1066,flexible,2021-11-12,Bangalore
+DRV1774,EV Bike,True,active,3.7,29,Z136,Z111,16,2.7,838,flexible,2021-08-14,Bangalore
+DRV1775,EV Bike,True,active,4.0,12,Z100,Z041,17,4.2,738,morning,2023-01-06,Bangalore
+DRV1776,Bike,False,active,4.0,1,Z093,Z140,20,,484,evening,2023-12-02,Bangalore
+DRV1777,Auto,False,active,4.6,18,Z075,Z132,22,,727,afternoon,2022-07-10,Bangalore
+DRV1778,Auto,False,active,4.6,5,Z070,Z085,17,,981,evening,2023-08-04,Bangalore
+DRV1779,Bike,False,active,4.2,72,Z072,Z062,21,,1107,morning,2021-01-01,Bangalore
+DRV1780,Auto,False,active,4.1,19,Z032,Z102,22,,923,morning,2022-06-10,Bangalore
+DRV1781,Auto,False,active,4.4,2,Z034,Z140,19,,885,evening,2023-11-02,Bangalore
+DRV1782,Auto,False,active,5.0,20,Z108,Z165,13,,1143,flexible,2022-05-11,Bangalore
+DRV1783,Auto,False,suspended,3.9,34,Z157,Z157,22,,909,morning,2021-03-17,Bangalore
+DRV1784,EV Auto,True,inactive,4.4,15,Z185,Z185,11,4.1,870,flexible,2022-10-08,Bangalore
+DRV1785,Bike,False,active,4.5,5,Z029,Z141,19,,741,morning,2023-08-04,Bangalore
+DRV1786,Bike,False,active,4.6,11,Z068,Z187,24,,678,flexible,2023-02-05,Bangalore
+DRV1787,EV Bike,True,active,4.2,3,Z165,Z089,13,3.7,725,night,2023-10-03,Bangalore
+DRV1788,EV Bike,True,active,4.4,7,Z030,Z139,15,3.6,669,afternoon,2023-06-05,Bangalore
+DRV1789,Bike,False,active,3.9,24,Z050,Z044,20,,691,evening,2022-01-11,Bangalore
+DRV1790,Bike,False,active,4.6,11,Z110,Z020,17,,572,morning,2023-02-05,Bangalore
+DRV1791,Auto,False,inactive,4.8,9,Z100,Z100,22,,935,morning,2023-04-06,Bangalore
+DRV1792,EV Auto,True,active,3.4,9,Z191,Z012,10,3.4,780,night,2023-04-06,Bangalore
+DRV1793,EV Auto,True,inactive,4.8,9,Z015,Z015,14,4.3,908,morning,2023-04-06,Bangalore
+DRV1794,EV Bike,True,active,5.0,6,Z123,Z019,15,4.4,714,night,2023-07-05,Bangalore
+DRV1795,Bike,False,active,4.3,24,Z112,Z131,20,,702,evening,2022-01-11,Bangalore
+DRV1796,EV Bike,True,active,4.9,1,Z037,Z160,25,3.1,771,flexible,2023-12-02,Bangalore
+DRV1797,Bike,False,active,4.3,15,Z153,Z115,21,,962,evening,2022-10-08,Bangalore
+DRV1798,Auto,False,active,3.9,4,Z035,Z105,13,,893,afternoon,2023-09-03,Bangalore
+DRV1799,Auto,False,active,4.2,12,Z122,Z177,19,,1028,evening,2023-01-06,Bangalore
+DRV1800,EV Auto,True,active,4.3,13,Z072,Z074,15,4.5,1128,evening,2022-12-07,Bangalore
+DRV1801,Bike,False,active,4.5,4,Z160,Z161,28,,518,night,2023-09-03,Bangalore
+DRV1802,EV Bike,True,active,4.1,7,Z165,Z155,20,2.8,521,night,2023-06-05,Bangalore
+DRV1803,Auto,False,active,4.5,19,Z037,Z085,14,,842,flexible,2022-06-10,Bangalore
+DRV1804,Auto,False,active,4.1,2,Z045,Z049,12,,1057,afternoon,2023-11-02,Bangalore
+DRV1805,Bike,False,suspended,4.8,1,Z157,Z157,16,,693,flexible,2023-12-02,Bangalore
+DRV1806,Auto,False,active,4.0,16,Z199,Z107,20,,982,evening,2022-09-08,Bangalore
+DRV1807,Bike,False,inactive,3.4,53,Z134,Z134,22,,1110,evening,2021-01-01,Bangalore
+DRV1808,Bike,False,active,4.0,12,Z036,Z169,15,,682,flexible,2023-01-06,Bangalore
+DRV1809,EV Auto,True,inactive,4.1,11,Z037,Z037,16,4.1,713,night,2023-02-05,Bangalore
+DRV1810,Bike,False,active,3.5,4,Z037,Z112,23,,745,afternoon,2023-09-03,Bangalore
+DRV1811,Bike,False,active,4.7,20,Z054,Z004,30,,701,evening,2022-05-11,Bangalore
+DRV1812,Auto,False,active,4.4,44,Z153,Z081,22,,1097,night,2021-01-01,Bangalore
+DRV1813,EV Bike,True,active,4.5,62,Z162,Z198,16,4.3,1024,flexible,2021-01-01,Bangalore
+DRV1814,EV Bike,True,active,4.3,14,Z001,Z002,18,2.6,828,morning,2022-11-07,Bangalore
+DRV1815,EV Bike,True,active,5.0,15,Z025,Z021,17,2.6,642,morning,2022-10-08,Bangalore
+DRV1816,Auto,False,active,3.9,15,Z072,Z162,21,,1090,evening,2022-10-08,Bangalore
+DRV1817,EV Bike,True,inactive,4.1,25,Z161,Z161,18,2.8,677,evening,2021-12-12,Bangalore
+DRV1818,Bike,False,active,4.2,8,Z128,Z113,29,,423,morning,2023-05-06,Bangalore
+DRV1819,Auto,False,active,4.6,21,Z108,Z196,20,,982,morning,2022-04-11,Bangalore
+DRV1820,Bike,False,active,4.1,38,Z126,Z186,30,,824,evening,2021-01-01,Bangalore
+DRV1821,EV Auto,True,active,3.7,13,Z006,Z102,11,2.9,780,morning,2022-12-07,Bangalore
+DRV1822,EV Auto,True,suspended,4.6,10,Z193,Z193,14,2.7,853,evening,2023-03-07,Bangalore
+DRV1823,Bike,False,active,4.1,9,Z043,Z174,18,,484,morning,2023-04-06,Bangalore
+DRV1824,Bike,False,active,4.3,13,Z151,Z172,25,,692,evening,2022-12-07,Bangalore
+DRV1825,EV Auto,True,active,4.2,2,Z122,Z020,17,2.6,894,flexible,2023-11-02,Bangalore
+DRV1826,EV Bike,True,active,4.0,4,Z107,Z076,18,3.1,474,morning,2023-09-03,Bangalore
+DRV1827,Auto,False,active,4.4,24,Z102,Z121,12,,833,evening,2022-01-11,Bangalore
+DRV1828,Bike,False,active,4.8,15,Z040,Z164,17,,685,evening,2022-10-08,Bangalore
+DRV1829,Bike,False,active,3.8,3,Z110,Z044,25,,631,night,2023-10-03,Bangalore
+DRV1830,Auto,False,active,3.5,1,Z060,Z139,11,,931,morning,2023-12-02,Bangalore
+DRV1831,Auto,False,active,4.6,63,Z059,Z147,21,,1493,night,2021-01-01,Bangalore
+DRV1832,Auto,False,active,3.9,15,Z189,Z031,17,,971,afternoon,2022-10-08,Bangalore
+DRV1833,EV Auto,True,active,3.5,43,Z037,Z004,14,3.6,980,morning,2021-01-01,Bangalore
+DRV1834,EV Bike,True,active,4.4,10,Z085,Z173,18,4.2,554,afternoon,2023-03-07,Bangalore
+DRV1835,EV Bike,True,active,4.2,6,Z030,Z176,21,4.0,638,evening,2023-07-05,Bangalore
+DRV1836,EV Bike,True,active,4.3,6,Z036,Z084,24,4.4,695,evening,2023-07-05,Bangalore
+DRV1837,Auto,False,active,3.9,49,Z166,Z156,22,,1153,flexible,2021-01-01,Bangalore
+DRV1838,Bike,False,inactive,4.5,32,Z009,Z009,22,,902,afternoon,2021-05-16,Bangalore
+DRV1839,Auto,False,active,4.3,23,Z072,Z166,14,,1024,night,2022-02-10,Bangalore
+DRV1840,Auto,False,active,4.2,3,Z026,Z073,17,,1011,evening,2023-10-03,Bangalore
+DRV1841,EV Auto,True,active,3.8,17,Z185,Z113,11,4.3,944,afternoon,2022-08-09,Bangalore
+DRV1842,Bike,False,active,5.0,1,Z169,Z048,15,,564,afternoon,2023-12-02,Bangalore
+DRV1843,Bike,False,active,4.2,55,Z170,Z119,30,,706,afternoon,2021-01-01,Bangalore
+DRV1844,Bike,False,active,3.7,23,Z130,Z128,19,,487,evening,2022-02-10,Bangalore
+DRV1845,Auto,False,active,3.6,10,Z137,Z082,16,,1048,evening,2023-03-07,Bangalore
+DRV1846,EV Bike,True,active,4.1,1,Z018,Z170,18,4.0,542,afternoon,2023-12-02,Bangalore
+DRV1847,Auto,False,active,4.5,5,Z041,Z072,22,,842,flexible,2023-08-04,Bangalore
+DRV1848,Bike,False,active,4.2,1,Z123,Z152,27,,505,night,2023-12-02,Bangalore
+DRV1849,Auto,False,active,4.3,35,Z036,Z175,22,,1086,flexible,2021-02-15,Bangalore
+DRV1850,Bike,False,suspended,4.1,28,Z027,Z027,25,,756,morning,2021-09-13,Bangalore
+DRV1851,Auto,False,active,4.4,13,Z093,Z185,12,,1019,morning,2022-12-07,Bangalore
+DRV1852,Auto,False,active,4.4,24,Z190,Z057,18,,965,afternoon,2022-01-11,Bangalore
+DRV1853,Bike,False,suspended,3.9,29,Z157,Z157,27,,665,flexible,2021-08-14,Bangalore
+DRV1854,Auto,False,active,4.0,34,Z157,Z084,19,,1196,night,2021-03-17,Bangalore
+DRV1855,Bike,False,active,4.6,47,Z082,Z161,18,,849,morning,2021-01-01,Bangalore
+DRV1856,EV Bike,True,inactive,4.5,40,Z041,Z041,20,3.7,708,afternoon,2021-01-01,Bangalore
+DRV1857,Bike,False,inactive,5.0,4,Z082,Z082,17,,517,morning,2023-09-03,Bangalore
+DRV1858,EV Bike,True,active,4.2,2,Z042,Z094,19,2.7,449,night,2023-11-02,Bangalore
+DRV1859,Bike,False,active,4.3,3,Z166,Z069,19,,965,night,2023-10-03,Bangalore
+DRV1860,Bike,False,active,3.4,14,Z099,Z046,29,,589,flexible,2022-11-07,Bangalore
+DRV1861,Bike,False,active,4.2,26,Z023,Z155,19,,731,afternoon,2021-11-12,Bangalore
+DRV1862,Bike,False,inactive,3.8,1,Z200,Z200,26,,773,flexible,2023-12-02,Bangalore
+DRV1863,Auto,False,inactive,3.9,4,Z107,Z107,15,,784,evening,2023-09-03,Bangalore
+DRV1864,EV Bike,True,active,3.7,8,Z073,Z043,23,3.5,720,flexible,2023-05-06,Bangalore
+DRV1865,EV Bike,True,active,4.4,9,Z195,Z151,24,4.1,911,night,2023-04-06,Bangalore
+DRV1866,Bike,False,active,4.8,1,Z165,Z031,17,,365,flexible,2023-12-02,Bangalore
+DRV1867,Bike,False,inactive,4.3,46,Z021,Z021,16,,776,afternoon,2021-01-01,Bangalore
+DRV1868,Bike,False,active,3.9,16,Z064,Z034,18,,512,morning,2022-09-08,Bangalore
+DRV1869,Bike,False,active,4.1,20,Z053,Z163,28,,725,evening,2022-05-11,Bangalore
+DRV1870,Bike,False,active,3.9,1,Z165,Z099,27,,310,morning,2023-12-02,Bangalore
+DRV1871,EV Auto,True,active,4.4,11,Z109,Z115,18,3.3,834,evening,2023-02-05,Bangalore
+DRV1872,Bike,False,inactive,3.8,35,Z181,Z181,20,,592,flexible,2021-02-15,Bangalore
+DRV1873,Bike,False,active,3.9,3,Z182,Z140,18,,726,night,2023-10-03,Bangalore
+DRV1874,Bike,False,active,4.3,16,Z166,Z002,24,,661,afternoon,2022-09-08,Bangalore
+DRV1875,Bike,False,active,5.0,9,Z068,Z126,20,,744,evening,2023-04-06,Bangalore
+DRV1876,Bike,False,active,4.2,3,Z152,Z181,17,,781,night,2023-10-03,Bangalore
+DRV1877,EV Bike,True,active,4.2,50,Z197,Z093,14,2.8,770,evening,2021-01-01,Bangalore
+DRV1878,Bike,False,active,4.5,26,Z187,Z190,29,,682,morning,2021-11-12,Bangalore
+DRV1879,Bike,False,active,4.3,5,Z184,Z113,18,,564,morning,2023-08-04,Bangalore
+DRV1880,Auto,False,active,4.2,24,Z187,Z056,10,,740,morning,2022-01-11,Bangalore
+DRV1881,Auto,False,active,4.1,12,Z196,Z106,11,,848,night,2023-01-06,Bangalore
+DRV1882,Auto,False,active,4.7,4,Z064,Z142,13,,940,evening,2023-09-03,Bangalore
+DRV1883,Auto,False,active,4.4,15,Z155,Z053,18,,1089,afternoon,2022-10-08,Bangalore
+DRV1884,Auto,False,active,3.9,3,Z127,Z057,22,,1115,morning,2023-10-03,Bangalore
+DRV1885,Bike,False,active,4.3,19,Z148,Z199,30,,943,morning,2022-06-10,Bangalore
+DRV1886,Bike,False,inactive,4.5,16,Z113,Z113,15,,647,afternoon,2022-09-08,Bangalore
+DRV1887,Bike,False,active,4.2,26,Z163,Z120,30,,628,evening,2021-11-12,Bangalore
+DRV1888,EV Bike,True,active,4.2,41,Z157,Z133,14,4.1,1029,night,2021-01-01,Bangalore
+DRV1889,Bike,False,active,4.0,42,Z194,Z014,21,,622,afternoon,2021-01-01,Bangalore
+DRV1890,Auto,False,active,4.3,36,Z120,Z133,15,,1159,evening,2021-01-16,Bangalore
+DRV1891,Auto,False,inactive,3.8,5,Z099,Z099,13,,860,afternoon,2023-08-04,Bangalore
+DRV1892,Bike,False,inactive,3.6,7,Z197,Z197,16,,574,flexible,2023-06-05,Bangalore
+DRV1893,Bike,False,active,4.0,16,Z160,Z147,25,,591,afternoon,2022-09-08,Bangalore
+DRV1894,EV Bike,True,suspended,3.4,25,Z147,Z147,24,3.8,685,morning,2021-12-12,Bangalore
+DRV1895,EV Auto,True,inactive,4.3,8,Z170,Z170,11,3.5,940,evening,2023-05-06,Bangalore
+DRV1896,Auto,False,active,3.9,3,Z045,Z002,17,,970,evening,2023-10-03,Bangalore
+DRV1897,Auto,False,active,4.6,6,Z107,Z013,21,,864,morning,2023-07-05,Bangalore
+DRV1898,Bike,False,active,4.3,6,Z118,Z105,29,,746,morning,2023-07-05,Bangalore
+DRV1899,Auto,False,active,4.7,20,Z033,Z098,11,,1310,morning,2022-05-11,Bangalore
+DRV1900,Auto,False,active,4.4,7,Z093,Z170,13,,889,evening,2023-06-05,Bangalore
+DRV1901,Bike,False,active,3.6,15,Z102,Z087,21,,523,morning,2022-10-08,Bangalore
+DRV1902,Auto,False,active,4.5,30,Z152,Z027,22,,920,morning,2021-07-15,Bangalore
+DRV1903,Bike,False,active,4.8,20,Z107,Z161,19,,749,evening,2022-05-11,Bangalore
+DRV1904,Bike,False,active,4.6,7,Z102,Z033,15,,572,flexible,2023-06-05,Bangalore
+DRV1905,Bike,False,active,4.8,9,Z190,Z189,15,,699,evening,2023-04-06,Bangalore
+DRV1906,Bike,False,active,4.0,31,Z016,Z199,18,,530,morning,2021-06-15,Bangalore
+DRV1907,Bike,False,inactive,4.2,20,Z155,Z155,26,,791,morning,2022-05-11,Bangalore
+DRV1908,Bike,False,inactive,4.5,32,Z200,Z200,19,,642,flexible,2021-05-16,Bangalore
+DRV1909,Bike,False,active,4.1,2,Z059,Z143,30,,739,evening,2023-11-02,Bangalore
+DRV1910,Bike,False,active,3.6,7,Z111,Z110,15,,593,morning,2023-06-05,Bangalore
+DRV1911,Bike,False,active,4.1,17,Z088,Z082,23,,833,evening,2022-08-09,Bangalore
+DRV1912,Bike,False,active,4.1,2,Z009,Z064,16,,531,afternoon,2023-11-02,Bangalore
+DRV1913,EV Auto,True,suspended,3.6,49,Z200,Z200,12,3.7,1068,afternoon,2021-01-01,Bangalore
+DRV1914,Auto,False,active,3.8,15,Z071,Z109,13,,920,night,2022-10-08,Bangalore
+DRV1915,Bike,False,active,4.6,12,Z013,Z029,16,,685,night,2023-01-06,Bangalore
+DRV1916,Auto,False,active,3.6,15,Z196,Z106,11,,891,afternoon,2022-10-08,Bangalore
+DRV1917,EV Auto,True,active,4.0,1,Z021,Z140,18,3.2,824,morning,2023-12-02,Bangalore
+DRV1918,Auto,False,inactive,4.7,16,Z093,Z093,17,,957,evening,2022-09-08,Bangalore
+DRV1919,Bike,False,active,3.9,4,Z193,Z059,25,,560,afternoon,2023-09-03,Bangalore
+DRV1920,Auto,False,active,4.6,43,Z108,Z045,21,,1034,morning,2021-01-01,Bangalore
+DRV1921,Bike,False,active,4.1,3,Z174,Z091,29,,707,evening,2023-10-03,Bangalore
+DRV1922,Auto,False,active,4.3,4,Z092,Z051,19,,1029,night,2023-09-03,Bangalore
+DRV1923,EV Auto,True,active,3.5,25,Z112,Z101,13,3.7,907,evening,2021-12-12,Bangalore
+DRV1924,EV Bike,True,active,4.3,2,Z020,Z015,18,2.7,657,flexible,2023-11-02,Bangalore
+DRV1925,Auto,False,active,4.1,13,Z033,Z013,19,,700,evening,2022-12-07,Bangalore
+DRV1926,EV Auto,True,active,4.7,38,Z068,Z150,16,2.6,930,evening,2021-01-01,Bangalore
+DRV1927,EV Bike,True,inactive,4.3,32,Z069,Z069,15,4.5,949,morning,2021-05-16,Bangalore
+DRV1928,EV Bike,True,active,3.9,7,Z129,Z010,25,4.1,492,flexible,2023-06-05,Bangalore
+DRV1929,Bike,False,active,3.5,59,Z164,Z058,17,,862,afternoon,2021-01-01,Bangalore
+DRV1930,Bike,False,active,3.9,14,Z197,Z075,18,,634,morning,2022-11-07,Bangalore
+DRV1931,Auto,False,suspended,4.1,11,Z160,Z160,13,,775,night,2023-02-05,Bangalore
+DRV1932,Bike,False,active,4.5,11,Z151,Z172,24,,751,flexible,2023-02-05,Bangalore
+DRV1933,Bike,False,active,3.7,27,Z068,Z043,28,,599,morning,2021-10-13,Bangalore
+DRV1934,Bike,False,active,4.2,3,Z044,Z028,17,,788,evening,2023-10-03,Bangalore
+DRV1935,Auto,False,active,4.4,12,Z068,Z025,13,,1048,evening,2023-01-06,Bangalore
+DRV1936,Auto,False,active,4.4,61,Z161,Z115,11,,1207,flexible,2021-01-01,Bangalore
+DRV1937,Auto,False,active,4.4,4,Z072,Z170,11,,853,flexible,2023-09-03,Bangalore
+DRV1938,Bike,False,active,4.5,10,Z116,Z092,22,,521,afternoon,2023-03-07,Bangalore
+DRV1939,EV Auto,True,active,4.5,43,Z018,Z067,13,3.4,1067,morning,2021-01-01,Bangalore
+DRV1940,EV Bike,True,inactive,4.0,18,Z026,Z026,18,4.0,616,evening,2022-07-10,Bangalore
+DRV1941,EV Auto,True,active,3.7,17,Z162,Z070,14,3.6,673,evening,2022-08-09,Bangalore
+DRV1942,Auto,False,active,4.6,6,Z187,Z123,14,,752,afternoon,2023-07-05,Bangalore
+DRV1943,Auto,False,active,4.3,2,Z149,Z109,15,,997,evening,2023-11-02,Bangalore
+DRV1944,Auto,False,active,4.2,7,Z188,Z177,15,,837,afternoon,2023-06-05,Bangalore
+DRV1945,EV Bike,True,active,3.7,16,Z169,Z172,16,2.6,682,evening,2022-09-08,Bangalore
+DRV1946,Bike,False,active,4.2,2,Z097,Z099,22,,681,afternoon,2023-11-02,Bangalore
+DRV1947,Bike,False,active,3.6,35,Z113,Z003,19,,913,afternoon,2021-02-15,Bangalore
+DRV1948,Bike,False,inactive,3.7,4,Z066,Z066,28,,585,morning,2023-09-03,Bangalore
+DRV1949,Auto,False,active,3.9,27,Z057,Z069,18,,1140,morning,2021-10-13,Bangalore
+DRV1950,Bike,False,active,3.9,12,Z102,Z123,19,,534,evening,2023-01-06,Bangalore
+DRV1951,Bike,False,active,4.0,3,Z023,Z077,17,,473,evening,2023-10-03,Bangalore
+DRV1952,EV Bike,True,active,3.0,42,Z198,Z154,23,2.7,953,morning,2021-01-01,Bangalore
+DRV1953,Auto,False,inactive,4.1,13,Z066,Z066,14,,1043,evening,2022-12-07,Bangalore
+DRV1954,Bike,False,active,3.6,5,Z043,Z093,23,,574,morning,2023-08-04,Bangalore
+DRV1955,Bike,False,active,4.2,6,Z020,Z050,24,,588,afternoon,2023-07-05,Bangalore
+DRV1956,EV Bike,True,active,4.4,12,Z192,Z017,16,3.6,753,night,2023-01-06,Bangalore
+DRV1957,Auto,False,active,4.3,5,Z187,Z001,17,,917,morning,2023-08-04,Bangalore
+DRV1958,Bike,False,active,3.9,4,Z030,Z058,25,,505,evening,2023-09-03,Bangalore
+DRV1959,EV Auto,True,active,4.5,18,Z154,Z159,14,3.9,913,evening,2022-07-10,Bangalore
+DRV1960,Bike,False,active,4.5,1,Z190,Z024,25,,588,flexible,2023-12-02,Bangalore
+DRV1961,EV Bike,True,active,4.3,18,Z036,Z185,25,4.1,571,flexible,2022-07-10,Bangalore
+DRV1962,Bike,False,inactive,4.2,19,Z012,Z012,26,,637,morning,2022-06-10,Bangalore
+DRV1963,Auto,False,active,4.6,7,Z138,Z193,13,,1102,morning,2023-06-05,Bangalore
+DRV1964,EV Auto,True,active,4.1,3,Z161,Z067,8,3.3,761,morning,2023-10-03,Bangalore
+DRV1965,Bike,False,active,4.2,7,Z036,Z077,23,,714,flexible,2023-06-05,Bangalore
+DRV1966,EV Auto,True,active,4.2,7,Z196,Z143,14,2.6,1075,night,2023-06-05,Bangalore
+DRV1967,Bike,False,active,4.3,21,Z080,Z081,28,,734,afternoon,2022-04-11,Bangalore
+DRV1968,EV Bike,True,active,4.2,26,Z079,Z197,15,4.1,709,morning,2021-11-12,Bangalore
+DRV1969,Bike,False,inactive,4.1,39,Z108,Z108,27,,734,morning,2021-01-01,Bangalore
+DRV1970,Bike,False,active,3.2,1,Z107,Z162,25,,450,morning,2023-12-02,Bangalore
+DRV1971,Bike,False,active,4.0,15,Z040,Z048,18,,806,morning,2022-10-08,Bangalore
+DRV1972,EV Bike,True,active,4.7,57,Z123,Z178,18,4.0,1059,evening,2021-01-01,Bangalore
+DRV1973,Bike,False,active,3.2,56,Z192,Z026,17,,969,night,2021-01-01,Bangalore
+DRV1974,Bike,False,active,3.7,3,Z023,Z002,15,,731,evening,2023-10-03,Bangalore
+DRV1975,Bike,False,active,4.0,20,Z033,Z051,17,,822,flexible,2022-05-11,Bangalore
+DRV1976,Bike,False,inactive,3.6,17,Z070,Z070,29,,668,night,2022-08-09,Bangalore
+DRV1977,EV Bike,True,active,4.1,15,Z037,Z187,12,3.6,646,morning,2022-10-08,Bangalore
+DRV1978,EV Bike,True,active,4.8,32,Z098,Z179,20,3.4,761,afternoon,2021-05-16,Bangalore
+DRV1979,EV Bike,True,active,4.3,50,Z132,Z045,13,3.6,734,night,2021-01-01,Bangalore
+DRV1980,Auto,False,inactive,4.3,7,Z198,Z198,10,,969,flexible,2023-06-05,Bangalore
+DRV1981,Bike,False,active,3.8,4,Z124,Z087,19,,316,morning,2023-09-03,Bangalore
+DRV1982,EV Auto,True,active,3.9,2,Z115,Z074,9,3.4,765,flexible,2023-11-02,Bangalore
+DRV1983,Bike,False,active,4.3,20,Z169,Z165,20,,787,morning,2022-05-11,Bangalore
+DRV1984,EV Bike,True,active,4.1,18,Z025,Z122,12,3.6,820,night,2022-07-10,Bangalore
+DRV1985,Bike,False,active,4.4,8,Z011,Z066,25,,715,morning,2023-05-06,Bangalore
+DRV1986,Auto,False,active,4.4,1,Z194,Z140,14,,634,afternoon,2023-12-02,Bangalore
+DRV1987,Bike,False,active,3.9,6,Z191,Z163,18,,550,afternoon,2023-07-05,Bangalore
+DRV1988,Auto,False,active,4.0,4,Z111,Z089,14,,1023,flexible,2023-09-03,Bangalore
+DRV1989,EV Auto,True,active,4.6,5,Z154,Z054,15,3.7,876,morning,2023-08-04,Bangalore
+DRV1990,Auto,False,active,4.1,25,Z189,Z167,13,,947,morning,2021-12-12,Bangalore
+DRV1991,Auto,False,suspended,4.7,58,Z067,Z067,22,,1215,evening,2021-01-01,Bangalore
+DRV1992,EV Auto,True,active,4.4,13,Z196,Z177,15,3.7,1071,morning,2022-12-07,Bangalore
+DRV1993,Auto,False,active,3.8,20,Z036,Z065,13,,957,flexible,2022-05-11,Bangalore
+DRV1994,EV Auto,True,active,4.5,16,Z182,Z065,11,4.2,734,evening,2022-09-08,Bangalore
+DRV1995,Auto,False,active,4.7,6,Z159,Z027,11,,906,evening,2023-07-05,Bangalore
+DRV1996,Bike,False,inactive,4.9,20,Z159,Z159,21,,422,flexible,2022-05-11,Bangalore
+DRV1997,Auto,False,active,4.0,19,Z037,Z032,11,,1154,morning,2022-06-10,Bangalore
+DRV1998,EV Bike,True,active,4.8,1,Z103,Z119,13,4.3,566,evening,2023-12-02,Bangalore
+DRV1999,Auto,False,active,4.2,38,Z188,Z124,11,,915,morning,2021-01-01,Bangalore
+DRV2000,Bike,False,active,4.5,12,Z074,Z016,22,,665,evening,2023-01-06,Bangalore

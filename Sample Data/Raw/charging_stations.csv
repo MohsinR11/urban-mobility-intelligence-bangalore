@@ -1,0 +1,86 @@
+station_id,network,zone_id,zone_name,zone_type,latitude,longitude,h3_index,charger_type,total_ports,power_kw,cost_per_kwh,operating_hours,is_24hr,avg_utilization,monthly_revenue_inr,install_year,is_operational,city
+CS001,BPCL Pulse,Z060,Indiranagar 100ft Road,commercial,12.978474,77.642667,8861892ec3fffff,fast_dc,4,30.0,13.1,06:00-23:00,False,0.54,432928,2023,True,Bangalore
+CS002,Rapido Internal,Z116,Cunningham Road,commercial,12.990748,77.592071,8860145b69fffff,slow_ac,5,7.2,8.6,06:00-23:00,False,0.43,67895,2023,True,Bangalore
+CS003,Statiq,Z066,Kodihalli,residential,12.957273,77.644123,8861892531fffff,slow_ac,2,3.3,7.2,07:00-22:00,False,0.31,7512,2023,True,Bangalore
+CS004,BPCL Pulse,Z095,BIAL Road KM10,mixed,13.123327,77.692234,8861892d23fffff,ultra_fast_dc,2,240.0,22.1,07:00-22:00,False,0.5,2705040,2024,True,Bangalore
+CS005,Statiq,Z163,Nelamangala,residential,13.101476,77.396049,8860144803fffff,fast_dc,5,30.0,16.7,07:00-22:00,False,0.3,383265,2022,True,Bangalore
+CS006,Ather Grid,Z127,Hennur,residential,13.044984,77.640047,8861892c15fffff,slow_ac,6,11.0,7.2,07:00-22:00,False,0.26,63011,2022,True,Bangalore
+CS007,Ather Grid,Z051,Outer Ring Road East,tech_park,12.934231,77.68715,8861892093fffff,fast_dc,4,60.0,17.3,06:00-23:00,False,0.75,1588140,2022,True,Bangalore
+CS008,Ather Grid,Z163,Nelamangala,residential,13.102028,77.389282,8860144803fffff,slow_ac,4,7.2,6.1,07:00-22:00,False,0.35,31358,2023,True,Bangalore
+CS009,BESCOM Public,Z003,Residency Road,commercial,12.974827,77.608153,88618925a7fffff,slow_ac,7,7.2,6.3,06:00-23:00,False,0.72,116593,2023,False,Bangalore
+CS010,BESCOM Public,Z186,Amruthahalli,residential,13.057657,77.582297,8861892cbbfffff,slow_ac,7,3.3,6.7,07:00-22:00,False,0.59,46570,2022,True,Bangalore
+CS011,Statiq,Z029,Wilson Garden,residential,12.944083,77.600352,8861892587fffff,slow_ac,4,3.3,7.4,07:00-22:00,False,0.35,17435,2023,True,Bangalore
+CS012,Zeon Charging,Z114,Richmond Road,commercial,12.964115,77.601952,88618925a3fffff,slow_ac,8,7.2,6.2,06:00-23:00,False,0.53,96529,2024,True,Bangalore
+CS013,ChargeZone,Z137,Yeshwanthpur Junction,transit_hub,13.011136,77.551568,886014594bfffff,ultra_fast_dc,4,100.0,23.7,24x7,True,0.6,4095360,2024,True,Bangalore
+CS014,Zeon Charging,Z006,Vidhana Soudha,commercial,12.97624,77.588456,8860145b45fffff,slow_ac,2,7.2,8.9,06:00-23:00,False,0.59,38563,2022,False,Bangalore
+CS015,Statiq,Z048,Whitefield Phase 2,tech_park,12.972919,77.758718,88618921ddfffff,ultra_fast_dc,1,240.0,23.6,06:00-23:00,False,0.84,2426457,2023,True,Bangalore
+CS016,Zeon Charging,Z129,Kammanahalli,residential,13.008147,77.647096,8861892ee3fffff,slow_ac,6,11.0,7.7,07:00-22:00,False,0.44,114040,2023,True,Bangalore
+CS017,Rapido Internal,Z095,BIAL Road KM10,mixed,13.115881,77.686369,8861892d23fffff,fast_dc,5,30.0,17.9,07:00-22:00,False,0.65,890077,2023,True,Bangalore
+CS018,Tata Power EV,Z052,Brookefield,mixed,12.979617,77.716762,886189219bfffff,fast_dc,4,30.0,16.8,07:00-22:00,False,0.42,431827,2023,True,Bangalore
+CS019,Ather Grid,Z091,Kadubeesanahalli,tech_park,12.940081,77.698004,8861892095fffff,fast_dc,2,60.0,12.9,06:00-23:00,False,0.51,402634,2023,True,Bangalore
+CS020,BESCOM Public,Z081,Wipro Campus EC,tech_park,12.817822,77.678526,8861892641fffff,fast_dc,5,60.0,17.1,06:00-23:00,False,0.61,1595943,2024,True,Bangalore
+CS021,Ather Grid,Z133,Bagmane Tech Park,tech_park,12.98628,77.651219,8861892ecdfffff,fast_dc,6,30.0,15.6,06:00-23:00,False,0.76,1088380,2023,True,Bangalore
+CS022,BPCL Pulse,Z163,Nelamangala,residential,13.096511,77.390406,8860144803fffff,fast_dc,6,60.0,14.5,07:00-22:00,False,0.42,1118124,2023,True,Bangalore
+CS023,Ather Grid,Z130,Manyata Tech Park,tech_park,13.047912,77.618881,8861892ce1fffff,fast_dc,5,50.0,15.1,06:00-23:00,False,0.78,1501695,2023,True,Bangalore
+CS024,Zeon Charging,Z149,Garuda Mall,commercial,12.968228,77.608446,8861892ed7fffff,slow_ac,5,7.2,6.7,06:00-23:00,False,0.59,72577,2024,True,Bangalore
+CS025,BESCOM Public,Z032,Devanahalli,transit_hub,13.247876,77.707271,886016911dfffff,fast_dc,4,50.0,12.0,24x7,True,0.66,1140480,2023,True,Bangalore
+CS026,ChargeZone,Z084,Bommanahalli,mixed,12.900134,77.63586,8861892405fffff,ultra_fast_dc,3,100.0,20.0,07:00-22:00,False,0.48,1468800,2024,True,Bangalore
+CS027,BPCL Pulse,Z135,Software Tech Park Bangalore,tech_park,12.97915,77.595527,8860145b6bfffff,slow_ac,3,3.3,7.1,06:00-23:00,False,0.75,26885,2024,True,Bangalore
+CS028,Statiq,Z095,BIAL Road KM10,mixed,13.120196,77.687456,8861892d23fffff,slow_ac,7,11.0,7.4,07:00-22:00,False,0.62,180170,2024,True,Bangalore
+CS029,Ather Grid,Z178,Varthur Road KM5,mixed,12.950608,77.721201,8861892087fffff,ultra_fast_dc,3,100.0,19.0,07:00-22:00,False,0.45,1308150,2023,True,Bangalore
+CS030,ChargeZone,Z148,UB City Mall,commercial,12.972404,77.599817,8860145b4dfffff,fast_dc,3,50.0,13.6,06:00-23:00,False,0.52,541008,2024,False,Bangalore
+CS031,Zeon Charging,Z181,Kanakapura Road KM5,mixed,12.909067,77.577666,88618924a1fffff,slow_ac,3,3.3,7.4,07:00-22:00,False,0.51,19054,2024,True,Bangalore
+CS032,BESCOM Public,Z078,Electronic City Phase 1,tech_park,12.836802,77.680406,886189266bfffff,ultra_fast_dc,1,240.0,23.6,06:00-23:00,False,0.6,1733184,2022,True,Bangalore
+CS033,Ather Grid,Z097,Doddaballapur Road,mixed,13.075223,77.574641,8860169651fffff,slow_ac,6,7.2,7.4,07:00-22:00,False,0.47,76627,2024,True,Bangalore
+CS034,Tata Power EV,Z074,Mysore Road,transit_hub,12.939705,77.526926,8860145a15fffff,fast_dc,5,60.0,13.3,24x7,True,0.54,1551312,2024,False,Bangalore
+CS035,BESCOM Public,Z184,Bellary Road KM5,mixed,13.046809,77.606193,8861892c81fffff,fast_dc,5,50.0,17.2,07:00-22:00,False,0.25,548250,2023,True,Bangalore
+CS036,Statiq,Z149,Garuda Mall,commercial,12.972556,77.607401,8861892ed7fffff,fast_dc,6,60.0,16.3,06:00-23:00,False,0.49,1466413,2024,True,Bangalore
+CS037,Tata Power EV,Z130,Manyata Tech Park,tech_park,13.050104,77.618594,8861892ce1fffff,fast_dc,6,30.0,13.2,06:00-23:00,False,0.92,1114819,2023,False,Bangalore
+CS038,Statiq,Z087,Sarjapur Road KM5,tech_park,12.904708,77.668157,8861892733fffff,ultra_fast_dc,4,100.0,23.9,06:00-23:00,False,0.79,3851723,2023,False,Bangalore
+CS039,Zeon Charging,Z076,Peenya,tech_park,13.029982,77.513919,886014591bfffff,slow_ac,2,11.0,6.9,06:00-23:00,False,0.79,61160,2024,True,Bangalore
+CS040,Ather Grid,Z134,Global Village Tech Park,tech_park,12.919957,77.505621,8860145acdfffff,ultra_fast_dc,2,240.0,24.1,06:00-23:00,False,0.78,4601750,2024,True,Bangalore
+CS041,Statiq,Z133,Bagmane Tech Park,tech_park,12.977618,77.656762,8861892ecdfffff,slow_ac,2,7.2,6.7,06:00-23:00,False,0.81,39855,2024,True,Bangalore
+CS042,Rapido Internal,Z114,Richmond Road,commercial,12.958371,77.601374,88618925a3fffff,fast_dc,4,50.0,16.0,06:00-23:00,False,0.46,750720,2024,True,Bangalore
+CS043,Tata Power EV,Z051,Outer Ring Road East,tech_park,12.932069,77.688684,8861892093fffff,ultra_fast_dc,3,240.0,22.3,06:00-23:00,False,0.69,5650106,2024,True,Bangalore
+CS044,Ather Grid,Z056,KR Puram,transit_hub,13.013855,77.692125,8861892e2bfffff,ultra_fast_dc,2,240.0,19.5,24x7,True,0.77,5189184,2024,True,Bangalore
+CS045,Tata Power EV,Z065,Old Airport Road,commercial,12.948904,77.637674,886189253bfffff,slow_ac,5,3.3,7.3,06:00-23:00,False,0.74,45457,2023,True,Bangalore
+CS046,Zeon Charging,Z037,Mathikere,residential,13.022901,77.558778,8860145b37fffff,slow_ac,5,3.3,8.6,07:00-22:00,False,0.43,31118,2021,False,Bangalore
+CS047,Ather Grid,Z003,Residency Road,commercial,12.973021,77.602028,88618925a7fffff,slow_ac,3,11.0,8.6,06:00-23:00,False,0.57,82500,2024,True,Bangalore
+CS048,Rapido Internal,Z083,Begur,residential,12.870264,77.618443,8861892453fffff,slow_ac,6,7.2,6.9,07:00-22:00,False,0.26,39525,2023,True,Bangalore
+CS049,Statiq,Z117,Palace Road,commercial,12.998883,77.58848,8860145b63fffff,ultra_fast_dc,2,150.0,21.7,06:00-23:00,False,0.37,1228437,2022,True,Bangalore
+CS050,ChargeZone,Z130,Manyata Tech Park,tech_park,13.048582,77.620324,8861892ce1fffff,slow_ac,7,7.2,7.8,06:00-23:00,False,0.85,170417,2023,True,Bangalore
+CS051,Ather Grid,Z119,New BEL Road,commercial,13.041347,77.575299,8861892c93fffff,fast_dc,6,50.0,12.3,06:00-23:00,False,0.52,978588,2023,True,Bangalore
+CS052,Zeon Charging,Z147,Forum Mall Koramangala,commercial,12.929976,77.628001,8861892513fffff,slow_ac,4,7.2,8.4,06:00-23:00,False,0.47,57988,2022,True,Bangalore
+CS053,ChargeZone,Z028,Lalbagh,mixed,12.952917,77.580701,88618925bbfffff,ultra_fast_dc,1,100.0,23.0,07:00-22:00,False,0.51,598230,2021,False,Bangalore
+CS054,Tata Power EV,Z013,Koramangala 6B,residential,12.922736,77.623453,88618925c1fffff,slow_ac,4,11.0,7.1,07:00-22:00,False,0.36,57356,2024,True,Bangalore
+CS055,BESCOM Public,Z170,Kanakapura Road KM10,mixed,12.880306,77.564003,886189248bfffff,slow_ac,5,7.2,7.5,07:00-22:00,False,0.56,77112,2024,True,Bangalore
+CS056,Rapido Internal,Z031,Hebbal,transit_hub,13.031721,77.601679,8861892c8bfffff,slow_ac,6,7.2,8.4,24x7,True,0.71,185504,2023,True,Bangalore
+CS057,Tata Power EV,Z078,Electronic City Phase 1,tech_park,12.844643,77.676764,886189266bfffff,ultra_fast_dc,3,240.0,24.3,06:00-23:00,False,0.61,5443005,2024,True,Bangalore
+CS058,Tata Power EV,Z114,Richmond Road,commercial,12.957938,77.601361,88618925a3fffff,slow_ac,7,7.2,6.4,06:00-23:00,False,0.39,64157,2023,True,Bangalore
+CS059,Tata Power EV,Z117,Palace Road,commercial,13.000076,77.587055,8860145b63fffff,slow_ac,4,7.2,8.3,06:00-23:00,False,0.58,70708,2023,True,Bangalore
+CS060,Statiq,Z055,Mahadevapura,tech_park,12.989653,77.695583,8861892e0dfffff,ultra_fast_dc,1,100.0,24.5,06:00-23:00,False,0.89,1112055,2024,True,Bangalore
+CS061,Ather Grid,Z091,Kadubeesanahalli,tech_park,12.934173,77.702647,8861892095fffff,fast_dc,4,60.0,14.2,06:00-23:00,False,0.75,1303560,2022,True,Bangalore
+CS062,BPCL Pulse,Z170,Kanakapura Road KM10,mixed,12.877477,77.571153,886189248bfffff,slow_ac,4,7.2,7.7,07:00-22:00,False,0.26,29405,2021,False,Bangalore
+CS063,BESCOM Public,Z014,Koramangala 8B,mixed,12.915449,77.619143,88618925c9fffff,slow_ac,5,3.3,6.3,07:00-22:00,False,0.44,23326,2023,True,Bangalore
+CS064,Tata Power EV,Z177,Hennur Road KM5,mixed,13.033033,77.649888,8861892c0bfffff,fast_dc,3,60.0,16.7,07:00-22:00,False,0.51,781860,2024,True,Bangalore
+CS065,BESCOM Public,Z106,Bannerghatta Road KM15,mixed,12.838262,77.593935,8861892683fffff,slow_ac,6,11.0,8.9,07:00-22:00,False,0.48,143795,2024,True,Bangalore
+CS066,Tata Power EV,Z019,BTM Layout 2,mixed,12.915227,77.620115,8861892435fffff,slow_ac,3,3.3,6.1,07:00-22:00,False,0.72,22175,2023,True,Bangalore
+CS067,Ather Grid,Z141,Indiranagar Metro Station,transit_hub,12.977065,77.63738,8861892ec7fffff,fast_dc,6,30.0,13.4,24x7,True,0.67,1163548,2023,True,Bangalore
+CS068,BESCOM Public,Z010,Chickpete,commercial,12.964427,77.575988,88618925b7fffff,fast_dc,3,50.0,16.5,06:00-23:00,False,0.58,732105,2023,True,Bangalore
+CS069,Rapido Internal,Z053,Varthur,residential,12.934756,77.746814,88618920e9fffff,fast_dc,2,60.0,13.8,07:00-22:00,False,0.3,253368,2023,True,Bangalore
+CS070,Ather Grid,Z179,Sarjapur Road KM20,mixed,12.830132,77.708316,886189359dfffff,fast_dc,4,50.0,16.6,07:00-22:00,False,0.7,1185240,2024,True,Bangalore
+CS071,Statiq,Z063,Domlur,mixed,12.957164,77.638537,8861892537fffff,slow_ac,8,11.0,7.4,07:00-22:00,False,0.58,192624,2023,True,Bangalore
+CS072,Statiq,Z117,Palace Road,commercial,12.998196,77.58943,8860145b63fffff,fast_dc,4,30.0,14.0,06:00-23:00,False,0.64,548352,2023,True,Bangalore
+CS073,Statiq,Z158,Magadi Road,transit_hub,12.961691,77.534154,8860145a35fffff,slow_ac,6,3.3,8.4,24x7,True,0.48,57480,2023,True,Bangalore
+CS074,Ather Grid,Z184,Bellary Road KM5,mixed,13.046819,77.603575,8861892c81fffff,ultra_fast_dc,4,100.0,24.9,07:00-22:00,False,0.49,2489003,2022,True,Bangalore
+CS075,Zeon Charging,Z046,Aerospace Park,tech_park,13.203296,77.69811,886016900dfffff,fast_dc,3,60.0,17.4,06:00-23:00,False,0.66,1054231,2022,True,Bangalore
+CS076,ChargeZone,Z076,Peenya,tech_park,13.027595,77.515496,886014591bfffff,slow_ac,5,11.0,8.8,06:00-23:00,False,0.71,175256,2024,True,Bangalore
+CS077,Ather Grid,Z160,Sunkadakatte,residential,12.951184,77.493572,8860145aa9fffff,slow_ac,4,11.0,8.3,07:00-22:00,False,0.39,72638,2023,True,Bangalore
+CS078,Ather Grid,Z037,Mathikere,residential,13.016873,77.559986,8860145b37fffff,slow_ac,5,3.3,6.2,07:00-22:00,False,0.51,26608,2023,True,Bangalore
+CS079,Statiq,Z149,Garuda Mall,commercial,12.976915,77.608099,8861892ed7fffff,slow_ac,6,7.2,7.4,06:00-23:00,False,0.63,102713,2024,True,Bangalore
+CS080,Rapido Internal,Z037,Mathikere,residential,13.015452,77.558512,8860145b37fffff,slow_ac,2,3.3,7.5,07:00-22:00,False,0.35,8835,2021,True,Bangalore
+CS081,Tata Power EV,Z086,Kudlu Gate,transit_hub,12.899294,77.652825,8861892461fffff,slow_ac,6,11.0,8.4,24x7,True,0.61,243492,2022,True,Bangalore
+CS082,Zeon Charging,Z084,Bommanahalli,mixed,12.895433,77.639568,8861892405fffff,slow_ac,2,3.3,7.7,07:00-22:00,False,0.52,13477,2023,True,Bangalore
+CS083,Ather Grid,Z066,Kodihalli,residential,12.954768,77.64387,8861892531fffff,slow_ac,6,3.3,7.6,07:00-22:00,False,0.32,24558,2024,True,Bangalore
+CS084,ChargeZone,Z011,Koramangala 1B,tech_park,12.925171,77.624411,88618925cdfffff,fast_dc,2,30.0,15.2,06:00-23:00,False,0.72,334886,2024,True,Bangalore
+CS085,Zeon Charging,Z079,Electronic City Phase 2,tech_park,12.844004,77.659108,8861892605fffff,fast_dc,5,60.0,12.8,06:00-23:00,False,0.73,1429632,2022,True,Bangalore

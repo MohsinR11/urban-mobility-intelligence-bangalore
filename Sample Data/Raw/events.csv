@@ -1,0 +1,133 @@
+event_id,event_name,event_date,day_of_week,is_weekend,month,venue_zone_id,venue_zone_name,venue_lat,venue_lng,venue_h3_index,event_type,expected_attendance,demand_multiplier,affected_radius_km,duration_hours,start_hour,city
+EVT001,IPL RCB vs CSK,2024-03-25,Monday,False,3,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,ipl_match,45000,2.2,3.0,5,18,Bangalore
+EVT002,IPL RCB vs MI,2024-03-28,Thursday,False,3,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,ipl_match,45000,2.15,3.0,5,18,Bangalore
+EVT003,IPL RCB vs KKR,2024-04-04,Thursday,False,4,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,ipl_match,45000,2.1,3.0,5,18,Bangalore
+EVT004,IPL RCB vs RR,2024-04-08,Monday,False,4,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,ipl_match,45000,2.18,3.0,5,18,Bangalore
+EVT005,IPL RCB vs PBKS,2024-04-12,Friday,False,4,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,ipl_match,45000,2.05,3.0,5,18,Bangalore
+EVT006,IPL RCB vs SRH,2024-04-17,Wednesday,False,4,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,ipl_match,45000,2.22,3.0,5,18,Bangalore
+EVT007,IPL RCB vs DC,2024-04-22,Monday,False,4,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,ipl_match,45000,2.08,3.0,5,18,Bangalore
+EVT008,IPL RCB vs LSG,2024-04-27,Saturday,True,4,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,ipl_match,45000,2.12,3.0,5,18,Bangalore
+EVT009,IPL RCB vs GT,2024-05-04,Saturday,True,5,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,ipl_match,45000,2.15,3.0,5,18,Bangalore
+EVT010,IPL RCB vs MI Playoff,2024-05-18,Saturday,True,5,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,ipl_match,45000,2.3,3.0,5,18,Bangalore
+EVT011,IPL RCB vs CSK Playoff,2024-05-21,Tuesday,False,5,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,ipl_match,45000,2.35,3.0,5,18,Bangalore
+EVT012,Arijit Singh Concert,2024-01-14,Sunday,True,1,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,concert,25000,1.85,2.5,4,19,Bangalore
+EVT013,AR Rahman Live,2024-02-10,Saturday,True,2,Z012,Koramangala 4B,12.9352,77.6245,88618925c5fffff,concert,30000,1.9,2.5,4,19,Bangalore
+EVT014,Coldplay World Tour,2024-03-15,Friday,False,3,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,concert,50000,2.4,2.5,4,19,Bangalore
+EVT015,Sunburn Festival Day 1,2024-12-27,Friday,False,12,Z078,Electronic City Phase 1,12.8399,77.677,886189266bfffff,concert,40000,2.1,2.5,4,19,Bangalore
+EVT016,Sunburn Festival Day 2,2024-12-28,Saturday,True,12,Z078,Electronic City Phase 1,12.8399,77.677,886189266bfffff,concert,40000,2.15,2.5,4,19,Bangalore
+EVT017,Sunburn Festival Day 3,2024-12-29,Sunday,True,12,Z078,Electronic City Phase 1,12.8399,77.677,886189266bfffff,concert,35000,2.0,2.5,4,19,Bangalore
+EVT018,NH7 Weekender Day 1,2024-11-09,Saturday,True,11,Z012,Koramangala 4B,12.9352,77.6245,88618925c5fffff,concert,20000,1.8,2.5,4,19,Bangalore
+EVT019,NH7 Weekender Day 2,2024-11-10,Sunday,True,11,Z012,Koramangala 4B,12.9352,77.6245,88618925c5fffff,concert,20000,1.75,2.5,4,19,Bangalore
+EVT020,Diljit Dosanjh Concert,2024-10-19,Saturday,True,10,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,concert,35000,1.95,2.5,4,19,Bangalore
+EVT021,Shreya Ghoshal Live,2024-09-21,Saturday,True,9,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,concert,18000,1.7,2.5,4,19,Bangalore
+EVT022,Ed Sheeran Bangalore,2024-03-16,Saturday,True,3,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,concert,45000,2.25,2.5,4,19,Bangalore
+EVT023,Prateek Kuhad Live,2024-07-06,Saturday,True,7,Z061,Indiranagar 12th Main,12.9718,77.6412,8861892ecbfffff,concert,8000,1.55,2.5,4,19,Bangalore
+EVT024,Nucleya Bass Camp,2024-08-24,Saturday,True,8,Z012,Koramangala 4B,12.9352,77.6245,88618925c5fffff,concert,12000,1.65,2.5,4,19,Bangalore
+EVT025,Shankar Ehsaan Loy Live,2024-06-15,Saturday,True,6,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,concert,15000,1.68,2.5,4,19,Bangalore
+EVT026,AWS re:Invent Bangalore,2024-01-18,Thursday,False,1,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,tech_conf,5000,1.45,1.5,8,8,Bangalore
+EVT027,Google I/O Extended,2024-05-15,Wednesday,False,5,Z011,Koramangala 1B,12.9279,77.6271,88618925cdfffff,tech_conf,3000,1.35,1.5,8,8,Bangalore
+EVT028,Nasscom Tech Summit Day 1,2024-02-21,Wednesday,False,2,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,tech_conf,10000,1.55,1.5,8,8,Bangalore
+EVT029,Nasscom Tech Summit Day 2,2024-02-22,Thursday,False,2,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,tech_conf,10000,1.52,1.5,8,8,Bangalore
+EVT030,Nasscom Tech Summit Day 3,2024-02-23,Friday,False,2,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,tech_conf,8000,1.48,1.5,8,8,Bangalore
+EVT031,BangaloreTech Summit D1,2024-09-19,Thursday,False,9,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,tech_conf,15000,1.6,1.5,8,8,Bangalore
+EVT032,BangaloreTech Summit D2,2024-09-20,Friday,False,9,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,tech_conf,15000,1.58,1.5,8,8,Bangalore
+EVT033,BangaloreTech Summit D3,2024-09-21,Saturday,True,9,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,tech_conf,12000,1.55,1.5,8,8,Bangalore
+EVT034,Startup India Summit,2024-03-08,Friday,False,3,Z011,Koramangala 1B,12.9279,77.6271,88618925cdfffff,tech_conf,4000,1.38,1.5,8,8,Bangalore
+EVT035,Meta Developer Conf,2024-07-12,Friday,False,7,Z060,Indiranagar 100ft Road,12.9784,77.6408,8861892ec3fffff,tech_conf,2500,1.3,1.5,8,8,Bangalore
+EVT036,Microsoft Build Bangalore,2024-06-20,Thursday,False,6,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,tech_conf,4000,1.4,1.5,8,8,Bangalore
+EVT037,Pycon India 2024 Day 1,2024-09-20,Friday,False,9,Z049,ITPL,12.9856,77.7272,8861892191fffff,tech_conf,2000,1.28,1.5,8,8,Bangalore
+EVT038,Pycon India 2024 Day 2,2024-09-21,Saturday,True,9,Z049,ITPL,12.9856,77.7272,8861892191fffff,tech_conf,2000,1.25,1.5,8,8,Bangalore
+EVT039,SaaStr Annual Bangalore,2024-10-10,Thursday,False,10,Z011,Koramangala 1B,12.9279,77.6271,88618925cdfffff,tech_conf,6000,1.42,1.5,8,8,Bangalore
+EVT040,Devoxx India Day 1,2024-05-09,Thursday,False,5,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,tech_conf,3000,1.32,1.5,8,8,Bangalore
+EVT041,Devoxx India Day 2,2024-05-10,Friday,False,5,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,tech_conf,3000,1.3,1.5,8,8,Bangalore
+EVT042,Ugadi Festival,2024-04-09,Tuesday,False,4,Z027,Basavanagudi,12.9422,77.5757,8861892597fffff,festival,50000,1.75,4.0,12,6,Bangalore
+EVT043,Rama Navami,2024-04-17,Wednesday,False,4,Z027,Basavanagudi,12.9422,77.5757,8861892597fffff,festival,30000,1.6,4.0,12,6,Bangalore
+EVT044,Ganesh Chaturthi Day 1,2024-09-07,Saturday,True,9,Z009,City Market,12.9634,77.576,8860145b59fffff,festival,80000,1.9,4.0,12,6,Bangalore
+EVT045,Ganesh Chaturthi Day 2,2024-09-08,Sunday,True,9,Z009,City Market,12.9634,77.576,8860145b59fffff,festival,75000,1.88,4.0,12,6,Bangalore
+EVT046,Ganesh Chaturthi Visarjan,2024-09-17,Tuesday,False,9,Z009,City Market,12.9634,77.576,8860145b59fffff,festival,100000,2.0,4.0,12,6,Bangalore
+EVT047,Navratri Day 1,2024-10-03,Thursday,False,10,Z027,Basavanagudi,12.9422,77.5757,8861892597fffff,festival,25000,1.55,4.0,12,6,Bangalore
+EVT048,Navratri Day 9,2024-10-12,Saturday,True,10,Z027,Basavanagudi,12.9422,77.5757,8861892597fffff,festival,40000,1.7,4.0,12,6,Bangalore
+EVT049,Dussehra,2024-10-12,Saturday,True,10,Z009,City Market,12.9634,77.576,8860145b59fffff,festival,60000,1.8,4.0,12,6,Bangalore
+EVT050,Diwali Eve,2024-11-01,Friday,False,11,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,festival,70000,1.85,4.0,12,6,Bangalore
+EVT051,Diwali,2024-11-01,Friday,False,11,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,festival,80000,1.9,4.0,12,6,Bangalore
+EVT052,Kannada Rajyotsava,2024-11-01,Friday,False,11,Z006,Vidhana Soudha,12.9794,77.5913,8860145b45fffff,festival,50000,1.65,4.0,12,6,Bangalore
+EVT053,Christmas Eve,2024-12-24,Tuesday,False,12,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,festival,60000,1.8,4.0,12,6,Bangalore
+EVT054,Christmas Day,2024-12-25,Wednesday,False,12,Z002,Brigade Road,12.9716,77.608,88618925a5fffff,festival,55000,1.78,4.0,12,6,Bangalore
+EVT055,New Year Eve,2024-12-31,Tuesday,False,12,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,festival,120000,2.5,4.0,12,6,Bangalore
+EVT056,Holi,2024-03-25,Monday,False,3,Z012,Koramangala 4B,12.9352,77.6245,88618925c5fffff,festival,30000,1.6,4.0,12,6,Bangalore
+EVT057,Eid ul Fitr,2024-04-10,Wednesday,False,4,Z009,City Market,12.9634,77.576,8860145b59fffff,festival,40000,1.65,4.0,12,6,Bangalore
+EVT058,Independence Day,2024-08-15,Thursday,False,8,Z006,Vidhana Soudha,12.9794,77.5913,8860145b45fffff,festival,35000,1.5,4.0,12,6,Bangalore
+EVT059,Republic Day,2024-01-26,Friday,False,1,Z006,Vidhana Soudha,12.9794,77.5913,8860145b45fffff,festival,30000,1.45,4.0,12,6,Bangalore
+EVT060,Makara Sankranti,2024-01-15,Monday,False,1,Z028,Lalbagh,12.9507,77.5848,88618925bbfffff,festival,25000,1.4,4.0,12,6,Bangalore
+EVT061,Varamahalakshmi,2024-08-16,Friday,False,8,Z027,Basavanagudi,12.9422,77.5757,8861892597fffff,festival,20000,1.42,4.0,12,6,Bangalore
+EVT062,Karnataka Bandh,2024-02-26,Monday,False,2,Z008,Majestic,12.9767,77.5713,8860145b55fffff,bandh,0,0.35,15.0,12,6,Bangalore
+EVT063,Bharat Bandh,2024-04-10,Wednesday,False,4,Z008,Majestic,12.9767,77.5713,8860145b55fffff,bandh,0,0.3,15.0,12,6,Bangalore
+EVT064,Auto Strike,2024-06-12,Wednesday,False,6,Z008,Majestic,12.9767,77.5713,8860145b55fffff,bandh,0,1.8,15.0,12,6,Bangalore
+EVT065,Bus Strike BMTC,2024-08-05,Monday,False,8,Z008,Majestic,12.9767,77.5713,8860145b55fffff,bandh,0,1.95,15.0,12,6,Bangalore
+EVT066,Metro Disruption North,2024-09-14,Saturday,True,9,Z031,Hebbal,13.0353,77.5971,8861892c8bfffff,disruption,0,1.65,5.0,6,7,Bangalore
+EVT067,Metro Disruption South,2024-10-22,Tuesday,False,10,Z012,Koramangala 4B,12.9352,77.6245,88618925c5fffff,disruption,0,1.6,5.0,6,7,Bangalore
+EVT068,Namma Metro Signal Fail,2024-07-30,Tuesday,False,7,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,disruption,0,1.55,5.0,6,7,Bangalore
+EVT069,India vs Aus Test Day 1,2024-10-17,Thursday,False,10,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,sports,35000,1.75,3.0,6,14,Bangalore
+EVT070,India vs Aus Test Day 2,2024-10-18,Friday,False,10,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,sports,30000,1.7,3.0,6,14,Bangalore
+EVT071,India vs Aus Test Day 3,2024-10-19,Saturday,True,10,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,sports,28000,1.65,3.0,6,14,Bangalore
+EVT072,India vs Eng T20,2024-01-17,Wednesday,False,1,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,sports,40000,1.8,3.0,6,14,Bangalore
+EVT073,India vs SA ODI,2024-03-02,Saturday,True,3,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,sports,38000,1.78,3.0,6,14,Bangalore
+EVT074,Bengaluru FC vs Mumbai,2024-02-16,Friday,False,2,Z012,Koramangala 4B,12.9352,77.6245,88618925c5fffff,sports,20000,1.55,3.0,6,14,Bangalore
+EVT075,Bengaluru FC vs Goa,2024-03-03,Sunday,True,3,Z012,Koramangala 4B,12.9352,77.6245,88618925c5fffff,sports,18000,1.5,3.0,6,14,Bangalore
+EVT076,Marathon Bangalore,2024-10-20,Sunday,True,10,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,sports,25000,1.45,3.0,6,14,Bangalore
+EVT077,Cyclothon Bangalore,2024-11-03,Sunday,True,11,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,sports,15000,1.35,3.0,6,14,Bangalore
+EVT078,Pro Kabaddi Bengaluru,2024-08-10,Saturday,True,8,Z012,Koramangala 4B,12.9352,77.6245,88618925c5fffff,sports,10000,1.42,3.0,6,14,Bangalore
+EVT079,IIM Bangalore Convocation,2024-03-30,Saturday,True,3,Z011,Koramangala 1B,12.9279,77.6271,88618925cdfffff,college_fest,5000,1.3,1.0,10,9,Bangalore
+EVT080,IISc Tech Fest Day 1,2024-02-03,Saturday,True,2,Z040,Malleswaram,13.0035,77.5673,8860145b07fffff,college_fest,8000,1.32,1.0,10,9,Bangalore
+EVT081,IISc Tech Fest Day 2,2024-02-04,Sunday,True,2,Z040,Malleswaram,13.0035,77.5673,8860145b07fffff,college_fest,8000,1.3,1.0,10,9,Bangalore
+EVT082,Christ University Fest,2024-02-22,Thursday,False,2,Z013,Koramangala 6B,12.9255,77.6188,88618925c1fffff,college_fest,6000,1.28,1.0,10,9,Bangalore
+EVT083,BITS Pilani Bangalore Fest,2024-03-14,Thursday,False,3,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,college_fest,5000,1.25,1.0,10,9,Bangalore
+EVT084,PES University Tech Fest,2024-09-13,Friday,False,9,Z051,Outer Ring Road East,12.9352,77.6869,8861892093fffff,college_fest,4000,1.22,1.0,10,9,Bangalore
+EVT085,BMS College Fest,2024-01-25,Thursday,False,1,Z027,Basavanagudi,12.9422,77.5757,8861892597fffff,college_fest,5000,1.25,1.0,10,9,Bangalore
+EVT086,RV College Cultural,2024-02-08,Thursday,False,2,Z020,Jayanagar 4B,12.9252,77.5838,8861892599fffff,college_fest,4000,1.2,1.0,10,9,Bangalore
+EVT087,RVCE Tech Fest,2024-03-21,Thursday,False,3,Z020,Jayanagar 4B,12.9252,77.5838,8861892599fffff,college_fest,5000,1.22,1.0,10,9,Bangalore
+EVT088,NMIMS Bangalore MBA Fest,2024-08-30,Friday,False,8,Z011,Koramangala 1B,12.9279,77.6271,88618925cdfffff,college_fest,3000,1.18,1.0,10,9,Bangalore
+EVT089,Big Billion Days Bangalore,2024-10-08,Tuesday,False,10,Z147,Forum Mall Koramangala,12.9305,77.6263,8861892513fffff,shopping,80000,1.6,2.0,14,10,Bangalore
+EVT090,Amazon Great Indian Sale,2024-01-13,Saturday,True,1,Z149,Garuda Mall,12.972,77.608,8861892ed7fffff,shopping,60000,1.45,2.0,14,10,Bangalore
+EVT091,Namma Ooru Habba D1,2024-12-06,Friday,False,12,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,shopping,30000,1.5,2.0,14,10,Bangalore
+EVT092,Namma Ooru Habba D2,2024-12-07,Saturday,True,12,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,shopping,35000,1.55,2.0,14,10,Bangalore
+EVT093,Namma Ooru Habba D3,2024-12-08,Sunday,True,12,Z002,Brigade Road,12.9716,77.608,88618925a5fffff,shopping,40000,1.6,2.0,14,10,Bangalore
+EVT094,UB City Art Festival,2024-11-15,Friday,False,11,Z148,UB City Mall,12.9716,77.5964,8860145b4dfffff,shopping,15000,1.38,2.0,14,10,Bangalore
+EVT095,Lulu Mall Opening,2024-07-20,Saturday,True,7,Z031,Hebbal,13.0353,77.5971,8861892c8bfffff,shopping,50000,1.7,2.0,14,10,Bangalore
+EVT096,Decathlon Fest,2024-04-06,Saturday,True,4,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,shopping,10000,1.3,2.0,14,10,Bangalore
+EVT097,Metro Purple Line Extension,2024-06-01,Saturday,True,6,Z001,Whitefield Station,12.9756,77.6097,8861892e9bfffff,infra,0,1.25,3.0,24,0,Bangalore
+EVT098,Outer Ring Road Blockage,2024-03-11,Monday,False,3,Z051,Outer Ring Road East,12.9352,77.6869,8861892093fffff,infra,0,1.4,3.0,24,0,Bangalore
+EVT099,Silk Board Junction Work,2024-05-20,Monday,False,5,Z015,HSR Layout Sec 1,12.9116,77.6389,8861892421fffff,infra,0,1.45,3.0,24,0,Bangalore
+EVT100,Hebbal Flyover Repair,2024-08-12,Monday,False,8,Z031,Hebbal,13.0353,77.5971,8861892c8bfffff,infra,0,1.35,3.0,24,0,Bangalore
+EVT101,NICE Road Tollgate Issue,2024-09-03,Tuesday,False,9,Z078,Electronic City Phase 1,12.8399,77.677,886189266bfffff,infra,0,1.3,3.0,24,0,Bangalore
+EVT102,Tumkur Road Widening,2024-10-14,Monday,False,10,Z077,Tumkur Road,13.05,77.51,88601459e9fffff,infra,0,1.28,3.0,24,0,Bangalore
+EVT103,Bangalore Food Fest D1,2024-01-19,Friday,False,1,Z061,Indiranagar 12th Main,12.9718,77.6412,8861892ecbfffff,food_fest,8000,1.4,1.5,8,11,Bangalore
+EVT104,Bangalore Food Fest D2,2024-01-20,Saturday,True,1,Z061,Indiranagar 12th Main,12.9718,77.6412,8861892ecbfffff,food_fest,8000,1.38,1.5,8,11,Bangalore
+EVT105,Bangalore Food Fest D3,2024-01-21,Sunday,True,1,Z061,Indiranagar 12th Main,12.9718,77.6412,8861892ecbfffff,food_fest,6000,1.35,1.5,8,11,Bangalore
+EVT106,Brew & Barbecue Fest,2024-02-17,Saturday,True,2,Z012,Koramangala 4B,12.9352,77.6245,88618925c5fffff,food_fest,5000,1.32,1.5,8,11,Bangalore
+EVT107,Bangalore Beer Festival,2024-03-09,Saturday,True,3,Z061,Indiranagar 12th Main,12.9718,77.6412,8861892ecbfffff,food_fest,7000,1.38,1.5,8,11,Bangalore
+EVT108,Street Food Carnival,2024-07-13,Saturday,True,7,Z002,Brigade Road,12.9716,77.608,88618925a5fffff,food_fest,6000,1.35,1.5,8,11,Bangalore
+EVT109,Organic Farmers Market,2024-04-14,Sunday,True,4,Z028,Lalbagh,12.9507,77.5848,88618925bbfffff,food_fest,3000,1.18,1.5,8,11,Bangalore
+EVT110,Wine & Dine Bangalore,2024-11-23,Saturday,True,11,Z148,UB City Mall,12.9716,77.5964,8860145b4dfffff,food_fest,4000,1.28,1.5,8,11,Bangalore
+EVT111,New Year 2024 Countdown,2024-01-01,Monday,False,1,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,festival,90000,2.2,4.0,12,6,Bangalore
+EVT112,Valentine Day Bangalore,2024-02-14,Wednesday,False,2,Z002,Brigade Road,12.9716,77.608,88618925a5fffff,festival,25000,1.45,4.0,12,6,Bangalore
+EVT113,Women Day March,2024-03-08,Friday,False,3,Z001,MG Road,12.9756,77.6097,8861892e9bfffff,festival,15000,1.3,4.0,12,6,Bangalore
+EVT114,Earth Hour Bangalore,2024-03-23,Saturday,True,3,Z005,Cubbon Park,12.9793,77.5921,8860145b41fffff,festival,8000,1.15,4.0,12,6,Bangalore
+EVT115,World Music Day,2024-06-21,Friday,False,6,Z061,Indiranagar 12th Main,12.9718,77.6412,8861892ecbfffff,festival,12000,1.42,4.0,12,6,Bangalore
+EVT116,Raksha Bandhan,2024-08-19,Monday,False,8,Z009,City Market,12.9634,77.576,8860145b59fffff,festival,20000,1.38,4.0,12,6,Bangalore
+EVT117,Onam Celebration,2024-09-15,Sunday,True,9,Z012,Koramangala 4B,12.9352,77.6245,88618925c5fffff,festival,15000,1.35,4.0,12,6,Bangalore
+EVT118,Durga Puja Bangalore,2024-10-11,Friday,False,10,Z007,Shivajinagar,12.985,77.6002,8861892e93fffff,festival,25000,1.5,4.0,12,6,Bangalore
+EVT119,Guru Nanak Jayanti,2024-11-15,Friday,False,11,Z007,Shivajinagar,12.985,77.6002,8861892e93fffff,festival,18000,1.35,4.0,12,6,Bangalore
+EVT120,Eid ul Adha,2024-06-17,Monday,False,6,Z009,City Market,12.9634,77.576,8860145b59fffff,festival,30000,1.55,4.0,12,6,Bangalore
+EVT121,Good Friday,2024-03-29,Friday,False,3,Z004,Church Street,12.9757,77.6065,8861892e91fffff,festival,12000,1.3,4.0,12,6,Bangalore
+EVT122,Easter Sunday,2024-03-31,Sunday,True,3,Z004,Church Street,12.9757,77.6065,8861892e91fffff,festival,15000,1.35,4.0,12,6,Bangalore
+EVT123,Karnataka Budget Day,2024-02-16,Friday,False,2,Z006,Vidhana Soudha,12.9794,77.5913,8860145b45fffff,govt_event,5000,1.25,3.0,8,9,Bangalore
+EVT124,Lok Sabha Election Day BLR,2024-04-26,Friday,False,4,Z007,Shivajinagar,12.985,77.6002,8861892e93fffff,govt_event,200000,1.2,3.0,8,9,Bangalore
+EVT125,PM Modi Visit Bangalore,2024-03-12,Tuesday,False,3,Z006,Vidhana Soudha,12.9794,77.5913,8860145b45fffff,govt_event,50000,1.35,3.0,8,9,Bangalore
+EVT126,Invest Karnataka Summit D1,2024-02-12,Monday,False,2,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,govt_event,10000,1.4,3.0,8,9,Bangalore
+EVT127,Invest Karnataka Summit D2,2024-02-13,Tuesday,False,2,Z047,Whitefield Phase 1,12.9698,77.7499,88618921d1fffff,govt_event,10000,1.38,3.0,8,9,Bangalore
+EVT128,Aero India 2024 Day 1,2024-02-19,Monday,False,2,Z046,Aerospace Park,13.202,77.701,886016900dfffff,govt_event,50000,1.65,3.0,8,9,Bangalore
+EVT129,Aero India 2024 Day 2,2024-02-20,Tuesday,False,2,Z046,Aerospace Park,13.202,77.701,886016900dfffff,govt_event,45000,1.62,3.0,8,9,Bangalore
+EVT130,Aero India 2024 Day 3,2024-02-21,Wednesday,False,2,Z046,Aerospace Park,13.202,77.701,886016900dfffff,govt_event,40000,1.58,3.0,8,9,Bangalore
+EVT131,Aero India 2024 Day 4,2024-02-22,Thursday,False,2,Z046,Aerospace Park,13.202,77.701,886016900dfffff,govt_event,35000,1.55,3.0,8,9,Bangalore
+EVT132,Aero India 2024 Day 5,2024-02-23,Friday,False,2,Z046,Aerospace Park,13.202,77.701,886016900dfffff,govt_event,30000,1.5,3.0,8,9,Bangalore
