@@ -25,11 +25,17 @@ This system replaces that with a data engine.
 ## 🏗️ System Architecture
 
 Raw Data (6 datasets, 511K rows)
+
 ↓
+
 PostgreSQL 17 (6 tables, 12 indexes)
+
 ↓
+
 SQL Analytical Layer (12 business queries)
+
 ↓
+
 ┌─────────────────────────────────────┐
 │  Spatial Engine   │  ML Engine      │
 │  H3 Hexagonal     │  XGBoost +      │
@@ -39,7 +45,9 @@ SQL Analytical Layer (12 business queries)
 │  Gradient         │  Charging       │
 │  Boosting         │  Windows        │
 └─────────────────────────────────────┘
+
 ↓
+
 ┌──────────────────────────────────┐
 │  Power BI    │  Streamlit  │  Excel  │
 │  Dashboard   │  Live App   │  Report │
@@ -161,9 +169,11 @@ Every cell is equidistant from its 6 neighbors - geometrically accurate demand m
 
 urban-mobility-intelligence-bangalore/
 │
+│
 ├── data/
 │   ├── raw/                    # 6 generated datasets
 │   ├── processed/              # Cleaned + enriched outputs
+│
 │
 ├── notebooks/
 │   ├── 01_data_generation.ipynb
@@ -172,6 +182,7 @@ urban-mobility-intelligence-bangalore/
 │   ├── 04_forecasting.ipynb
 │   ├── 05_ml_model.ipynb
 │   └── 06_excel_export.ipynb
+│
 │
 ├── sql/
 │   ├── 01_schema_create.sql
@@ -187,18 +198,23 @@ urban-mobility-intelligence-bangalore/
 │   ├── 11_cohort_zone_performance.sql
 │   └── 12_executive_summary_view.sql
 │
+│
 ├── outputs/
 │   ├── maps/                   # 4 interactive HTML maps
 │   ├── charts/                 # 10 Plotly charts
 │   └── excel/                  # Executive Excel report
 │
+│
 ├── dashboard/
 │   └── RapidoIQ_Fleet_Intelligence_Dashboard.pbix
+│
 │
 ├── app/
 │   └── streamlit_app.py
 │
+│
 ├── requirements.txt
+│
 └── README.md
 
 ---
